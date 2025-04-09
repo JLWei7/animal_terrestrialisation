@@ -11,6 +11,11 @@ We compiled 154 genome samplings from published project uploaded in UniProt, NCB
 ## Quality check
 We use [BUSCO](https://busco.ezlab.org/) to check completeness of the genomes, with database *eukaryota_odb10* for these three unicells genomes, and *metazoa_odb10* for all other metazoan genomes.
 
+## Rename the gene headers
+Add the four letters headers to all genomes.
+
+`for file in *.fasta; do sed -i "s/>/>$(basename "$file" .fasta)_/g" "$file"; done`
+
 ## Homology groups (HG) inference
 For homology groups inference, we run Orthofinder2
 

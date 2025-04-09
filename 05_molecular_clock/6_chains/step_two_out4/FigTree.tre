@@ -1,0 +1,253 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=151;
+	taxlabels
+	Acal
+	Acar
+	Aequ
+	Aful
+	Ajap
+	Amis
+	Anan
+	Anas
+	Anja
+	Aque
+	Aric
+	Arub
+	Asin
+	Aste
+	Bbom
+	Bbuf
+	Bcal
+	Bgla
+	Blan
+	Bner
+	Bpec
+	Care
+	Caug
+	Cele
+	Cgig
+	Cint
+	Clup
+	Cmil
+	Cmyd
+	Cpic
+	Cpla
+	Cpor
+	Cqua
+	Cscu
+	Cser
+	Ctel
+	Ctig
+	Cuni
+	Dapu
+	Dcar
+	Dcor
+	Deco
+	Dgal
+	Dgyr
+	Dmag
+	Dmel
+	Dpol
+	Dpte
+	Dpul
+	Drer
+	Dsil
+	Dste
+	Eaff
+	Eand
+	Ebro
+	Ebur
+	Echl
+	Emac
+	Emue
+	Gaeg
+	Ggal
+	Ggan
+	Gmae
+	Gmag
+	Gser
+	Hali
+	Hame
+	Hazt
+	Hexe
+	Hhan
+	Hhol
+	Hman
+	Hmed
+	Hmia
+	Hrob
+	Hrub
+	Hsap
+	Hvul
+	Iele
+	Lana
+	Lcha
+	Leri
+	Lgig
+	Llon
+	Lluy
+	Lpol
+	Mcal
+	Mcor
+	Mdom
+	Mlei
+	Mlig
+	Mmer
+	Muni
+	Mvul
+	Myes
+	Npar
+	Nstr
+	Nvec
+	Oana
+	Obim
+	Oida
+	Olat
+	Onil
+	Pann
+	Paus
+	Pcau
+	Pchi
+	Pcla
+	Pcro
+	Pdav
+	Pech
+	Pesc
+	Pmag
+	Pmeg
+	Pmod
+	Popi
+	Ppac
+	Ppel
+	Ppol
+	Pred
+	Psam
+	Psin
+	Ptep
+	Pwal
+	Rbiv
+	Rhab
+	Rimm
+	Rota
+	Rsoc
+	Rsor
+	Rtem
+	Rvar
+	Sbom
+	Skow
+	Smar
+	Smed
+	Sorb
+	Spha
+	Spur
+	Tadh
+	Tcal
+	Tcar
+	Tcas
+	Tgut
+	Tqin
+	Trub
+	Ttru
+	Tuco
+	Xlae
+	Xtro
+	Znev
+;
+end;
+
+begin trees;
+	tree _1 = [&U] ((Aque:5.388637,Emue:5.388637)[&95%HPD={5.15006,5.66709}]:0.641268,((((((((((((((((((Dapu:0.074423,Dpul:0.074423)[&95%HPD={0.0117996,0.165658},!rotate=true]:0.326326,Dgal:0.400749)[&95%HPD={0.100103,0.817304},!rotate=true]:0.427998,Dmag:0.828747)[&95%HPD={0.298693,1.52702},!rotate=true]:3.998921,(((((Tcas:2.345887,Dmel:2.345887)[&95%HPD={1.08556,3.69919}]:1.335037,Znev:3.680925)[&95%HPD={3.15524,4.23132},!rotate=true]:0.473723,Iele:4.154647)[&95%HPD={4.05002,4.35118},!rotate=true]:0.315709,Caug:4.470357)[&95%HPD={4.21946,4.73608},!rotate=true]:0.15572,Tqin:4.626076)[&95%HPD={4.36946,4.87644},!rotate=true]:0.201592)[&95%HPD={4.58594,5.03282},!rotate=false]:0.212657,((Ppol:4.198701,((Hazt:2.191047,Anas:2.191047)[&95%HPD={0.899874,3.63127},!rotate=true]:0.614196,(((Pcla:0.517298,Cqua:0.517298)[&95%HPD={0.145145,0.972099}]:0.287241,Hame:0.804539)[&95%HPD={0.313302,1.33818},!rotate=true]:0.586668,Pchi:1.391207)[&95%HPD={0.557052,2.20622},!rotate=true]:1.414037)[&95%HPD={1.43293,4.02786},!rotate=true]:1.393457)[&95%HPD={3.41719,4.7822}]:0.460597,(Eaff:3.049524,Tcal:3.049524)[&95%HPD={1.20766,4.41478}]:1.609774)[&95%HPD={4.24318,5.01841},!rotate=true]:0.381027)[&95%HPD={4.97002,5.12013},!rotate=true]:0.133064,Dste:5.173388)[&95%HPD={5.14,5.22422},!rotate=true]:0.101681,((Smar:3.271318,Rimm:3.271318)[&95%HPD={1.22622,4.62763}]:1.418688,(Hhol:3.626591,Gmae:3.626591)[&95%HPD={1.49978,4.78687},!rotate=true]:1.063416)[&95%HPD={4.02775,5.2186},!rotate=true]:0.585063)[&95%HPD={5.2186,5.31971},!rotate=true]:0.093264,((((Ptep:3.928009,Cscu:3.928009)[&95%HPD={3.18457,4.78618},!rotate=true]:0.681766,((Dpte:3.568191,Dsil:3.568191)[&95%HPD={2.36854,4.48793}]:0.650343,Popi:4.218534)[&95%HPD={3.55841,4.7774},!rotate=true]:0.391242)[&95%HPD={4.35155,4.89694},!rotate=true]:0.177797,Lpol:4.787572)[&95%HPD={4.46708,5.09027},!rotate=true]:0.406567,Nstr:5.19414)[&95%HPD={5.09002,5.31556},!rotate=true]:0.174193)[&95%HPD={5.27799,5.45969},!rotate=true]:0.099524,Ebro:5.467857)[&95%HPD={5.36932,5.57143},!rotate=true]:0.064632,(Hexe:1.876385,Rvar:1.876385)[&95%HPD={0.603081,4.24409}]:3.656105)[&95%HPD={5.4338,5.63526},!rotate=true]:0.049494,(((Hali:4.546885,((Cele:1.876382,Dcor:1.876382)[&95%HPD={0.764767,3.58743},!rotate=true]:1.311729,Ppac:3.188111)[&95%HPD={1.49761,4.32573},!rotate=true]:1.358774)[&95%HPD={3.97097,5.22821}]:0.183164,Psam:4.730049)[&95%HPD={4.2184,5.34084},!rotate=true]:0.006326,((Anan:3.627324,(Pred:1.648985,Pdav:1.648985)[&95%HPD={0.666674,3.37716}]:1.978339)[&95%HPD={2.57555,4.76087}]:0.653,Rhab:4.280324)[&95%HPD={3.47027,5.071},!rotate=true]:0.456051)[&95%HPD={4.21909,5.33893}]:0.845609)[&95%HPD={5.48419,5.67861},!rotate=true]:0.069074,(Tuco:2.997416,Pcau:2.997416)[&95%HPD={0.932621,4.84731},!rotate=true]:2.653642)[&95%HPD={5.56075,5.74054},!rotate=true]:0.078268,(((((((((Pech:0.78022,Lluy:0.78022)[&95%HPD={0.157082,1.55315},!rotate=true]:4.072443,(Ctel:4.481819,((Eand:1.400191,Mvul:1.400191)[&95%HPD={0.379844,2.7049}]:2.252863,((Hman:0.742335,Hmed:0.742335)[&95%HPD={0.192761,1.39784}]:1.40057,Hrob:2.142906)[&95%HPD={1.10326,3.72224},!rotate=true]:1.510148)[&95%HPD={2.62749,4.64471}]:0.828765)[&95%HPD={3.89577,5.0434},!rotate=false]:0.370844)[&95%HPD={4.36793,5.21467},!rotate=false]:0.348583,Dgyr:5.201245)[&95%HPD={5.14,5.29732},!rotate=true]:0.10635,Pesc:5.307595)[&95%HPD={5.19135,5.42152},!rotate=true]:0.130863,Llon:5.438457)[&95%HPD={5.32478,5.54616},!rotate=false]:0.100368,((((((Mcor:3.712616,((((Aful:0.805947,(Cuni:0.555599,Oida:0.555599)[&95%HPD={0.184052,0.952337}]:0.250348)[&95%HPD={0.3925,1.27112}]:0.386851,Bgla:1.192798)[&95%HPD={0.689396,1.71918},!rotate=true]:0.250499,Echl:1.443297)[&95%HPD={0.859799,2.09362},!rotate=true]:0.303186,Acal:1.746483)[&95%HPD={1.05547,2.59695},!rotate=true]:1.966133)[&95%HPD={2.81253,4.63095}]:0.815542,((Gaeg:1.6585,Gmag:1.6585)[&95%HPD={0.540347,3.66415},!rotate=true]:0.07285,Hrub:1.73135)[&95%HPD={0.625216,3.756},!rotate=true]:2.796808)[&95%HPD={3.94467,5.06503},!rotate=true]:0.353376,(Lgig:1.394217,Ppel:1.394217)[&95%HPD={0.351267,3.40918}]:3.487316)[&95%HPD={4.70202,5.13291},!rotate=true]:0.460499,((Mmer:1.74369,Dpol:1.74369)[&95%HPD={0.326841,3.96252},!rotate=true]:2.910214,((Cgig:2.9988,Myes:2.9988)[&95%HPD={0.930335,4.43164},!rotate=true]:0.488,Mcal:3.4868)[&95%HPD={1.34999,4.74647},!rotate=true]:1.167104)[&95%HPD={3.68901,5.27456}]:0.688128)[&95%HPD={5.32,5.38281},!rotate=true]:0.064381,(Obim:1.726337,Spha:1.726337)[&95%HPD={0.400403,4.10119}]:3.680076)[&95%HPD={5.34788,5.46738},!rotate=true]:0.055387,Hhan:5.4618)[&95%HPD={5.3935,5.53653},!rotate=true]:0.077025)[&95%HPD={5.46304,5.61859}]:0.043366,((Paus:4.496797,Lana:4.496797)[&95%HPD={3.35067,5.37976},!rotate=true]:0.604581,Bner:5.101378)[&95%HPD={4.31001,5.57445}]:0.480813)[&95%HPD={5.5032,5.6605},!rotate=true]:0.051298,(Mlig:4.433484,(Smed:3.749056,Pcro:3.749056)[&95%HPD={2.40758,5.0186},!rotate=true]:0.684428)[&95%HPD={3.33693,5.29413}]:1.200005)[&95%HPD={5.55427,5.71267},!rotate=true]:0.045856,(((Dcar:1.25371,(Rsoc:0.708925,(Rsor:0.427824,Rota:0.427824)[&95%HPD={0.101709,0.811759}]:0.281101)[&95%HPD={0.281822,1.17345}]:0.544785)[&95%HPD={0.746199,1.76183}]:0.040606,(Aric:0.924072,Aste:0.924072)[&95%HPD={0.348275,1.5093}]:0.370244)[&95%HPD={0.783745,1.80862},!rotate=true]:2.898374,Bcal:4.19269)[&95%HPD={3.20818,5.25728},!rotate=true]:1.486655)[&95%HPD={5.60768,5.75871},!rotate=true]:0.04998)[&95%HPD={5.66147,5.80237},!rotate=true]:0.047541,(((((((((((Oana:1.810637,(((Clup:0.312998,Ttru:0.312998)[&95%HPD={0.0584764,0.634084}]:0.121229,Hsap:0.434227)[&95%HPD={0.140711,0.829284},!rotate=true]:0.855422,Mdom:1.289649)[&95%HPD={0.565924,1.82812},!rotate=true]:0.520988)[&95%HPD={1.64103,2.15345}]:1.430919,(((((Cser:0.226274,((Care:0.066011,Cmyd:0.066011)[&95%HPD={0.0132391,0.130285}]:0.056133,Deco:0.122144)[&95%HPD={0.0438773,0.214388},!rotate=true]:0.10413)[&95%HPD={0.0911616,0.346127},!rotate=true]:0.023171,(Pmeg:0.179472,(Tcar:0.120946,Cpic:0.120946)[&95%HPD={0.0331651,0.220577}]:0.058525)[&95%HPD={0.0744969,0.287917}]:0.069974)[&95%HPD={0.108308,0.366055}]:0.212889,Psin:0.462335)[&95%HPD={0.182973,0.806729},!rotate=true]:0.61967,(((Amis:0.159167,Asin:0.159167)[&95%HPD={0.0360573,0.317114}]:0.136467,(Ggan:0.148623,Cpor:0.148623)[&95%HPD={0.0311576,0.296296},!rotate=true]:0.14701)[&95%HPD={0.108077,0.507592}]:0.564623,(Tgut:0.438365,Ggal:0.438365)[&95%HPD={0.115588,0.818167},!rotate=true]:0.421891)[&95%HPD={0.405638,1.41605}]:0.221748)[&95%HPD={0.567498,1.70118}]:0.316734,(Emac:0.823779,(Ctig:0.603936,Acar:0.603936)[&95%HPD={0.175359,1.0938},!rotate=true]:0.219842)[&95%HPD={0.337843,1.36582}]:0.57496)[&95%HPD={0.767041,2.13245},!rotate=true]:1.842817)[&95%HPD={3.18,3.31752},!rotate=true]:0.207407,((Rbiv:0.769207,(Gser:0.371489,Muni:0.371489)[&95%HPD={0.0648969,0.802679}]:0.397718)[&95%HPD={0.252584,1.45169}]:1.340753,((Bbom:1.155622,((Xtro:0.357892,Xlae:0.357892)[&95%HPD={0.072174,0.733739}]:0.638893,(((Npar:0.312365,Rtem:0.312365)[&95%HPD={0.0795904,0.583723}]:0.282003,Bbuf:0.594368)[&95%HPD={0.252362,0.989165},!rotate=true]:0.260108,Sbom:0.854476)[&95%HPD={0.449343,1.34061},!rotate=true]:0.142309)[&95%HPD={0.573799,1.51327}]:0.158838)[&95%HPD={0.683517,1.70812}]:0.682885,Pwal:1.838507)[&95%HPD={1.11738,3.33928},!rotate=true]:0.271453)[&95%HPD={1.29896,3.43958}]:1.339003)[&95%HPD={3.37654,3.51155},!rotate=true]:0.42464,Pann:3.873603)[&95%HPD={3.55579,4.21378},!rotate=true]:0.166575,Lcha:4.040178)[&95%HPD={3.70606,4.32712},!rotate=true]:0.27314,(((Sorb:0.767376,((Pmag:0.159723,Pmod:0.159723)[&95%HPD={0.0341421,0.327374}]:0.141248,Bpec:0.30097)[&95%HPD={0.104787,0.538477},!rotate=true]:0.466406)[&95%HPD={0.360736,1.27018}]:0.179776,(Trub:0.824841,(Onil:0.641457,Olat:0.641457)[&95%HPD={0.231871,1.13734}]:0.183383)[&95%HPD={0.358022,1.30441}]:0.122312)[&95%HPD={0.485025,1.46405}]:0.760343,Drer:1.707496)[&95%HPD={0.909267,3.43172},!rotate=true]:2.605822)[&95%HPD={4.20712,4.43128},!rotate=true]:0.190533,(Cmil:1.486746,(Cpla:0.789455,Leri:0.789455)[&95%HPD={0.17093,1.5172},!rotate=true]:0.697291)[&95%HPD={0.58552,3.34659}]:3.017105)[&95%HPD={4.34355,4.682},!rotate=true]:0.544195,Ebur:5.048046)[&95%HPD={4.97,5.19494},!rotate=true]:0.276465,Cint:5.324511)[&95%HPD={5.17326,5.48087},!rotate=true]:0.184665,Blan:5.509176)[&95%HPD={5.35408,5.65873},!rotate=true]:0.15536,(Skow:5.442033,((Arub:4.323128,(Spur:3.500853,Ajap:3.500853)[&95%HPD={1.31439,4.73288},!rotate=true]:0.822275)[&95%HPD={3.2298,5.15638},!rotate=true]:0.865835,Anja:5.188963)[&95%HPD={5.09001,5.34859},!rotate=true]:0.25307)[&95%HPD={5.25268,5.60825},!rotate=false]:0.222503)[&95%HPD={5.55263,5.76867},!rotate=true]:0.11233)[&95%HPD={5.70995,5.84351}]:0.042672,Hmia:5.819539)[&95%HPD={5.75647,5.88755},!rotate=true]:0.039848,((Nvec:2.343285,Aequ:2.343285)[&95%HPD={0.535409,4.6826}]:3.319326,Hvul:5.662611)[&95%HPD={5.61101,5.74307},!rotate=false]:0.196776)[&95%HPD={5.79667,5.92186},!rotate=true]:0.036385,Tadh[&!rotate=false]:5.895771)[&95%HPD={5.84173,5.96112},!rotate=true]:0.037747,Mlei:5.933518)[&95%HPD={5.88809,5.99803},!rotate=true]:0.096388)[&95%HPD={5.93172,6.10353}];
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName=".AppleSystemUIFont";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=366;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute="95%HPD";
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName=".AppleSystemUIFont";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName=".AppleSystemUIFont";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

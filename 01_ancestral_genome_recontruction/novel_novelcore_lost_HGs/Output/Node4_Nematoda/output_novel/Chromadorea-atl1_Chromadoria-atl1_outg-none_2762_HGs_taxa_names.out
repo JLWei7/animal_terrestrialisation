@@ -1,0 +1,2762 @@
+HG_53487 	Cele	OG00	Ppac	Pred	Psam	Rhab
+HG_56263 	Hali	OG00	Pdav	Pred	Psam
+HG_51519 	Anan	Dcor	OG00	Ppac	Psam
+HG_116296 	Hali	OG01	Pred
+HG_48408 	Hali	OG00	Pdav	Pred
+HG_10755 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_51486 	Anan	Hali	OG00	Pdav	Pred
+HG_53382 	Cele	Dcor	Hali	OG00	Pred
+HG_51414 	Anan	Hali	OG00	Pdav	Pred
+HG_14073 	Anan	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_47423 	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_46543 	Cele	Hali	OG00	Ppac	Pred	Psam
+HG_84498 	Hali	OG00	Pred
+HG_44783 	Anan	Hali	OG00	Pdav	Pred
+HG_84426 	Hali	OG00	Pdav	Pred
+HG_39704 	Anan	Cele	OG00	Ppac	Pred	Psam	Rhab
+HG_39671 	Anan	Hali	OG00	Pdav	Ppac	Pred
+HG_84393 	Hali	OG00	Pdav	Pred
+HG_74778 	Anan	Hali	OG00
+HG_35638 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_74673 	Anan	OG00	Psam
+HG_29646 	Anan	OG00	Psam
+HG_41251 	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_29710 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_27509 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25749 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27476 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_25813 	Anan	Cele	Dcor	OG00	Ppac	Pred	Rhab
+HG_32178 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_30515 	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_27404 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_32106 	Anan	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_116213 	Hali	OG01	Pdav
+HG_28420 	Dcor	OG00	Pdav
+HG_25780 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32242 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_97965 	Anan	Hali	OG00
+HG_22932 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32073 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_21747 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_15924 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_60951 	Anan	Hali	OG00	Pdav
+HG_63117 	Cele	OG00	Pred
+HG_60782 	Anan	Hali	OG00	Pdav	Pred
+HG_14875 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_54823 	Dcor	OG00	Pdav	Psam
+HG_60710 	Anan	Dcor	OG00	Psam
+HG_98330 	Anan	OG00	Psam
+HG_19073 	Anan	Hali	OG00	Ppac	Pred	Rhab
+HG_56245 	Hali	OG00	Pdav	Pred
+HG_116224 	Hali	OG01	Pred
+HG_48421 	Hali	OG00	Pdav	Pred
+HG_46525 	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_91078 	OG00	Ppac	Pred
+HG_39589 	Anan	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_39653 	Anan	Cele	Dcor	OG00	Pred	Psam	Rhab
+HG_43475 	OG00	Ppac	Pred
+HG_74896 	Anan	Hali	OG00	Pred
+HG_35587 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam
+HG_29628 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_35515 	Anan	Hali	OG00	Pdav	Pred
+HG_35651 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_29523 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_67783 	Hali	OG00	Pdav
+HG_27458 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_25698 	Anan	Cele	Dcor	OG00	Pdav	Pred	Psam	Rhab
+HG_28169 	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_32296 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_116235 	Hali	OG01	Pred
+HG_65646 	Dcor	Hali	OG00	Pred
+HG_27522 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_34192 	Hali	OG00	Pdav	Pred
+HG_25762 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_22914 	Anan	OG00	Pdav	Pred	Psam
+HG_60869 	Anan	OG00	Psam
+HG_32191 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_60933 	Anan	Hali	OG00	Pdav	Pred
+HG_17802 	Anan	Hali	OG00	Pdav	Pred
+HG_54877 	Dcor	OG00	Pdav
+HG_16753 	Anan	OG00	Psam
+HG_21760 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_15801 	OG00	Psam	Rhab
+HG_56299 	Hali	OG00	Pdav
+HG_17223 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_51619 	Anan	Hali	OG00	Pred	Rhab
+HG_11904 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_51586 	Anan	Hali	OG00	Pdav	Pred
+HG_14342 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_90518 	OG00	Pdav	Psam
+HG_53482 	Cele	Dcor	OG00	Pdav	Ppac
+HG_51514 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_46507 	Cele	Dcor	OG00	Pdav	Pred
+HG_44747 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_44883 	Anan	Hali	OG00	Pred	Psam	Rhab
+HG_46474 	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_84526 	Hali	OG00	Pdav
+HG_36995 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_84493 	Hali	OG00	Pred	Psam
+HG_80934 	Dcor	OG00	Pdav
+HG_74878 	Anan	OG00	Psam
+HG_35569 	Anan	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_41287 	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_35633 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_35464 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_29505 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_67765 	Hali	OG00	Pred	Psam
+HG_27576 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_32278 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred
+HG_116257 	Hali	OG01	Pdav
+HG_27504 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_32206 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_25744 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_27471 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32173 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred
+HG_30510 	Cele	OG00	Rhab
+HG_32101 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_60915 	Anan	Hali	OG00	Pdav	Pred
+HG_63289 	Cele	OG00	Pdav	Pred
+HG_24285 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_18398 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_12838 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_16325 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_20452 	Hali	OG00	Pdav	Pred
+HG_7650 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_116268 	Hali	OG01	Pred
+HG_116180 	Hali	OG01	Pdav
+HG_44865 	Anan	Cele	OG00	Ppac	Psam
+HG_51327 	Anan	Hali	OG00
+HG_13203 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_84508 	Hali	OG00	Pred
+HG_39689 	Anan	Dcor	OG00	Rhab
+HG_39617 	Anan	OG00	Pdav	Psam	Rhab
+HG_36977 	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_44760 	Anan	OG00	Pdav	Psam
+HG_37993 	Hali	OG00	Pdav	Pred
+HG_84403 	Hali	OG00	Pdav	Pred
+HG_39584 	Anan	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_41269 	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_74755 	Anan	Hali	OG00	Pred
+HG_35615 	Anan	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_35582 	Anan	Cele	OG00	Pdav	Pred	Psam	Rhab
+HG_29695 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_35510 	Anan	Hali	OG00	Pdav	Pred	Psam
+HG_67747 	Hali	OG00	Pred
+HG_74650 	Anan	OG00	Psam
+HG_74345 	Anan	Dcor	OG00
+HG_29623 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred
+HG_27558 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25798 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_29590 	Anan	Hali	OG00	Pdav	Pred
+HG_32155 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_19903 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32291 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60728 	Anan	Dcor	OG00	Ppac
+HG_21796 	Anan	Cele	Hali	OG00	Pdav	Pred	Psam
+HG_63335 	Cele	Dcor	OG00	Pred
+HG_63230 	Cele	OG00	Ppac	Pred	Psam
+HG_56294 	Hali	OG00	Pdav	Pred
+HG_51614 	Anan	Hali	OG00	Pdav	Pred
+HG_44847 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_51581 	Anan	Hali	OG00	Pdav	Pred
+HG_116310 	Hali	OG01	Pdav
+HG_10376 	OG00	Pdav	Ppac	Psam
+HG_46502 	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_84457 	Hali	OG00	Pred	Rhab
+HG_39735 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_84521 	Hali	OG00	Pdav	Pred
+HG_39630 	Anan	Cele	Dcor	OG00	Ppac	Pred
+HG_36990 	Cele	OG00	Pdav	Psam
+HG_35428 	Anan	Cele	Dcor	OG00	Ppac
+HG_74801 	Anan	Dcor	OG00
+HG_35564 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_67729 	Hali	OG00	Pdav	Pred
+HG_29572 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_29500 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32306 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam
+HG_33394 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_67760 	Hali	OG00	Pdav	Pred
+HG_27435 	Anan	Dcor	OG00	Pdav	Pred	Psam
+HG_22899 	Anan	Cele	OG00
+HG_116321 	Hali	OG01	Pred
+HG_27571 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32273 	Anan	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_116207 	Hali	OG01	Pred
+HG_32201 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_20826 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_18426 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60910 	Anan	Hali	OG00	Pdav	Pred
+HG_20793 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_24280 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_15545 	Anan	OG00	Psam
+HG_56276 	Hali	OG00	Pdav	Pred
+HG_16320 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_51499 	Anan	OG00	Ppac	Pred	Rhab
+HG_44829 	Anan	Hali	OG00	Pred	Psam	Rhab
+HG_51563 	Anan	Cele	Dcor	OG00	Pred
+HG_116332 	Hali	OG01	Rhab
+HG_116218 	Hali	OG01	Pdav
+HG_39717 	Anan	Cele	Dcor	OG00	Ppac	Pred
+HG_44860 	Anan	Hali	OG00	Pdav	Pred	Psam
+HG_42659 	Hali	OG00	Pdav	Pred
+HG_84503 	Hali	OG00	Pdav	Pred
+HG_39684 	Anan	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_44691 	Anan	Hali	OG00	Pred
+HG_39612 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_36972 	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_84470 	Hali	OG00	Pdav	Pred
+HG_35546 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_41264 	Cele	Dcor	OG00	Pdav	Pred	Rhab
+HG_128489 	OG01	Pdav	Psam
+HG_35610 	Anan	Cele	OG00	Ppac	Pred	Psam
+HG_74445 	Anan	Dcor	OG00
+HG_29723 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_29554 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_33376 	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_25826 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_29690 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_27489 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_27553 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_24777 	Cele	Dcor	OG00	Pdav	Ppac	Pred
+HG_22945 	Anan	Cele	Dcor	Hali	OG00	Psam
+HG_97978 	Anan	OG00	Ppac
+HG_25721 	Anan	OG00	Psam
+HG_20808 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_32150 	Anan	Cele	Dcor	OG00	Ppac	Pred	Rhab
+HG_15937 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_63266 	Cele	Dcor	OG00	Ppac	Pred
+HG_60723 	Anan	Hali	OG00	Pdav
+HG_24262 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_15189 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_53546 	Cele	Dcor	OG00	Ppac	Pred
+HG_49555 	OG00	Pdav	Psam
+HG_53377 	Cele	OG00	Pdav	Ppac	Pred
+HG_46538 	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_51545 	Anan	Hali	OG00	Pdav	Pred	Psam
+HG_47418 	Dcor	OG00	Rhab
+HG_116354 	Hali	OG01	Pred
+HG_51376 	Anan	Cele	Dcor	OG00	Pred
+HG_44706 	Anan	Cele	Dcor	OG00
+HG_51440 	Anan	Cele	OG00	Pred	Psam	Rhab
+HG_84388 	Hali	OG00	Pred
+HG_39666 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_13011 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_41961 	Dcor	OG00	Pdav	Ppac	Pred	Psam
+HG_43416 	OG00	Pdav	Ppac
+HG_77990 	Cele	OG00	Pdav
+HG_84452 	Hali	OG00	Pdav
+HG_5870 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_35664 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_74732 	Anan	Hali	OG00	Pred
+HG_29705 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_35495 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_28961 	OG00	Pdav	Psam
+HG_33358 	Cele	Dcor	OG00	Pdav	Pred	Psam	Rhab
+HG_67796 	Hali	OG00	Pdav	Pred
+HG_37014 	Cele	OG00	Pdav	Pred	Psam	Rhab
+HG_29672 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_25808 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_29600 	Anan	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27535 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25775 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32237 	Anan	Hali	OG00
+HG_22927 	Anan	Hali	OG00	Pdav	Pred
+HG_25703 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam
+HG_32068 	Anan	Dcor	Hali	OG00
+HG_32301 	Anan	Hali	OG00	Pdav	Ppac	Pred
+HG_22894 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_32132 	Anan	Cele	Dcor	OG00	Ppac	Psam
+HG_15919 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60946 	Anan	OG00	Psam
+HG_60777 	Anan	Hali	OG00	Pdav	Pred
+HG_21773 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_63384 	Cele	OG00	Ppac	Psam	Rhab
+HG_98461 	Anan	OG00	Ppac
+HG_18421 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_53528 	Cele	Dcor	OG00	Pdav	Pred
+HG_51599 	Anan	Cele	OG00	Pred
+HG_53495 	Cele	OG00	Ppac	Rhab
+HG_51527 	Anan	Dcor	OG00	Psam
+HG_116174 	Hali	OG01	Pdav
+HG_48416 	Hali	OG00	Pdav
+HG_44824 	Anan	Cele	Dcor	OG00	Psam	Rhab
+HG_53390 	Cele	Dcor	OG00	Ppac	Rhab
+HG_46487 	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_39648 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred
+HG_44655 	Anan	Hali	OG00	Pred	Psam
+HG_11233 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_39712 	Anan	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_42654 	Hali	OG00	Pdav	Pred
+HG_39543 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_74819 	Anan	Hali	OG00	Pred
+HG_35646 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_74850 	Anan	Dcor	OG00
+HG_67778 	Hali	OG00	Pdav	Pred
+HG_35541 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam
+HG_29654 	Anan	Cele	Dcor	OG00	Pred	Psam
+HG_29485 	Anan	Cele	Dcor	OG00	Ppac	Rhab
+HG_34187 	Hali	OG00	Pdav	Pred	Rhab
+HG_116185 	Hali	OG01	Pred
+HG_32219 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_25757 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_22909 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_33371 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27484 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_25821 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32186 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27412 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_24772 	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_70374 	OG00	Pdav	Ppac	Psam
+HG_32114 	Anan	Cele	Dcor	Hali	OG00	Pdav	Psam	Rhab
+HG_18885 	OG00	Psam	Rhab
+HG_60928 	Anan	Cele	Dcor	OG00
+HG_32250 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_22940 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_60895 	Anan	OG00	Pred	Psam
+HG_16748 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_103911 	Cele	OG01	Rhab
+HG_20803 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60823 	Anan	Hali	OG00	Pdav
+HG_15932 	Anan	Hali	OG00	Pdav	Ppac	Pred
+HG_18403 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60654 	Anan	Hali	OG00	Pred
+HG_19081 	Anan	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_56253 	Hali	OG00	Pdav	Pred
+HG_51509 	Anan	OG00	Pdav	Pred	Psam	Rhab
+HG_91665 	OG00	Psam	Rhab
+HG_44878 	Anan	Hali	OG00	Pdav	Pred
+HG_51476 	Anan	Cele	OG00	Ppac	Psam
+HG_46533 	Cele	Dcor	OG00	Pdav	Psam
+HG_116304 	Hali	OG01	Pdav
+HG_84488 	Hali	OG00	Pdav	Pred
+HG_44701 	Anan	Hali	OG00	Pred
+HG_84416 	Hali	OG00	Pdav
+HG_91014 	OG00	Ppac	Psam	Rhab
+HG_39661 	Anan	Cele	Dcor	Hali	OG00	Pred	Rhab
+HG_11110 	Anan	Hali	OG00	Pdav	Pred
+HG_35628 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_35459 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_35523 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_41241 	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_35490 	Anan	OG00	Psam
+HG_29700 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_29531 	Anan	OG00	Psam
+HG_67791 	Hali	OG00	Pdav	Pred	Rhab
+HG_32168 	Anan	Cele	Dcor	OG00	Ppac	Rhab
+HG_28177 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_116315 	Hali	OG01	Pred
+HG_32232 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_27530 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25770 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_19883 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred
+HG_22922 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_60877 	Anan	Hali	OG00	Pred	Rhab
+HG_17810 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_16761 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60700 	Anan	Hali	OG00	Pred
+HG_60531 	Anan	OG00	Psam
+HG_51627 	Anan	Hali	OG00	Pdav	Pred	Psam
+HG_51594 	Anan	OG00	Psam
+HG_53490 	Cele	Dcor	OG00	Pred	Psam
+HG_14350 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_116326 	Hali	OG01	Pdav
+HG_46515 	Cele	Dcor	OG00	Pred	Psam	Rhab
+HG_51522 	Anan	Dcor	OG00	Pdav	Pred
+HG_44755 	Anan	Hali	OG00	Pdav	Pred
+HG_37988 	Hali	OG00	Pdav	Pred
+HG_44891 	Anan	Cele	Dcor	OG00	Ppac	Pred
+HG_39643 	Anan	OG00	Ppac	Psam
+HG_80773 	Dcor	OG00	Pdav
+HG_78237 	Cele	OG00	Pdav
+HG_74886 	Anan	Dcor	OG00
+HG_74814 	Anan	Hali	OG00	Pred
+HG_35577 	Anan	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_35505 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred
+HG_29618 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_35641 	Anan	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_67806 	Hali	OG00	Pdav	Pred
+HG_29585 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_67773 	Hali	OG00	Pdav	Pred
+HG_27448 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32286 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_28159 	Cele	Dcor	OG00	Ppac	Pred
+HG_116337 	Hali	OG01	Pred
+HG_27512 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_32214 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_26327 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25752 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_22904 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32181 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_60923 	Anan	Hali	OG00	Pdav	Pred
+HG_60754 	Anan	Cele	OG00	Ppac	Pred
+HG_60890 	Anan	Cele	Dcor	OG00	Ppac
+HG_24221 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_56289 	Hali	OG00	Pdav	Pred
+HG_51609 	Anan	Hali	OG00	Pdav	Pred
+HG_51576 	Anan	Cele	Dcor	Hali	OG00	Pred
+HG_116260 	Hali	OG01	Pred
+HG_51504 	Anan	Cele	OG00	Rhab
+HG_116348 	Hali	OG01	Pred
+HG_44737 	Anan	Cele	OG00	Ppac	Pred	Psam
+HG_44873 	Anan	OG00	Pdav	Pred	Psam	Rhab
+HG_84516 	Hali	OG00	Pdav	Pred
+HG_44801 	Anan	Hali	OG00	Pdav	Pred
+HG_90403 	OG00	Pdav	Psam
+HG_39625 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred
+HG_36985 	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_84483 	Hali	OG00	Pdav
+HG_84411 	Hali	OG00	Pdav	Pred
+HG_80891 	Dcor	OG00	Pred
+HG_74699 	Anan	Hali	OG00	Pred
+HG_41277 	Cele	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_35454 	Anan	Hali	OG00	Pdav	Pred
+HG_29567 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_28687 	Hali	OG00	Pdav	Pred
+HG_35590 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_67755 	Hali	OG00	Pdav
+HG_74353 	Anan	OG00	Psam	Rhab
+HG_29631 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_116271 	Hali	OG01	Pred
+HG_32268 	Anan	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27566 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_25734 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32099 	Anan	Cele	Hali	OG00	Pdav	Psam
+HG_27461 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_32163 	Anan	Hali	OG00	Pdav	Rhab
+HG_60905 	Anan	Cele	OG00	Pdav	Pred
+HG_63279 	Cele	OG00	Pred
+HG_19573 	Hali	OG00	Pdav	Pred
+HG_98525 	Anan	OG00	Ppac
+HG_60872 	Anan	Cele	OG00
+HG_60567 	Anan	Hali	OG00	Pred
+HG_98492 	Anan	Hali	OG00
+HG_60800 	Anan	Hali	OG00	Pdav	Pred
+HG_51558 	Anan	Hali	OG00	Pdav	Pred
+HG_12418 	Hali	OG00	Pdav	Pred
+HG_116282 	Hali	OG01	Pdav
+HG_116168 	Hali	OG01	Pred
+HG_51389 	Anan	OG00	Psam
+HG_91642 	OG00	Psam	Rhab
+HG_51622 	Anan	Cele	Dcor	OG00	Pred
+HG_39679 	Anan	Cele	Hali	OG00	Ppac	Pred
+HG_46510 	Cele	OG00	Pdav	Ppac	Pred
+HG_44750 	Anan	Cele	Hali	OG00	Pred	Rhab
+HG_84465 	Hali	OG00	Pdav	Pred
+HG_39574 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_35605 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_74881 	Anan	OG00	Psam
+HG_29549 	Anan	Cele	OG00	Pdav	Rhab
+HG_35572 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred
+HG_67737 	Hali	OG00	Pdav
+HG_35500 	Anan	OG00	Pdav	Pred	Psam	Rhab
+HG_41290 	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_27548 	Anan	OG00	Pdav	Psam
+HG_116293 	Hali	OG01	Rhab
+HG_25788 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_29580 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_32314 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_31129 	Hali	OG00	Pdav	Pred
+HG_27443 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_32145 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_32281 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_26322 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_21786 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred
+HG_17795 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_24257 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_60854 	Anan	Hali	OG00	Pdav
+HG_60685 	Anan	Hali	OG00	Pred
+HG_13826 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_15553 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60580 	Anan	Cele	Hali	OG00	Pred
+HG_56284 	Hali	OG00	Pdav	Pred
+HG_14601 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_48429 	Hali	OG00	Pdav
+HG_53436 	Cele	Dcor	OG00	Pdav	Pred
+HG_108864 	Dcor	OG01	Pdav
+HG_12672 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_51604 	Anan	Dcor	Hali	OG00	Pred
+HG_51435 	Anan	OG00	Psam
+HG_116210 	Hali	OG01	Pred
+HG_12262 	Hali	OG00	Pdav	Pred
+HG_44732 	Anan	Cele	Dcor	OG00	Ppac	Psam
+HG_41956 	Dcor	Hali	OG00	Pdav	Ppac
+HG_39725 	Anan	Cele	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_91350 	OG00	Pred	Psam
+HG_84447 	Hali	OG00	Pdav	Pred
+HG_39556 	Anan	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_84511 	Hali	OG00	Pdav
+HG_39692 	Anan	Cele	Dcor	OG00	Ppac	Pred	Rhab
+HG_39620 	Anan	Dcor	OG00	Pdav
+HG_35659 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_41305 	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_37009 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_35554 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_29667 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_29498 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_26955 	OG00	Pdav	Ppac	Pred	Rhab
+HG_28682 	Hali	OG00	Pred
+HG_33384 	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_32199 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_27497 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_67750 	Hali	OG00	Pdav	Pred
+HG_22889 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_116221 	Hali	OG01	Pred
+HG_27561 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32127 	Anan	Dcor	Hali	OG00	Pred	Psam
+HG_32263 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_116309 	Hali	OG01	Pred
+HG_21768 	Anan	Cele	Dcor	OG00	Pdav	Pred	Psam	Rhab
+HG_32094 	Anan	OG00	Psam
+HG_60836 	Anan	Hali	OG00	Pred
+HG_63307 	Cele	Dcor	OG00	Rhab
+HG_18416 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_60900 	Anan	Hali	OG00	Pred	Rhab
+HG_20783 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_63202 	Cele	Dcor	OG00	Rhab
+HG_24270 	Anan	Cele	Dcor	OG00	Pred	Psam	Rhab
+HG_60562 	Anan	Hali	OG00	Pdav
+HG_56266 	Hali	OG00	Pdav	Pred	Psam
+HG_44786 	Anan	Dcor	Hali	OG00	Pred	Psam
+HG_39707 	Anan	Cele	Dcor	OG00	Pred	Rhab
+HG_41938 	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_39674 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_39602 	Anan	Dcor	OG00	Psam
+HG_84460 	Hali	OG00	Pdav	Pred
+HG_74709 	Anan	Hali	OG00	Pred
+HG_74845 	Anan	Dcor	OG00
+HG_43391 	OG00	Pdav	Ppac	Pred
+HG_35536 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_29649 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_41254 	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_74740 	Anan	OG00	Psam
+HG_35600 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_29713 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_74435 	Anan	Hali	OG00	Pred
+HG_35431 	Anan	Cele	OG00	Pdav	Ppac	Pred
+HG_29544 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_29680 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_25816 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27479 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_67732 	Hali	OG00	Ppac	Pred	Rhab
+HG_26527 	Dcor	OG00	Pdav	Psam
+HG_27543 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_116243 	Hali	OG01	Pred
+HG_22935 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_32140 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_60954 	Anan	Hali	OG00	Pdav	Pred
+HG_21781 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_14878 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred
+HG_17790 	Anan	Hali	OG00	Pdav	Ppac	Pred
+HG_24252 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_63087 	Cele	OG00	Pred
+HG_63320 	Cele	Dcor	OG00	Pred
+HG_19076 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_60680 	Anan	OG00	Pdav	Psam
+HG_46528 	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_51535 	Anan	OG00	Pdav	Psam
+HG_116254 	Hali	OG01	Pdav
+HG_48424 	Hali	OG00	Pdav	Pred
+HG_10635 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_53431 	Cele	Dcor	OG00	Rhab
+HG_44832 	Anan	Hali	OG00	Pred
+HG_39656 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Rhab
+HG_39720 	Anan	Hali	OG00	Pred	Psam	Rhab
+HG_74899 	Anan	Hali	OG00	Pred
+HG_42662 	Hali	OG00	Pdav	Pred
+HG_74658 	Anan	Hali	OG00	Pred
+HG_35654 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_74794 	Anan	OG00	Pred	Psam
+HG_29598 	Anan	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_67786 	Hali	OG00	Pred
+HG_29662 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32299 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam
+HG_29493 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27525 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Psam
+HG_25765 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32227 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_22917 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_27492 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_32194 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_22884 	Anan	Cele	OG00	Pdav	Ppac
+HG_32122 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_27420 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60936 	Anan	Hali	OG00	Pdav	Pred
+HG_60598 	Anan	Hali	OG00	Pred
+HG_16756 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_24234 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_8377 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_18411 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_8600 	Anan	OG00	Psam
+HG_21184 	Cele	Hali	OG00	Pdav	Ppac	Pred
+HG_51589 	Anan	Hali	OG00	Pdav	Pred
+HG_20232 	Cele	Dcor	OG00	Pdav
+HG_56261 	Hali	OG00	Pdav	Pred
+HG_44886 	Anan	Cele	Dcor	OG00	Ppac	Rhab
+HG_51484 	Anan	Hali	OG00	Pdav	Pred
+HG_84529 	Hali	OG00	Pdav	Pred
+HG_91432 	OG00	Pred	Psam
+HG_14071 	Anan	Hali	OG00	Pdav	Psam	Rhab
+HG_84496 	Hali	OG00	Pdav	Pred
+HG_36998 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_44781 	Anan	Cele	Dcor	OG00	Ppac	Psam
+HG_10343 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_84424 	Hali	OG00	Pred
+HG_39702 	Anan	Dcor	OG00	Ppac	Pred	Psam
+HG_39533 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_35636 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_74840 	Anan	Hali	OG00	Pred
+HG_29508 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_35531 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_74366 	Anan	Dcor	OG00
+HG_116287 	Hali	OG01	Pred
+HG_27507 	Anan	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32209 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_74430 	Anan	Hali	OG00	Pdav
+HG_25747 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27474 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_30513 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32104 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_60918 	Anan	Cele	OG00	Pdav	Pred
+HG_32240 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_19891 	Anan	Dcor	OG00	Pdav	Ppac	Rhab
+HG_22930 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_24288 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60885 	Anan	OG00	Pdav	Pred	Psam
+HG_60813 	Anan	Hali	OG00	Ppac	Pred
+HG_60644 	Anan	Hali	OG00	Pred
+HG_60780 	Anan	Hali	OG00	Psam
+HG_22215 	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_98264 	Anan	Hali	OG00
+HG_16328 	Anan	Dcor	OG00	Pdav	Ppac	Pred	Psam
+HG_20350 	Dcor	OG00	Pred
+HG_44868 	Anan	Dcor	OG00	Ppac	Psam	Rhab
+HG_90534 	OG00	Pdav	Psam
+HG_51530 	Anan	OG00	Pdav	Psam
+HG_116204 	Hali	OG01	Pred
+HG_84478 	Hali	OG00	Pdav
+HG_37996 	Hali	OG00	Pdav	Pred
+HG_39651 	Anan	Cele	Dcor	OG00	Ppac	Pred	Rhab
+HG_35618 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_37514 	Dcor	OG00	Pdav
+HG_74894 	Anan	Hali	OG00	Pred
+HG_35585 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_35513 	Anan	Hali	OG00	Pdav	Ppac	Pred
+HG_29626 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_41231 	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_35480 	Anan	Cele	Dcor	OG00	Pdav	Pred	Rhab
+HG_25729 	Anan	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_29593 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_29521 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_27456 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_25696 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_32158 	Anan	Cele	Dcor	OG00	Pdav	Pred	Psam
+HG_19906 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_116215 	Hali	OG01	Pred
+HG_27520 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_25760 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32222 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_22912 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_23695 	Hali	OG00	Pdav	Pred
+HG_60867 	Anan	Hali	OG00	Pdav	Pred
+HG_60931 	Anan	Cele	OG00	Ppac	Psam
+HG_98382 	Anan	OG00	Psam
+HG_56297 	Hali	OG00	Pdav	Pred
+HG_51617 	Anan	Cele	Dcor	OG00	Psam
+HG_53513 	Cele	Dcor	OG00	Ppac	Pred
+HG_91468 	OG00	Pred	Psam
+HG_14340 	Anan	OG00	Psam
+HG_51584 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_116340 	Hali	OG01	Pred
+HG_44881 	Anan	Cele	Dcor	Hali	OG00	Pred
+HG_39569 	Anan	OG00	Psam
+HG_46472 	Cele	Dcor	OG00	Pdav	Pred	Psam	Rhab
+HG_84524 	Hali	OG00	Pred
+HG_74909 	Anan	Hali	OG00	Pdav
+HG_84491 	Hali	OG00	Pred
+HG_36993 	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_74876 	Anan	OG00	Psam
+HG_35567 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_74635 	Anan	OG00	Ppac
+HG_35631 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_74466 	Anan	Hali	OG00	Pred
+HG_35462 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_29575 	Anan	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_74530 	Anan	OG00	Ppac	Psam
+HG_32309 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_29503 	Anan	Cele	Dcor	OG00	Ppac
+HG_116351 	Hali	OG01	Pred
+HG_27574 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_27502 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25742 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32204 	Anan	Cele	Dcor	Hali	OG00	Pred	Rhab
+HG_70464 	OG00	Pdav	Ppac
+HG_60849 	Anan	Hali	OG00	Pred	Rhab
+HG_20829 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_32171 	Anan	Dcor	OG00	Pdav	Ppac	Pred	Psam
+HG_28180 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_18429 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60608 	Anan	Hali	OG00	Pred
+HG_54857 	Dcor	OG00	Pred	Rhab
+HG_24283 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_60880 	Anan	Cele	OG00	Ppac	Psam
+HG_24211 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_56279 	Hali	OG00	Pdav
+HG_12498 	Anan	OG00	Pdav	Psam
+HG_53462 	Cele	OG00	Pred	Rhab
+HG_116160 	Hali	OG01	Pred
+HG_116248 	Hali	OG01	Pred
+HG_44727 	Anan	Cele	Dcor	OG00	Pred	Rhab
+HG_13201 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_46454 	Cele	OG00	Ppac	Pred	Rhab
+HG_51461 	Anan	OG00	Ppac	Pred	Psam
+HG_84506 	Hali	OG00	Pdav	Pred
+HG_39687 	Anan	Cele	Dcor	OG00	Ppac	Psam
+HG_39615 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_84473 	Hali	OG00	Pdav	Pred
+HG_84401 	Hali	OG00	Pdav
+HG_74858 	Anan	Hali	OG00	Pred
+HG_10151 	Anan	Dcor	OG00	Ppac	Pred	Psam
+HG_35613 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_74753 	Anan	OG00	Psam
+HG_29726 	Anan	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_9850 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_29557 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_35444 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_35580 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_74512 	Anan	OG00	Psam
+HG_29693 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_78071 	Cele	OG00	Ppac	Pred
+HG_25829 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_67745 	Hali	OG00	Pdav	Pred
+HG_27556 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_116259 	Hali	OG01	Pdav
+HG_25796 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32258 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_30498 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_22948 	Anan	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_25724 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_27451 	Anan	Cele	Dcor	Hali	OG00	Pdav	Psam	Rhab
+HG_32153 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_20778 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_21794 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_24265 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_19089 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60693 	Anan	OG00	Pred	Psam
+HG_56292 	Hali	OG00	Pdav	Pred
+HG_116182 	Hali	OG01	Pred
+HG_44709 	Anan	Cele	Dcor	Hali	OG00	Pred	Rhab
+HG_13391 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_46436 	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_39669 	Anan	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_13014 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_46500 	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_43419 	OG00	Pdav	Ppac	Pred
+HG_84455 	Hali	OG00	Pdav	Pred
+HG_6927 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_39564 	Anan	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_41249 	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_29708 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_9869 	Cele	OG00	Pdav
+HG_35426 	Anan	Cele	Dcor	Hali	OG00	Psam	Rhab
+HG_29539 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_67799 	Hali	OG00	Pdav
+HG_29675 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_41280 	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_29603 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_28418 	Dcor	Hali	OG00	Pdav	Pred
+HG_25778 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_29570 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_25706 	Anan	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_28690 	Hali	OG00	Pdav
+HG_33392 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32304 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_32135 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_60949 	Anan	Cele	Dcor	OG00
+HG_25368 	OG00	Psam	Rhab
+HG_32271 	Anan	Hali	OG00	Pdav	Pred
+HG_24247 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_60844 	Anan	Hali	OG00	Pdav	Pred
+HG_60675 	Anan	Cele	Dcor	OG00
+HG_20791 	Anan	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_49709 	OG00	Ppac	Psam	Rhab
+HG_128774 	OG01	Pdav	Psam
+HG_98054 	Anan	OG00	Psam
+HG_48419 	Hali	OG00	Pdav
+HG_44827 	Anan	Cele	Dcor	OG00	Pred	Psam	Rhab
+HG_51497 	Anan	OG00	Pdav	Psam
+HG_46418 	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_51425 	Anan	Cele	Dcor	OG00	Psam
+HG_51561 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_116312 	Hali	OG01	Pred
+HG_41946 	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_51392 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_39715 	Anan	Cele	Dcor	Hali	OG00	Ppac	Psam
+HG_42657 	Hali	OG00	Pdav	Pred
+HG_51320 	Anan	Hali	OG00	Pdav	Pred
+HG_39546 	Anan	Hali	OG00	Pred	Psam	Rhab
+HG_84501 	Hali	OG00	Pdav	Pred
+HG_39682 	Anan	Hali	OG00	Pdav
+HG_35649 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_74853 	Anan	OG00	Pdav	Psam
+HG_35544 	Anan	OG00	Pdav	Psam
+HG_29657 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_78171 	Cele	OG00	Rhab
+HG_29488 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_29721 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_29552 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_27487 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32189 	Anan	Hali	OG00	Pred	Psam	Rhab
+HG_67740 	Hali	OG00	Pred
+HG_25824 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27415 	Anan	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_116323 	Hali	OG01	Pred
+HG_116209 	Hali	OG01	Pdav
+HG_32253 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_25791 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_9602 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_22943 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60898 	Anan	OG00	Pred	Psam
+HG_24229 	Anan	Hali	OG00	Pdav	Pred
+HG_60657 	Anan	Hali	OG00
+HG_54834 	Dcor	Hali	OG00	Pred	Psam
+HG_24260 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25140 	Hali	OG00	Pdav	Pred
+HG_19084 	Anan	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_56256 	Hali	OG00	Pred
+HG_49722 	OG00	Ppac	Pred	Psam	Rhab
+HG_53544 	Cele	OG00	Pdav	Ppac	Pred
+HG_15187 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_17011 	Hali	OG00	Pdav	Pred
+HG_116334 	Hali	OG01	Pred
+HG_44776 	Anan	OG00	Pdav	Pred	Psam	Rhab
+HG_51374 	Anan	Hali	OG00	Pdav
+HG_84419 	Hali	OG00	Pdav	Pred
+HG_44840 	Anan	Cele	Dcor	OG00	Ppac	Rhab
+HG_84386 	Hali	OG00	Pdav	Pred
+HG_39664 	Anan	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_11113 	Anan	Hali	OG00	Pdav	Pred
+HG_80827 	Dcor	OG00	Rhab
+HG_84450 	Hali	OG00	Pdav	Pred
+HG_37527 	Dcor	OG00	Pdav	Ppac
+HG_74835 	Anan	OG00	Psam
+HG_35598 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_35526 	Anan	Cele	Hali	OG00	Ppac	Pred
+HG_29639 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_35662 	Anan	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_35493 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_74425 	Anan	OG00	Psam
+HG_29703 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_67794 	Hali	OG00	Pdav	Pred
+HG_37012 	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_74392 	Anan	OG00	Psam
+HG_29670 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27469 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred
+HG_25806 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_30508 	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_74320 	Anan	Hali	OG00	Pred
+HG_116345 	Hali	OG01	Pdav
+HG_27533 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25773 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32235 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_22892 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60944 	Anan	Dcor	OG00	Pred
+HG_15917 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_17813 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_60639 	Anan	Dcor	OG00	Ppac
+HG_21771 	Anan	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_24242 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_63310 	Cele	OG00	Pdav	Ppac	Pred
+HG_19066 	Anan	OG00	Pred	Psam
+HG_17234 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_53526 	Cele	Dcor	Hali	OG00	Pred
+HG_51525 	Anan	Hali	OG00	Pred
+HG_116356 	Hali	OG01	Pred
+HG_48414 	Hali	OG00	Pdav	Pred
+HG_44758 	Anan	Cele	Dcor	Hali	OG00	Pred
+HG_44894 	Anan	Hali	OG00	Pdav	Pred	Psam
+HG_51356 	Anan	Cele	Hali	OG00	Pred
+HG_46485 	Cele	Dcor	OG00	Pred	Psam	Rhab
+HG_51492 	Anan	Cele	OG00	Pred
+HG_44822 	Anan	Cele	Dcor	OG00	Pred
+HG_10287 	OG00	Pdav	Ppac
+HG_12183 	Anan	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_80809 	Dcor	OG00	Rhab
+HG_39646 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_84432 	Hali	OG00	Pdav	Pred
+HG_39710 	Anan	Hali	OG00	Pdav	Pred
+HG_42652 	Hali	OG00	Pdav	Pred	Psam
+HG_74817 	Anan	OG00	Pdav	Psam
+HG_41298 	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_35508 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_35644 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_41226 	Cele	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_35475 	Anan	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_67776 	Hali	OG00	Pdav	Pred
+HG_74374 	Anan	Hali	OG00	Pred
+HG_32289 	Anan	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_116165 	Hali	OG01	Pred
+HG_34185 	Hali	OG00	Pdav
+HG_27515 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25755 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32217 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_22907 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_30521 	Cele	OG00	Pdav	Ppac	Pred	Psam
+HG_32184 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam
+HG_32112 	Anan	Hali	OG00	Pdav	Ppac	Pred
+HG_60926 	Anan	Dcor	OG00
+HG_60757 	Anan	Hali	OG00	Pdav	Pred
+HG_63364 	Cele	Dcor	OG00	Pred	Rhab
+HG_60821 	Anan	Hali	OG00	Pred
+HG_8376 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_63059 	Cele	OG00	Rhab
+HG_15930 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_63123 	Cele	Dcor	OG00	Pred
+HG_53508 	Cele	Dcor	OG00	Pdav	Pred
+HG_51579 	Anan	Cele	Dcor	OG00	Ppac
+HG_56251 	Hali	OG00	Pred	Psam	Rhab
+HG_53475 	Cele	Dcor	OG00	Pdav	Pred
+HG_51507 	Anan	Cele	OG00	Pdav	Pred	Psam
+HG_44876 	Anan	Cele	Dcor	Hali	OG00	Pred	Rhab
+HG_12334 	Anan	Dcor	Hali	OG00	Pdav	Psam
+HG_44804 	Anan	Dcor	OG00	Pdav	Pred	Psam
+HG_46467 	Cele	Dcor	OG00	Pred	Psam	Rhab
+HG_51474 	Anan	Hali	OG00	Pdav	Pred
+HG_84519 	Hali	OG00	Pdav	Pred
+HG_77888 	Cele	OG00	Ppac	Pred
+HG_46531 	Cele	Dcor	OG00	Ppac	Pred	Rhab
+HG_36988 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_84486 	Hali	OG00	Pdav	Pred
+HG_84414 	Hali	OG00	Pdav	Pred
+HG_35626 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_35457 	Anan	Cele	Dcor	OG00	Ppac	Rhab
+HG_35593 	Anan	Cele	Dcor	OG00	Rhab
+HG_74830 	Anan	Hali	OG00	Pdav
+HG_35521 	Anan	Hali	OG00	Pred
+HG_67758 	Hali	OG00	Pdav
+HG_29634 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_27569 	Anan	Hali	OG00	Pred
+HG_70459 	OG00	Pdav	Ppac	Psam
+HG_25737 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_27464 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_33351 	Cele	Dcor	OG00	Ppac	Rhab
+HG_28175 	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_131047 	OG01	Pred	Psam
+HG_60908 	Anan	Hali	OG00	Pred
+HG_32230 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_19881 	Anan	Hali	OG00	Pdav
+HG_98528 	Anan	OG00	Psam
+HG_22920 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60875 	Anan	Dcor	OG00	Pred
+HG_60803 	Anan	OG00	Pdav	Ppac
+HG_63177 	Cele	Dcor	OG00	Rhab
+HG_16454 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_19061 	Anan	Cele	Dcor	OG00	Ppac	Pred
+HG_98013 	Anan	OG00	Psam
+HG_51625 	Anan	Cele	Dcor	OG00	Psam
+HG_44858 	Anan	Cele	Dcor	OG00	Ppac	Pred
+HG_46513 	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_132532 	OG01	Psam	Rhab
+HG_44753 	Anan	Hali	OG00	Pdav	Pred
+HG_37986 	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_84468 	Hali	OG00	Pdav	Pred
+HG_39577 	Anan	Hali	OG00	Pred	Rhab
+HG_43399 	OG00	Pdav	Ppac	Pred
+HG_84532 	Hali	OG00	Pred
+HG_74748 	Anan	Hali	OG00
+HG_35608 	Anan	Cele	Dcor	OG00	Ppac	Pred	Rhab
+HG_74884 	Anan	Hali	OG00	Pred
+HG_35439 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_35575 	Anan	Cele	Dcor	OG00	Ppac	Psam
+HG_74643 	Anan	Hali	OG00
+HG_41293 	Cele	OG00	Pdav	Pred	Psam	Rhab
+HG_29616 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred
+HG_67804 	Hali	OG00	Pdav	Psam
+HG_74474 	Anan	Hali	OG00	Pred
+HG_74402 	Anan	Dcor	Hali	OG00
+HG_29583 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_25719 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_29511 	Anan	Hali	OG00
+HG_26735 	Hali	OG00	Pdav	Pred
+HG_67771 	Hali	OG00	Pdav	Pred
+HG_27446 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_116317 	Hali	OG01	Rhab
+HG_32284 	Anan	Dcor	OG00	Pdav	Pred	Psam
+HG_27510 	Anan	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_26325 	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_25750 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_21789 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_70400 	OG00	Pdav	Psam
+HG_17798 	Anan	OG00	Pdav	Pred	Psam
+HG_60857 	Anan	OG00	Psam
+HG_8298 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60921 	Anan	OG00	Pred	Psam
+HG_98405 	Anan	OG00	Psam
+HG_60616 	Anan	Hali	OG00	Pdav
+HG_24291 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_54865 	Dcor	Hali	OG00	Psam	Rhab
+HG_60583 	Anan	OG00	Psam
+HG_56287 	Hali	OG00	Pdav	Pred
+HG_58183 	OG00	Ppac	Pred
+HG_51607 	Anan	Cele	Dcor	OG00	Pred
+HG_51574 	Anan	Hali	OG00	Ppac	Pred
+HG_53470 	Cele	Hali	OG00	Pred
+HG_116328 	Hali	OG01	Pred
+HG_116240 	Hali	OG01	Pdav
+HG_39728 	Anan	Cele	Dcor	OG00	Ppac	Pred	Rhab
+HG_44735 	Anan	Dcor	Hali	OG00	Pred	Psam
+HG_44871 	Anan	Hali	OG00	Pred	Psam
+HG_51333 	Anan	Hali	OG00	Pdav	Pred
+HG_39559 	Anan	Cele	Dcor	OG00	Pdav	Pred	Psam
+HG_84514 	Hali	OG00	Pdav	Pred
+HG_39695 	Anan	Hali	OG00
+HG_39623 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_36983 	Cele	OG00	Pdav	Ppac	Pred	Rhab
+HG_80922 	Dcor	OG00	Pdav	Psam
+HG_39590 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred
+HG_35621 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_29565 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac
+HG_28685 	Hali	OG00	Pdav
+HG_74520 	Anan	OG00	Psam
+HG_67753 	Hali	OG00	Pdav	Pred
+HG_27428 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_116251 	Hali	OG01	Pred
+HG_32266 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_27564 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_116339 	Hali	OG01	Pred
+HG_22956 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25732 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_60839 	Anan	Hali	OG00	Pred
+HG_103957 	Cele	OG01	Rhab
+HG_18419 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_60903 	Anan	Hali	OG00	Pdav	Pred
+HG_71060 	OG00	Psam	Rhab
+HG_60734 	Anan	OG00	Ppac	Pred
+HG_60565 	Anan	Hali	OG00	Psam
+HG_56269 	Hali	OG00	Pdav
+HG_51556 	Anan	Dcor	OG00	Ppac	Psam
+HG_116262 	Hali	OG01	Pred
+HG_44789 	Anan	Hali	OG00	Pdav	Pred
+HG_44853 	Anan	Cele	Dcor	OG00	Ppac	Pred
+HG_84399 	Hali	OG00	Pdav	Pred
+HG_39677 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_39605 	Anan	Cele	OG00	Pdav	Psam
+HG_84463 	Hali	OG00	Pdav	Pred
+HG_35539 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_35603 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_29716 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_35434 	Anan	Hali	OG00	Pdav	Pred
+HG_29547 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25819 	Anan	Cele	Dcor	OG00	Pdav	Pred	Psam
+HG_29683 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_67735 	Hali	OG00	Pdav	Pred
+HG_29611 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_116273 	Hali	OG01	Pred
+HG_27546 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_116159 	Hali	OG01	Pred
+HG_9544 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_19899 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_22938 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25714 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32312 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_27441 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32143 	Anan	OG00	Pdav	Psam	Rhab
+HG_60788 	Anan	Hali	OG00
+HG_21784 	Anan	Cele	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_60716 	Anan	Hali	OG00	Pred
+HG_97625 	Anan	OG00	Psam
+HG_17793 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_24255 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_60852 	Anan	Hali	OG00	Pred
+HG_63323 	Cele	OG00	Pdav	Ppac	Pred
+HG_63290 	Cele	Dcor	OG00	Pred
+HG_56282 	Hali	OG00	Pdav	Pred
+HG_48427 	Hali	OG00	Pdav	Pred
+HG_12670 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_51369 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_51602 	Anan	Hali	OG00	Pdav	Pred
+HG_44835 	Anan	Dcor	OG00	Pred	Psam
+HG_90437 	OG00	Pdav	Ppac	Pred
+HG_46426 	Cele	Dcor	OG00	Ppac	Rhab
+HG_12260 	Hali	OG00	Pdav
+HG_39723 	Anan	Cele	OG00	Ppac	Pred	Rhab
+HG_84445 	Hali	OG00	Pdav	Pred
+HG_42665 	Hali	OG00	Pdav
+HG_43545 	OG00	Pred	Psam
+HG_39690 	Anan	Cele	Dcor	Hali	OG00	Pred	Rhab
+HG_74861 	Anan	OG00	Psam
+HG_41303 	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_35552 	Anan	Hali	OG00	Pred
+HG_67789 	Hali	OG00	Pdav
+HG_116295 	Hali	OG01	Pred
+HG_25768 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_27528 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_29560 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_33382 	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25832 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_32197 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_27423 	Anan	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_116201 	Hali	OG01	Pdav
+HG_22887 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_60939 	Anan	OG00	Psam
+HG_32261 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_17808 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_16759 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_21766 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_24237 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_60529 	Anan	OG00	Psam
+HG_18414 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_20781 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_54842 	Dcor	OG00	Pdav
+HG_13942 	Hali	OG00	Pdav	Pred
+HG_20235 	Cele	OG00	Ppac	Pred	Rhab
+HG_19092 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_14348 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_56264 	Hali	OG00	Pred	Psam
+HG_53488 	Cele	Dcor	OG00	Pred	Psam
+HG_15059 	Hali	OG00	Pdav	Pred
+HG_15195 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_44889 	Anan	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_51487 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_46544 	Cele	Dcor	Hali	OG00	Pred	Psam
+HG_51551 	Anan	Dcor	OG00	Pred	Psam
+HG_116212 	Hali	OG01	Pred
+HG_44784 	Anan	Cele	OG00	Ppac	Pred	Psam
+HG_84499 	Hali	OG00	Ppac	Pred
+HG_41936 	Dcor	OG00	Pdav
+HG_39536 	Anan	Hali	OG00	Psam
+HG_84394 	Hali	OG00	Pdav	Pred
+HG_39672 	Anan	OG00	Psam
+HG_10241 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_39600 	Anan	Dcor	OG00	Ppac
+HG_35639 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_36960 	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_35534 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_29542 	Anan	OG00	Psam
+HG_27477 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam
+HG_25814 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_32179 	Anan	Cele	Dcor	OG00	Pdav	Pred	Rhab
+HG_67730 	Hali	OG00	Pred	Psam
+HG_27405 	Anan	Hali	OG00	Pdav	Pred
+HG_32243 	Anan	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_27541 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_25781 	Anan	Cele	Dcor	OG00	Pdav	Pred	Psam	Rhab
+HG_19894 	Anan	OG00	Psam
+HG_21748 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_24219 	Anan	OG00	Pdav	Psam
+HG_60783 	Anan	OG00	Ppac	Psam
+HG_14876 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_56246 	Hali	OG00	Ppac	Pred
+HG_51533 	Anan	Hali	OG00	Pdav	Pred
+HG_44766 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred
+HG_48422 	Hali	OG00	Pdav	Pred
+HG_46493 	Cele	Dcor	Hali	OG00	Pred	Rhab
+HG_84409 	Hali	OG00	Pdav	Pred
+HG_80889 	Dcor	OG00	Pdav
+HG_39654 	Anan	Dcor	Hali	OG00	Pdav	Pred
+HG_44661 	Anan	Cele	Hali	OG00	Ppac	Pred
+HG_84440 	Hali	OG00	Pdav	Pred
+HG_78248 	Cele	OG00	Pdav	Pred
+HG_42660 	Hali	OG00	Pdav	Ppac
+HG_74825 	Anan	Hali	OG00	Pred
+HG_35588 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred
+HG_35516 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_29629 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_35652 	Anan	Cele	Dcor	OG00	Pred	Psam	Rhab
+HG_41234 	Cele	Dcor	OG00	Pdav	Pred	Psam
+HG_74415 	Anan	Dcor	Hali	OG00
+HG_35411 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_67784 	Hali	OG00	Pdav	Pred
+HG_37002 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_74382 	Anan	Hali	OG00
+HG_29660 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_25699 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_19909 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32297 	Anan	Hali	OG00	Pdav	Pred	Psam
+HG_116245 	Hali	OG01	Pdav
+HG_34193 	Hali	OG00	Pdav	Pred
+HG_27523 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_70349 	OG00	Pdav	Psam
+HG_25763 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32225 	Anan	Hali	OG00	Pred	Psam	Rhab
+HG_27490 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_32192 	Anan	Hali	OG00	Pdav	Pred
+HG_22882 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_32120 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60934 	Anan	Dcor	OG00	Rhab
+HG_17803 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_21761 	Anan	OG00	Pdav	Psam
+HG_24232 	Anan	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_63131 	Cele	OG00	Pdav	Ppac	Pred
+HG_17224 	Anan	Hali	OG00	Pdav	Pred
+HG_51587 	Anan	Cele	Hali	OG00	Ppac	Pred
+HG_14343 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac
+HG_51515 	Anan	OG00	Pdav	Psam	Rhab
+HG_84527 	Hali	OG00	Pred
+HG_44812 	Anan	Dcor	OG00	Pdav	Pred	Psam
+HG_39636 	Anan	Dcor	OG00	Ppac	Psam	Rhab
+HG_36996 	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_84494 	Hali	OG00	Pdav	Pred
+HG_10341 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_74879 	Anan	Hali	OG00	Pred
+HG_35634 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_35465 	Anan	Hali	OG00
+HG_29578 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_67766 	Hali	OG00	Pdav	Pred	Rhab
+HG_29642 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_9740 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_74364 	Anan	Cele	OG00	Pred
+HG_32279 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_116267 	Hali	OG01	Pdav
+HG_27505 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_27472 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_32174 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_60916 	Anan	Hali	OG00	Pdav	Rhab
+HG_20799 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_18801 	Hali	OG00	Pdav	Pred
+HG_24286 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_60883 	Anan	Hali	OG00	Pred	Rhab
+HG_24214 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_14871 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_98262 	Anan	OG00	Psam
+HG_16326 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_51569 	Anan	Hali	OG00	Pdav	Pred
+HG_116190 	Hali	OG01	Pred
+HG_53465 	Cele	OG00	Pdav	Ppac	Pred
+HG_116278 	Hali	OG01	Pred
+HG_51328 	Anan	Dcor	OG00	Ppac	Psam
+HG_44866 	Anan	Cele	Dcor	Hali	OG00	Pred
+HG_13204 	Anan	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_46457 	Cele	Hali	OG00	Pred
+HG_84509 	Hali	OG00	Pred
+HG_90532 	OG00	Pdav	Ppac
+HG_44761 	Anan	OG00	Pdav	Psam	Rhab
+HG_37994 	Hali	OG00	Pred
+HG_84476 	Hali	OG00	Pred
+HG_130720 	OG01	Pred	Psam
+HG_84404 	Hali	OG00	Pdav
+HG_39585 	Anan	Cele	Dcor	OG00	Ppac
+HG_35616 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_37512 	Dcor	OG00	Ppac	Pred
+HG_35447 	Anan	Cele	Dcor	OG00	Pdav	Pred	Psam
+HG_35583 	Anan	Cele	Dcor	Hali	OG00	Ppac	Psam
+HG_29696 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_30839 	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_67748 	Hali	OG00	Pdav
+HG_29624 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27559 	Anan	Cele	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_25799 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_116289 	Hali	OG01	Pdav
+HG_25727 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_9806 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32156 	Anan	Cele	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_27454 	Anan	Hali	OG00	Pdav	Pred
+HG_19904 	Anan	Cele	Hali	OG00	Ppac	Pred	Psam
+HG_32292 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32220 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_22910 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_24268 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_60865 	Anan	Hali	OG00	Pdav	Pred
+HG_63167 	Cele	Hali	OG00	Pred
+HG_54873 	Dcor	OG00	Ppac	Pred	Psam
+HG_58360 	OG00	Psam	Rhab
+HG_60591 	Anan	Hali	OG00	Pred	Psam
+HG_56295 	Hali	OG00	Pdav
+HG_58191 	OG00	Ppac	Pred	Rhab
+HG_53447 	Cele	OG00	Pred	Rhab
+HG_51615 	Anan	Hali	OG00	Pdav	Pred	Psam
+HG_13394 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_51582 	Anan	Cele	Dcor	OG00	Pred
+HG_116320 	Hali	OG01	Pred
+HG_51510 	Anan	Cele	OG00	Ppac	Pred	Psam
+HG_116206 	Hali	OG01	Pred
+HG_84458 	Hali	OG00	Pdav	Pred
+HG_39736 	Anan	Hali	OG00	Ppac	Pred	Rhab
+HG_43558 	OG00	Psam	Rhab
+HG_51341 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_84522 	Hali	OG00	Pdav	Pred
+HG_39631 	Anan	Cele	Dcor	OG00	Rhab
+HG_35565 	Anan	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_29606 	Anan	Cele	Dcor	OG00	Pred	Psam
+HG_34613 	OG00	Pdav	Psam
+HG_25709 	Anan	Hali	OG00
+HG_33395 	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_67761 	Hali	OG00	Pdav	Pred
+HG_32138 	Anan	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27436 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_116331 	Hali	OG01	Pred
+HG_27572 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_27500 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25740 	Anan	Hali	OG00	Pdav
+HG_32202 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_21779 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_65591 	Dcor	Hali	OG00	Pred
+HG_60847 	Anan	Hali	OG00	Pred
+HG_18427 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_98298 	Anan	OG00	Psam
+HG_54855 	Dcor	Hali	OG00	Ppac	Pred
+HG_98531 	Anan	OG00	Psam
+HG_24281 	Anan	Dcor	OG00	Ppac
+HG_15546 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_56277 	Hali	OG00	Pdav	Pred
+HG_12496 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_51428 	Anan	OG00	Psam
+HG_53460 	Cele	Dcor	OG00	Pred	Rhab
+HG_51564 	Anan	Dcor	Hali	OG00
+HG_44797 	Anan	Dcor	OG00	Pdav	Pred
+HG_51395 	Anan	Hali	OG00	Pred
+HG_41949 	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_39718 	Anan	Cele	Dcor	OG00	Pred	Psam	Rhab
+HG_44861 	Anan	Dcor	OG00	Pdav
+HG_84504 	Hali	OG00	Pdav	Pred
+HG_44692 	Anan	Cele	Hali	OG00	Pred	Psam	Rhab
+HG_39613 	Anan	Hali	OG00	Ppac	Pred	Psam
+HG_84471 	Hali	OG00	Pdav	Pred
+HG_36973 	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam
+HG_39580 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_74687 	Anan	OG00	Psam
+HG_35547 	Anan	Hali	OG00	Pdav	Pred	Psam
+HG_41265 	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_35611 	Anan	Hali	OG00	Pdav	Pred
+HG_29724 	Anan	OG00	Psam	Rhab
+HG_74751 	Anan	Hali	OG00	Pred
+HG_29555 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_29691 	Anan	Cele	Dcor	OG00	Pred	Rhab
+HG_33377 	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_67743 	Hali	OG00	Pdav	Pred
+HG_25827 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_74341 	Anan	OG00	Psam
+HG_24778 	Cele	Dcor	OG00	Pdav	Ppac	Pred
+HG_32256 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_116239 	Hali	OG01	Pred
+HG_25794 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_25722 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60829 	Anan	Dcor	OG00	Ppac
+HG_20809 	Anan	Dcor	OG00	Psam
+HG_32151 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_98513 	Anan	Hali	OG00
+HG_24263 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_60691 	Anan	Hali	OG00	Pred
+HG_47419 	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_56290 	Hali	OG00	Pdav	Pred
+HG_46539 	Cele	OG00	Pred	Psam
+HG_51546 	Anan	Cele	Dcor	OG00	Ppac
+HG_44779 	Anan	Dcor	OG00	Pred	Rhab
+HG_51377 	Anan	Hali	OG00	Pred	Psam
+HG_51610 	Anan	OG00	Ppac	Pred	Rhab
+HG_44843 	Anan	Cele	Dcor	Hali	OG00	Pred
+HG_39667 	Anan	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_84389 	Hali	OG00	Pred
+HG_13012 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_39731 	Anan	Cele	Dcor	OG00	Ppac	Pred	Rhab
+HG_84453 	Hali	OG00	Pdav	Pred
+HG_77991 	Cele	OG00	Ppac	Pred
+HG_39562 	Anan	Cele	Dcor	OG00	Pred	Rhab
+HG_35529 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_74902 	Anan	OG00	Psam
+HG_35665 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_29706 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_28962 	OG00	Pdav	Ppac	Pred
+HG_35424 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_67797 	Hali	OG00	Pdav
+HG_33359 	Cele	Dcor	OG00	Pdav	Ppac
+HG_35560 	Anan	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_70836 	OG00	Pred	Psam
+HG_25809 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_29601 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_27536 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_116173 	Hali	OG01	Pdav
+HG_28416 	Dcor	OG00	Psam	Rhab
+HG_32238 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam
+HG_22928 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam
+HG_33390 	Cele	OG00	Ppac	Psam	Rhab
+HG_32302 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_60947 	Anan	Hali	OG00	Pdav	Pred
+HG_17816 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_21774 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_57900 	OG00	Pdav	Psam
+HG_60706 	Anan	Hali	OG00	Pred
+HG_63144 	Cele	Hali	OG00	Pred	Rhab
+HG_18422 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_17237 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_98221 	Anan	Dcor	OG00
+HG_56272 	Hali	OG00	Pdav	Pred
+HG_48417 	Hali	OG00	Pdav	Pred	Rhab
+HG_91379 	OG00	Pred	Psam
+HG_46488 	Cele	Dcor	Hali	OG00	Pred	Rhab
+HG_51495 	Anan	Hali	OG00	Pred
+HG_44825 	Anan	OG00	Psam
+HG_46416 	Cele	Dcor	OG00	Pdav	Ppac	Pred
+HG_51423 	Anan	OG00	Pred	Psam	Rhab
+HG_91443 	OG00	Pred	Psam
+HG_39649 	Anan	Hali	OG00	Pred
+HG_44656 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_84435 	Hali	OG00	Pdav	Pred
+HG_39713 	Anan	Cele	Dcor	OG00	Pred	Psam
+HG_44720 	Anan	Cele	Hali	OG00	Ppac	Pred
+HG_39544 	Anan	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_77901 	Cele	OG00	Ppac	Rhab
+HG_80843 	Dcor	OG00	Pdav
+HG_39680 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_35647 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_35478 	Anan	Dcor	OG00	Pdav
+HG_67779 	Hali	OG00	Pdav	Pred	Rhab
+HG_29655 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_35542 	Anan	Cele	Hali	OG00	Ppac	Pred
+HG_41260 	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_116195 	Hali	OG01	Pred
+HG_29486 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_34188 	Hali	OG00	Pdav	Pred	Psam
+HG_27518 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_29550 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_27485 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_25822 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_32187 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_32115 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_60929 	Anan	Cele	Hali	OG00	Pred
+HG_32251 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_22941 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32082 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_21756 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_60824 	Anan	Hali	OG00	Pred
+HG_20804 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60655 	Anan	Cele	OG00
+HG_18404 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_56254 	Hali	OG00	Pdav
+HG_53406 	Cele	Dcor	OG00	Pred	Rhab
+HG_116314 	Hali	OG01	Pred
+HG_46534 	Cele	Dcor	Hali	OG00	Pred	Psam
+HG_44774 	Anan	Hali	OG00	Pdav	Pred
+HG_84489 	Hali	OG00	Pred
+HG_90304 	OG00	Pdav	Psam
+HG_84417 	Hali	OG00	Pred
+HG_44702 	Anan	Cele	Dcor	OG00	Pred	Rhab
+HG_39526 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_80897 	Dcor	OG00	Pdav
+HG_11111 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_39662 	Anan	Cele	Dcor	OG00	Psam
+HG_84384 	Hali	OG00	Pdav	Pred
+HG_37525 	Dcor	OG00	Rhab
+HG_35596 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_29637 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_35524 	Anan	Cele	Dcor	OG00	Ppac
+HG_35660 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_29701 	Anan	Cele	Dcor	Hali	OG00	Ppac	Psam
+HG_35491 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_29532 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_67792 	Hali	OG00	Pdav
+HG_27467 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_33354 	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_37010 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Psam
+HG_32169 	Anan	Cele	OG00	Pred	Psam	Rhab
+HG_25804 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_116325 	Hali	OG01	Pred
+HG_32233 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_9600 	Anan	OG00	Pdav	Psam
+HG_19884 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_22923 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_97787 	Anan	OG00	Psam
+HG_60806 	Anan	Hali	OG00	Pdav
+HG_60637 	Anan	OG00	Psam	Rhab
+HG_24240 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_17232 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_51628 	Anan	Dcor	OG00
+HG_53524 	Cele	Dcor	Hali	OG00	Pred
+HG_51459 	Anan	Cele	OG00	Pdav	Psam
+HG_14351 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_51595 	Anan	Hali	OG00	Pdav
+HG_46516 	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_51523 	Anan	Cele	OG00	Pred	Rhab
+HG_116336 	Hali	OG01	Pred
+HG_48412 	Hali	OG00	Pdav	Pred
+HG_44756 	Anan	OG00	Psam
+HG_44892 	Anan	Cele	Dcor	Hali	OG00	Ppac
+HG_37989 	Hali	OG00	Pdav
+HG_51354 	Anan	Hali	OG00	Pdav	Pred
+HG_46483 	Cele	OG00	Ppac	Pred	Psam	Rhab
+HG_44820 	Anan	Cele	Dcor	OG00	Psam
+HG_12181 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_84430 	Hali	OG00	Pdav
+HG_74815 	Anan	OG00	Psam
+HG_35578 	Anan	Hali	OG00	Psam
+HG_78069 	Cele	OG00	Pred
+HG_35506 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_41296 	Cele	Dcor	OG00	Pdav
+HG_74782 	Anan	Dcor	OG00
+HG_35642 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_35473 	Anan	OG00	Psam
+HG_29586 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_27449 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_65637 	Dcor	OG00	Ppac	Rhab
+HG_32287 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_116347 	Hali	OG01	Pred
+HG_25753 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32215 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_26328 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Rhab
+HG_27480 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_32182 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_65532 	Dcor	OG00	Pdav	Pred
+HG_32110 	Anan	Cele	Dcor	Hali	OG00	Ppac	Psam	Rhab
+HG_60924 	Anan	OG00	Ppac	Psam
+HG_60891 	Anan	Cele	Dcor	OG00
+HG_21751 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_14607 	Anan	Cele	Dcor	OG00	Pdav	Pred	Psam	Rhab
+HG_51577 	Anan	Hali	OG00	Pred	Rhab
+HG_90509 	OG00	Pdav	Ppac
+HG_53473 	Cele	Dcor	OG00	Pred
+HG_116358 	Hali	OG01	Pred
+HG_116270 	Hali	OG01	Pred
+HG_116156 	Hali	OG01	Pdav
+HG_44738 	Anan	Dcor	OG00	Ppac	Pred	Psam
+HG_44874 	Anan	Cele	Dcor	OG00	Psam
+HG_51472 	Anan	Hali	OG00	Pred
+HG_12332 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_44802 	Anan	Hali	OG00	Pdav	Rhab
+HG_84517 	Hali	OG00	Pdav	Pred
+HG_51400 	Anan	Cele	Hali	OG00	Pred
+HG_77886 	Cele	OG00	Pred
+HG_84484 	Hali	OG00	Pdav
+HG_41278 	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_35624 	Anan	Dcor	Hali	OG00	Pred	Psam
+HG_78115 	Cele	OG00	Ppac	Pred
+HG_35455 	Anan	Hali	OG00	Pred	Rhab
+HG_35591 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_28688 	Hali	OG00	Pdav	Pred
+HG_67756 	Hali	OG00	Pdav	Pred
+HG_29632 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_116281 	Hali	OG01	Pdav
+HG_116167 	Hali	OG01	Pred
+HG_32269 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_25735 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27462 	Anan	Cele	Hali	OG00	Pdav	Pred
+HG_30501 	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_32164 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_97887 	Anan	Dcor	OG00
+HG_28173 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_60906 	Anan	Hali	OG00	Pdav	Pred
+HG_19574 	Hali	OG00	Pred
+HG_23396 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60801 	Anan	Hali	OG00
+HG_16316 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_128344 	OG01	Pdav	Psam
+HG_116292 	Hali	OG01	Pdav
+HG_116178 	Hali	OG01	Pred
+HG_44856 	Anan	Hali	OG00	Pdav	Ppac	Psam
+HG_51318 	Anan	Cele	Dcor	OG00	Pred
+HG_91338 	OG00	Pred	Psam
+HG_46447 	Cele	OG00	Ppac	Pred
+HG_51590 	Anan	Cele	Dcor	OG00	Pred
+HG_84530 	Hali	OG00	Pdav	Pred
+HG_35606 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_74810 	Anan	Dcor	OG00
+HG_29686 	Anan	Dcor	OG00
+HG_35501 	Anan	Hali	OG00	Pdav	Pred
+HG_67738 	Hali	OG00	Pdav
+HG_29614 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_27549 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_67802 	Hali	OG00	Pred
+HG_29581 	Anan	Hali	OG00	Pdav	Ppac
+HG_25717 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32315 	Anan	Hali	OG00	Pred	Psam	Rhab
+HG_27444 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32282 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_32210 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_24258 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_25138 	Hali	OG00	Pdav	Psam
+HG_60855 	Anan	OG00	Psam
+HG_9032 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60750 	Anan	Hali	OG00
+HG_60581 	Anan	OG00	Psam
+HG_56285 	Hali	OG00	Pdav	Pred
+HG_53437 	Cele	OG00	Ppac	Pred
+HG_12842 	Anan	Hali	OG00	Pdav	Pred
+HG_51605 	Anan	OG00	Psam
+HG_53501 	Cele	Hali	OG00	Ppac	Psam	Rhab
+HG_11488 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_44838 	Anan	Cele	Dcor	OG00	Ppac	Rhab
+HG_51572 	Anan	Cele	Dcor	OG00	Ppac
+HG_90504 	OG00	Pdav	Psam
+HG_51500 	Anan	Dcor	OG00
+HG_116220 	Hali	OG01	Pred
+HG_12263 	Hali	OG00	Pdav	Pred
+HG_84448 	Hali	OG00	Pdav
+HG_39726 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_7427 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_42668 	Hali	OG00	Pdav	Pred
+HG_39557 	Anan	OG00	Pdav	Psam
+HG_12022 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_84512 	Hali	OG00	Pdav	Pred
+HG_39621 	Anan	Dcor	OG00	Pdav	Pred	Psam	Rhab
+HG_41306 	Cele	OG00	Pdav	Ppac	Pred
+HG_29668 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_41273 	Cele	Dcor	OG00	Pdav	Ppac	Pred
+HG_74623 	Anan	OG00	Psam
+HG_28683 	Hali	OG00	Pdav	Pred	Rhab
+HG_27498 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_67751 	Hali	OG00	Pred	Rhab
+HG_27426 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam
+HG_70388 	OG00	Pdav	Psam
+HG_27562 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_32264 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_21769 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_20817 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60837 	Anan	Cele	OG00	Ppac
+HG_60901 	Anan	OG00	Psam	Rhab
+HG_24271 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_23391 	Cele	Dcor	OG00	Pdav	Psam
+HG_19095 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_56267 	Hali	OG00	Pdav	Pred
+HG_15198 	Anan	Hali	OG00	Pdav	Pred
+HG_13197 	Anan	Hali	OG00	Pred
+HG_51554 	Anan	Hali	OG00	Psam	Rhab
+HG_44787 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam
+HG_39708 	Anan	Hali	OG00	Pdav	Pred
+HG_44715 	Anan	Hali	OG00	Pdav	Pred
+HG_44851 	Anan	OG00	Ppac	Psam	Rhab
+HG_39539 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_84397 	Hali	OG00	Pdav	Pred
+HG_39675 	Anan	Hali	OG00	Ppac
+HG_44682 	Anan	Dcor	OG00	Pdav
+HG_39570 	Anan	Hali	OG00	Pdav	Pred	Psam
+HG_74677 	Anan	Dcor	OG00
+HG_35537 	Anan	Dcor	OG00	Pdav	Pred	Psam
+HG_74741 	Anan	Dcor	OG00	Psam
+HG_35601 	Anan	Dcor	OG00	Ppac	Pred	Rhab
+HG_29714 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_29545 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_74572 	Anan	OG00	Psam
+HG_33367 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_29681 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25817 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_67733 	Hali	OG00	Pdav
+HG_30519 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_27408 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_27544 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_19897 	Anan	Dcor	OG00	Pdav	Pred	Psam
+HG_32246 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam
+HG_25712 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32077 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32310 	Anan	OG00	Pdav	Psam
+HG_65563 	Dcor	OG00	Psam	Rhab
+HG_32141 	Anan	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_15928 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60786 	Anan	Cele	Dcor	OG00
+HG_98503 	Anan	Dcor	OG00
+HG_21782 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_17791 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_24253 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_19077 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred
+HG_58281 	OG00	Pred	Psam
+HG_56280 	Hali	OG00	Pdav	Pred
+HG_46529 	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_116264 	Hali	OG01	Pred
+HG_48425 	Hali	OG00	Pdav
+HG_51600 	Anan	Hali	OG00	Pdav	Pred
+HG_44833 	Anan	Cele	Dcor	OG00	Ppac	Psam
+HG_39657 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_39721 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_80787 	Dcor	OG00	Rhab
+HG_42663 	Hali	OG00	Pdav	Ppac
+HG_39552 	Anan	Cele	OG00	Pdav	Pred	Rhab
+HG_80851 	Dcor	OG00	Rhab
+HG_35655 	Anan	Hali	OG00	Pred	Psam	Rhab
+HG_35486 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_29599 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_41301 	Cele	OG00	Pdav	Ppac	Pred
+HG_35414 	Anan	OG00	Psam
+HG_67787 	Hali	OG00	Pdav
+HG_35550 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_29663 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32228 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_22918 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_27493 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_32195 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_27421 	Anan	Hali	OG00	Pdav	Pred
+HG_17806 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_104015 	Cele	OG01	Rhab
+HG_21764 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60599 	Anan	Cele	OG00
+HG_20812 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60832 	Anan	Hali	OG00	Pred
+HG_63303 	Cele	Dcor	OG00	Ppac	Pred
+HG_18412 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_63270 	Cele	Hali	OG00	Pred
+HG_17227 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_53519 	Cele	Dcor	OG00	Pred	Rhab
+HG_128654 	OG01	Pdav	Psam
+HG_116286 	Hali	OG01	Pred
+HG_48407 	Hali	OG00	Pred
+HG_10754 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_51349 	Anan	Dcor	OG00	Pdav
+HG_53381 	Cele	OG00	Pdav
+HG_44815 	Anan	OG00	Pred	Psam	Rhab
+HG_51413 	Anan	Hali	OG00	Pdav	Pred
+HG_36999 	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_84497 	Hali	OG00	Pdav	Pred
+HG_39703 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_44710 	Anan	Dcor	Hali	OG00	Psam
+HG_84425 	Hali	OG00	Pdav
+HG_84392 	Hali	OG00	Pdav	Pred
+HG_39670 	Anan	Hali	OG00	Pdav	Pred	Psam
+HG_35637 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac
+HG_41219 	Cele	OG00	Pdav	Ppac	Pred
+HG_74536 	Anan	OG00	Psam
+HG_35532 	Anan	Cele	Dcor	OG00	Ppac	Psam
+HG_67769 	Hali	OG00	Pdav
+HG_27508 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_25812 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_27475 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_32177 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_26523 	Dcor	OG00	Rhab
+HG_116203 	Hali	OG01	Pred
+HG_60919 	Anan	Dcor	OG00	Psam
+HG_32241 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_22931 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_24289 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32072 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_103909 	Cele	OG01	Rhab
+HG_15923 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60950 	Anan	Hali	OG00	Pdav	Pred
+HG_8724 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60645 	Anan	OG00	Psam
+HG_19410 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_14874 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_16329 	Anan	Cele	OG00	Pdav	Pred
+HG_56244 	Hali	OG00	Pdav	Pred
+HG_44869 	Anan	Dcor	Hali	OG00	Pdav	Pred
+HG_47404 	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_84479 	Hali	OG00	Pdav	Pred
+HG_39588 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_35619 	Anan	Hali	OG00	Pred	Psam	Rhab
+HG_35586 	Anan	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_29699 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_35514 	Anan	Hali	OG00	Pred	Psam
+HG_29627 	Anan	Hali	OG00	Pdav	Pred	Psam
+HG_35650 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_35481 	Anan	Hali	OG00
+HG_74413 	Anan	Cele	OG00	Ppac
+HG_29594 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_29522 	Anan	Hali	OG00	Pdav	Pred
+HG_67782 	Hali	OG00	Pdav	Pred
+HG_27457 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_25697 	Anan	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_32295 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_34191 	Hali	OG00	Pdav	Pred	Rhab
+HG_27521 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25761 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_22913 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_98488 	Anan	Hali	OG00
+HG_60932 	Anan	Dcor	OG00	Ppac
+HG_17801 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_63370 	Cele	Dcor	OG00	Rhab
+HG_22470 	Hali	OG00	Pdav
+HG_56298 	Hali	OG00	Pdav	Pred
+HG_17222 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_16037 	Cele	Dcor	OG00	Ppac	Rhab
+HG_51449 	Anan	Hali	OG00	Pred	Psam	Rhab
+HG_116350 	Hali	OG01	Pred
+HG_46506 	Cele	OG00	Ppac	Pred	Psam	Rhab
+HG_44746 	Anan	Dcor	OG00	Ppac	Psam	Rhab
+HG_90348 	OG00	Pdav	Psam
+HG_44882 	Anan	Hali	OG00	Pred	Psam
+HG_84525 	Hali	OG00	Pdav	Pred
+HG_46473 	Cele	Dcor	Hali	OG00	Pred	Rhab
+HG_36994 	Cele	Hali	OG00	Pdav	Ppac	Pred
+HG_35568 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_41286 	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_29609 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_29576 	Anan	Dcor	OG00
+HG_29504 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_67764 	Hali	OG00	Pdav
+HG_29640 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_27439 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27575 	Anan	Cele	Dcor	OG00	Pdav	Pred	Rhab
+HG_116247 	Hali	OG01	Pred
+HG_32205 	Anan	Cele	Dcor	Hali	OG00	Ppac	Rhab
+HG_27503 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_25743 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_27470 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_32172 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_28181 	Cele	OG00	Pdav	Ppac	Pred
+HG_60914 	Anan	Hali	OG00	Pdav	Pred
+HG_32100 	Anan	Dcor	OG00	Pdav	Pred	Psam
+HG_20797 	Anan	Cele	OG00	Pdav
+HG_60609 	Anan	Cele	OG00	Pred
+HG_60745 	Anan	Hali	OG00	Pred	Rhab
+HG_63216 	Cele	OG00	Rhab
+HG_54858 	Dcor	OG00	Pdav	Psam
+HG_12837 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_4603 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_20451 	Hali	OG00	Pdav	Pred
+HG_98260 	Anan	OG00	Ppac
+HG_19100 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_98091 	Anan	Hali	OG00
+HG_51567 	Anan	OG00	Pred	Psam
+HG_116170 	Hali	OG01	Pred
+HG_116258 	Hali	OG01	Pred
+HG_11378 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_44864 	Anan	Cele	OG00	Ppac	Psam	Rhab
+HG_51326 	Anan	Cele	Dcor	OG00	Psam
+HG_84507 	Hali	OG00	Pdav	Pred
+HG_90530 	OG00	Pdav	Psam
+HG_39688 	Anan	OG00	Ppac	Psam	Rhab
+HG_39616 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_36976 	Cele	Dcor	OG00	Pdav	Ppac	Pred
+HG_37992 	Hali	OG00	Pdav	Pred
+HG_84474 	Hali	OG00	Pdav
+HG_84402 	Hali	OG00	Pdav	Pred
+HG_74859 	Anan	Hali	OG00	Pred
+HG_41268 	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_29727 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_35614 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_74585 	Anan	Hali	OG00
+HG_35445 	Anan	Cele	Dcor	OG00	Ppac	Rhab
+HG_74890 	Anan	Hali	OG00	Pred
+HG_35581 	Anan	Cele	Dcor	OG00	Ppac	Psam
+HG_29694 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_67746 	Hali	OG00	Pdav	Pred
+HG_74344 	Anan	OG00	Ppac
+HG_29622 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_78000 	Cele	OG00	Pdav	Pred
+HG_9474 	Anan	Hali	OG00	Pdav	Pred
+HG_27557 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25797 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_27452 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32154 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_130711 	OG01	Pred	Psam
+HG_60863 	Anan	Cele	Dcor	OG00
+HG_9304 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60622 	Anan	Hali	OG00	Pdav	Pred
+HG_116192 	Hali	OG01	Pred
+HG_51613 	Anan	Hali	OG00	Pdav	Pred	Psam
+HG_44846 	Anan	Cele	Hali	OG00	Pred
+HG_46437 	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_13015 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_90512 	OG00	Pdav	Ppac	Pred
+HG_51580 	Anan	Hali	OG00	Pred	Psam
+HG_116300 	Hali	OG01	Pdav
+HG_46501 	Cele	Dcor	Hali	OG00	Pred	Rhab
+HG_84520 	Hali	OG00	Pdav	Pred
+HG_35499 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_74872 	Anan	Hali	OG00	Pred
+HG_74567 	Anan	Hali	OG00	Pred
+HG_37018 	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_29676 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_41281 	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_29604 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_25779 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_29571 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_25707 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam
+HG_70429 	OG00	Pdav	Psam
+HG_33393 	Cele	Dcor	OG00	Ppac	Rhab
+HG_27434 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32272 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_132423 	OG01	Psam	Rhab
+HG_57975 	OG00	Pdav	Ppac
+HG_32200 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_21777 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_24248 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_18425 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_63283 	Cele	Hali	OG00	Pdav
+HG_15544 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_56275 	Hali	OG00	Pdav	Pred
+HG_11647 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_51426 	Anan	OG00	Pdav	Psam
+HG_116322 	Hali	OG01	Pdav
+HG_39716 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_84438 	Hali	OG00	Pdav
+HG_42658 	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_84502 	Hali	OG00	Pdav	Pred
+HG_44690 	Anan	OG00	Pdav	Psam
+HG_80846 	Dcor	OG00	Pdav
+HG_103826 	Cele	OG01	Rhab
+HG_39611 	Anan	Cele	Dcor	OG00	Ppac	Psam
+HG_35545 	Anan	Hali	OG00	Pdav	Pred
+HG_29658 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam
+HG_41263 	Cele	OG00	Pdav	Ppac	Pred
+HG_29722 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_35440 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_29553 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_67741 	Hali	OG00	Pdav	Pred
+HG_25825 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_27488 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32118 	Anan	Hali	OG00	Pdav	Pred
+HG_27552 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_116333 	Hali	OG01	Pred
+HG_25792 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam
+HG_32254 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_116219 	Hali	OG01	Pred
+HG_22944 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25720 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32085 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_60899 	Anan	Hali	OG00	Pdav	Pred
+HG_20807 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_60658 	Anan	Hali	OG00	Pred	Rhab
+HG_60794 	Anan	Hali	OG00	Ppac	Pred
+HG_21790 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_24261 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60553 	Anan	Hali	OG00	Pdav	Psam
+HG_63160 	Cele	OG00	Pred
+HG_56257 	Hali	OG00	Pdav	Pred
+HG_15188 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_13661 	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_47417 	Dcor	Hali	OG00	Pdav	Pred
+HG_116344 	Hali	OG01	Pred
+HG_44777 	Anan	Hali	OG00	Pred	Rhab
+HG_51375 	Anan	Hali	OG00	Pred
+HG_44705 	Anan	Dcor	Hali	OG00	Pred	Psam
+HG_80828 	Dcor	OG00	Rhab
+HG_39665 	Anan	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_44672 	Anan	Cele	Dcor	OG00	Ppac	Psam
+HG_84387 	Hali	OG00	Pdav	Pred
+HG_37528 	Dcor	OG00	Pdav	Ppac	Pred
+HG_84451 	Hali	OG00	Pdav	Pred
+HG_39560 	Anan	Cele	Dcor	OG00	Ppac	Rhab
+HG_74836 	Anan	Hali	OG00	Pred
+HG_35599 	Anan	Hali	OG00	Pdav	Pred
+HG_35527 	Anan	Hali	OG00	Pdav	Ppac	Pred
+HG_35663 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_41245 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_29704 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_67795 	Hali	OG00	Pdav	Pred
+HG_29671 	Anan	Cele	OG00
+HG_33357 	Cele	Dcor	OG00	Rhab
+HG_37013 	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_30509 	Cele	Dcor	OG00	Pdav	Pred	Psam	Rhab
+HG_116355 	Hali	OG01	Pred
+HG_74321 	Anan	OG00	Psam
+HG_27534 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_25774 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_32236 	Anan	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_19887 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_32300 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_65553 	Dcor	OG00	Rhab
+HG_22893 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_60809 	Anan	Hali	OG00	Pdav	Pred
+HG_60945 	Anan	OG00	Pdav	Ppac
+HG_19067 	Anan	Cele	OG00
+HG_17235 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_53527 	Cele	Dcor	OG00	Ppac	Rhab
+HG_51598 	Anan	OG00	Psam
+HG_56270 	Hali	OG00	Pdav	Pred
+HG_48415 	Hali	OG00	Pdav
+HG_132478 	OG01	Psam	Rhab
+HG_51357 	Anan	OG00	Pdav	Pred	Psam
+HG_44895 	Anan	Cele	Dcor	OG00	Ppac	Pred
+HG_51493 	Anan	Hali	OG00	Pdav
+HG_46486 	Cele	Dcor	OG00	Ppac	Pred
+HG_44823 	Anan	Cele	Dcor	OG00	Ppac	Pred
+HG_46414 	Cele	OG00	Pdav	Ppac	Pred
+HG_51421 	Anan	Cele	OG00	Pred	Psam
+HG_39647 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_44654 	Anan	Hali	OG00	Ppac
+HG_44790 	Anan	Dcor	OG00	Pdav
+HG_84433 	Hali	OG00	Pdav	Pred
+HG_39711 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_42653 	Hali	OG00	Pdav
+HG_35509 	Anan	Cele	Dcor	OG00	Ppac	Rhab
+HG_41299 	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_35645 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_29589 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_67777 	Hali	OG00	Pdav
+HG_29517 	Anan	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_29653 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_74680 	Anan	Dcor	OG00
+HG_35540 	Anan	Cele	Dcor	OG00	Pred	Rhab
+HG_29484 	Anan	Cele	Dcor	OG00	Ppac	Pred
+HG_34186 	Hali	OG00	Pdav	Pred	Rhab
+HG_27516 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32218 	Anan	Cele	Dcor	OG00	Pred	Psam	Rhab
+HG_25756 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_32185 	Anan	Hali	OG00	Pdav	Pred
+HG_27483 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred
+HG_25820 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60927 	Anan	OG00	Pdav	Ppac	Pred
+HG_60758 	Anan	Hali	OG00	Pdav	Pred
+HG_32080 	Anan	OG00	Ppac
+HG_58358 	OG00	Psam	Rhab
+HG_63365 	Cele	Hali	OG00	Ppac	Pred
+HG_24225 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_20802 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_53509 	Cele	Dcor	OG00	Ppac	Rhab
+HG_10985 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_56252 	Hali	OG00	Pdav	Ppac	Pred
+HG_116186 	Hali	OG01	Pred
+HG_11760 	Anan	Dcor	Hali	OG00	Pred	Psam
+HG_12335 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_44805 	Anan	Cele	Dcor	OG00	Ppac	Pred
+HG_51403 	Anan	Hali	OG00	Ppac	Pred
+HG_39629 	Anan	Cele	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_46532 	Cele	Hali	OG00	Pdav	Pred	Rhab
+HG_80928 	Dcor	OG00	Pdav	Pred
+HG_84487 	Hali	OG00	Pdav	Pred
+HG_44772 	Anan	Hali	OG00	Pdav	Pred
+HG_84415 	Hali	OG00	Pdav	Pred
+HG_44700 	Anan	Hali	OG00	Pdav	Pred	Psam
+HG_39596 	Anan	Cele	Dcor	OG00	Pred	Psam	Rhab
+HG_39660 	Anan	Cele	Dcor	Hali	OG00	Pred
+HG_84382 	Hali	OG00	Pdav	Pred
+HG_35627 	Anan	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_35594 	Anan	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_67759 	Hali	OG00	Pdav
+HG_35522 	Anan	OG00	Pdav	Ppac
+HG_29635 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_74357 	Anan	OG00	Ppac
+HG_41240 	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_67790 	Hali	OG00	Pdav	Pred
+HG_25802 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_19915 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_30504 	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_65653 	Dcor	OG00	Psam	Rhab
+HG_28176 	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_32231 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_19882 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_22921 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_98529 	Anan	OG00	Psam
+HG_24279 	Anan	Dcor	Hali	OG00	Pdav
+HG_60940 	Anan	OG00	Ppac
+HG_63178 	Cele	Dcor	OG00	Pred
+HG_63106 	Cele	OG00	Pdav	Ppac	Pred
+HG_16760 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_16319 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_17230 	Anan	Cele	Dcor	Hali	OG00	Pdav	Psam	Rhab
+HG_51626 	Anan	Hali	OG00	Pdav	Pred	Psam
+HG_12389 	Cele	OG00	Pdav	Ppac	Psam
+HG_53522 	Cele	Hali	OG00	Ppac	Pred
+HG_90525 	OG00	Pdav	Ppac	Psam
+HG_116316 	Hali	OG01	Pred
+HG_44754 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_48410 	Hali	OG00	Pdav
+HG_84469 	Hali	OG00	Pdav	Pred
+HG_44890 	Anan	Cele	Dcor	OG00	Ppac	Pred
+HG_37987 	Hali	OG00	Pdav	Pred	Psam
+HG_84533 	Hali	OG00	Pdav	Pred
+HG_35609 	Anan	Cele	Dcor	Hali	OG00	Pred	Rhab
+HG_74813 	Anan	Hali	OG00	Pred
+HG_74508 	Anan	OG00	Psam
+HG_29689 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_41294 	Cele	Dcor	Hali	OG00	Pdav	Psam
+HG_29617 	Anan	Cele	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_35504 	Anan	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_74339 	Anan	Dcor	OG00
+HG_74780 	Anan	OG00	Psam
+HG_35640 	Anan	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_41222 	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_67805 	Hali	OG00	Pdav	Pred
+HG_35471 	Anan	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_29584 	Anan	Cele	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_29512 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32285 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_116327 	Hali	OG01	Pdav
+HG_25751 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32213 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_26326 	Cele	Hali	OG00	Pred	Rhab
+HG_22903 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_17799 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60858 	Anan	OG00	Psam
+HG_32180 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_60689 	Anan	Hali	OG00	Pred	Psam
+HG_24292 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_24220 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_56288 	Hali	OG00	Pdav	Pred
+HG_51439 	Anan	OG00	Ppac
+HG_51575 	Anan	OG00	Pred	Psam	Rhab
+HG_90507 	OG00	Pdav	Ppac	Pred
+HG_53471 	Cele	Hali	OG00	Pdav
+HG_116338 	Hali	OG01	Pdav
+HG_44736 	Anan	Hali	OG00	Pdav	Pred
+HG_44872 	Anan	OG00	Pdav	Pred	Psam
+HG_11009 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_44800 	Anan	Cele	Dcor	OG00	Ppac	Pred
+HG_46463 	Cele	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_84515 	Hali	OG00	Pred
+HG_39696 	Anan	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_84482 	Hali	OG00	Pdav	Psam
+HG_39591 	Anan	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_74698 	Anan	OG00	Psam
+HG_35558 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_41276 	Cele	Dcor	OG00	Pdav	Pred	Psam
+HG_74762 	Anan	Dcor	OG00	Pred
+HG_35622 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_74593 	Anan	Dcor	OG00	Pdav
+HG_28686 	Hali	OG00	Pdav	Pred	Psam
+HG_29566 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam
+HG_33388 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_29630 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_116261 	Hali	OG01	Pred
+HG_27565 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_116349 	Hali	OG01	Pred
+HG_65617 	Dcor	OG00	Rhab
+HG_32267 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_22957 	Anan	Cele	Dcor	Hali	OG00	Pdav	Psam
+HG_32098 	Anan	Hali	OG00	Pdav	Psam
+HG_27460 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_97749 	Anan	OG00	Psam
+HG_131209 	OG01	Psam	Rhab
+HG_97813 	Anan	Dcor	OG00
+HG_20787 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_24274 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60871 	Anan	Hali	OG00	Pred
+HG_60566 	Anan	OG00	Psam
+HG_19098 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_15675 	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_51557 	Anan	Hali	OG00	Pdav	Pred
+HG_116272 	Hali	OG01	Pdav
+HG_47397 	Dcor	OG00	Pdav	Psam
+HG_46445 	Cele	Dcor	OG00	Pred	Psam
+HG_51452 	Anan	OG00	Psam
+HG_39678 	Anan	Cele	Dcor	Hali	OG00	Pred
+HG_44685 	Anan	Cele	Dcor	OG00	Pdav	Pred
+HG_39606 	Anan	Cele	OG00
+HG_84464 	Hali	OG00	Pdav	Pred
+HG_39573 	Anan	OG00	Ppac
+HG_74608 	Anan	Cele	OG00	Psam
+HG_41258 	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_29717 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_74880 	Anan	OG00	Ppac
+HG_29548 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_29684 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_67736 	Hali	OG00	Pred
+HG_29612 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_116283 	Hali	OG01	Pred
+HG_67800 	Hali	OG00	Pdav	Pred
+HG_25787 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_32249 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_25715 	Anan	Hali	OG00	Pred
+HG_32313 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_31128 	Hali	OG00	Pred
+HG_27442 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_32280 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_17794 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_9303 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_13825 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_16127 	Hali	OG00	Pdav	Pred
+HG_15552 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_56283 	Hali	OG00	Pdav	Pred
+HG_51539 	Anan	Cele	OG00	Pred	Rhab
+HG_116294 	Hali	OG01	Pred
+HG_48428 	Hali	OG00	Pdav	Pred
+HG_53435 	Cele	Dcor	OG00	Ppac	Rhab
+HG_91695 	OG00	Psam	Rhab
+HG_12671 	Anan	Hali	OG00	Pdav	Pred
+HG_51603 	Anan	Cele	Dcor	OG00	Rhab
+HG_44667 	Anan	Hali	OG00	Pdav	Pred	Psam
+HG_12261 	Hali	OG00	Pdav	Pred
+HG_44731 	Anan	Hali	OG00	Pred	Rhab
+HG_84446 	Hali	OG00	Pdav	Pred
+HG_39724 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam
+HG_42666 	Hali	OG00	Pdav
+HG_84510 	Hali	OG00	Pdav
+HG_74798 	Anan	Dcor	OG00
+HG_35658 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_35489 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_41304 	Cele	Dcor	OG00	Pdav	Psam	Rhab
+HG_37008 	Cele	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_35553 	Anan	Dcor	OG00	Pdav
+HG_29666 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_29497 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_25769 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27496 	Anan	Cele	OG00	Pdav	Pred	Psam
+HG_33383 	Cele	Dcor	OG00	Ppac	Rhab
+HG_32198 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_27424 	Anan	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_22888 	Anan	Hali	OG00	Pdav
+HG_27560 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32262 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_32093 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_21767 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_24238 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_8567 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_57860 	OG00	Pdav	Pred	Psam
+HG_18415 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_19093 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_20236 	Cele	OG00	Pdav	Ppac	Pred	Rhab
+HG_53489 	Cele	Dcor	OG00	Rhab
+HG_14349 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_51416 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_51552 	Anan	Hali	OG00	Pdav
+HG_44785 	Anan	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_51383 	Anan	Hali	OG00	Pdav	Pred
+HG_84428 	Hali	OG00	Pred
+HG_39706 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_44713 	Anan	Hali	OG00	Pdav	Pred
+HG_39537 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_84395 	Hali	OG00	Pdav	Pred
+HG_39673 	Anan	Cele	Dcor	Hali	OG00	Pred
+HG_44680 	Anan	Cele	Dcor	OG00	Pdav	Pred
+HG_39601 	Anan	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_36961 	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_74708 	Anan	Hali	OG00	Pred
+HG_74844 	Anan	OG00	Psam
+HG_29648 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_78026 	Cele	Hali	OG00	Pred
+HG_29712 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_29543 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_33365 	Cele	Dcor	OG00	Ppac	Pred	Rhab
+HG_128803 	OG01	Pdav	Psam
+HG_25815 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_32108 	Anan	OG00	Pdav	Pred	Psam
+HG_116233 	Hali	OG01	Pdav
+HG_25782 	Anan	Cele	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32244 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_22934 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_21749 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam
+HG_60648 	Anan	OG00	Ppac	Pred
+HG_14877 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_21780 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_13820 	Anan	Hali	OG00	Pdav
+HG_44767 	Anan	Cele	Dcor	Hali	OG00	Pred
+HG_48423 	Hali	OG00	Pdav
+HG_53430 	Cele	Dcor	Hali	OG00	Pred
+HG_46494 	Cele	Dcor	Hali	OG00	Pred	Psam
+HG_44831 	Anan	Cele	Hali	OG00	Pred	Psam	Rhab
+HG_46422 	Cele	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_39655 	Anan	Cele	Dcor	OG00	Ppac	Pred	Rhab
+HG_44662 	Anan	Hali	OG00	Pdav	Pred
+HG_7064 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_84441 	Hali	OG00	Pdav	Pred
+HG_42661 	Hali	OG00	Pdav	Pred
+HG_74898 	Anan	OG00	Psam
+HG_39550 	Anan	Hali	OG00	Pdav	Pred
+HG_35589 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_35517 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_35653 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_41235 	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_78144 	Cele	OG00	Ppac	Pred
+HG_29597 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_35484 	Anan	Dcor	Hali	OG00	Pred	Rhab
+HG_35412 	Anan	Cele	Dcor	OG00	Pdav	Pred
+HG_67785 	Hali	OG00	Pdav
+HG_37003 	Cele	Dcor	OG00	Pdav	Ppac	Pred
+HG_29661 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_128509 	OG01	Pdav	Psam
+HG_32298 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_34194 	Hali	OG00	Pdav
+HG_29492 	Anan	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_27524 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25764 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32226 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_32193 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32121 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_9508 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_17804 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_16755 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_21762 	Anan	Hali	OG00	Pdav	Pred	Psam
+HG_24233 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_20810 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_58197 	OG00	Ppac	Pred
+HG_18410 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_14344 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_56260 	Hali	OG00	Pdav
+HG_12584 	Hali	OG00	Pdav	Pred	Rhab
+HG_3386 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_116266 	Hali	OG01	Pred
+HG_48405 	Hali	OG00	Pdav	Pred
+HG_53412 	Cele	Dcor	Hali	OG00	Pred
+HG_15191 	Anan	OG00	Pdav	Ppac	Pred
+HG_44885 	Anan	Cele	Dcor	OG00	Pred
+HG_51483 	Anan	Cele	Dcor	OG00	Pred
+HG_44813 	Anan	Cele	Hali	OG00	Ppac	Pred	Psam
+HG_84528 	Hali	OG00	Pred
+HG_91126 	OG00	Ppac	Rhab
+HG_46540 	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_36997 	Cele	Dcor	Hali	OG00	Pred	Rhab
+HG_44780 	Anan	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_80936 	Dcor	OG00	Rhab
+HG_104006 	Cele	OG01	Pred
+HG_84423 	Hali	OG00	Pdav	Pred
+HG_39701 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_74808 	Anan	OG00	Pdav	Psam
+HG_41289 	Cele	Dcor	Hali	OG00	Pred	Psam
+HG_35635 	Anan	Cele	Dcor	OG00	Ppac	Pred	Rhab
+HG_74703 	Anan	Dcor	OG00
+HG_35466 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_29579 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred
+HG_29507 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_35530 	Anan	Cele	Dcor	Hali	OG00	Pred	Rhab
+HG_67767 	Hali	OG00	Pred
+HG_29643 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_116277 	Hali	OG01	Pred
+HG_70773 	OG00	Ppac	Rhab
+HG_27506 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_27473 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_25810 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32175 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_30512 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27401 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32103 	Anan	Dcor	Hali	OG00	Pdav	Pred
+HG_60917 	Anan	Hali	OG00	Pred
+HG_19890 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_24287 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_21744 	Anan	Hali	OG00	Pdav	Pred	Psam
+HG_60643 	Anan	Hali	OG00	Pdav	Pred
+HG_63114 	Cele	OG00	Ppac	Pred
+HG_14872 	Anan	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_54892 	Dcor	OG00	Pred
+HG_16327 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_128252 	OG01	Pdav	Psam
+HG_116288 	Hali	OG01	Pdav
+HG_90469 	OG00	Pdav	Ppac	Pred
+HG_44867 	Anan	Hali	OG00	Pdav	Pred
+HG_46458 	Cele	Dcor	OG00	Ppac	Pred
+HG_51465 	Anan	Hali	OG00	Pdav	Pred
+HG_44698 	Anan	Hali	OG00	Psam
+HG_46522 	Cele	Dcor	OG00	Ppac	Pred	Rhab
+HG_47402 	Dcor	Hali	OG00	Pred	Rhab
+HG_39619 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_36979 	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_44762 	Anan	Dcor	Hali	OG00	Pred	Rhab
+HG_37995 	Hali	OG00	Pdav	Pred
+HG_84477 	Hali	OG00	Pdav	Pred
+HG_39586 	Anan	Dcor	Hali	OG00	Pdav	Pred
+HG_39650 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred
+HG_37513 	Dcor	Hali	OG00	Pred	Psam
+HG_29697 	Anan	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_35512 	Anan	Hali	OG00	Pdav	Pred
+HG_67749 	Hali	OG00	Pdav	Pred
+HG_29625 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_116299 	Hali	OG01	Pred
+HG_70924 	OG00	Pred	Psam
+HG_29592 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_67780 	Hali	OG00	Pdav	Pred
+HG_27455 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32293 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_104153 	Cele	OG01	Pdav
+HG_63337 	Cele	Dcor	OG00	Pred
+HG_60930 	Anan	OG00	Pdav	Pred	Psam
+HG_63168 	Cele	Dcor	OG00	Pdav
+HG_60761 	Anan	Hali	OG00	Pdav	Pred
+HG_56296 	Hali	OG00	Pdav	Pred
+HG_11901 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_51616 	Anan	Dcor	OG00	Rhab
+HG_91298 	OG00	Pred	Psam	Rhab
+HG_116330 	Hali	OG01	Pred
+HG_44744 	Anan	OG00	Pdav	Psam
+HG_116216 	Hali	OG01	Pred
+HG_41968 	Dcor	OG00	Pdav
+HG_39737 	Anan	Cele	Dcor	Hali	OG00	Pred	Rhab
+HG_84459 	Hali	OG00	Pdav	Pred
+HG_44880 	Anan	Cele	Dcor	OG00	Ppac	Pred
+HG_39568 	Anan	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_84523 	Hali	OG00	Pdav	Pred
+HG_39632 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_36992 	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_84490 	Hali	OG00	Pdav	Pred
+HG_74875 	Anan	Hali	OG00	Pred
+HG_35566 	Anan	OG00	Psam
+HG_29679 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_41284 	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_29607 	Anan	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_34614 	OG00	Pdav	Ppac	Pred
+HG_35630 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_29574 	Anan	Cele	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32308 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_29502 	Anan	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_27437 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_116341 	Hali	OG01	Pred
+HG_32139 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_116227 	Hali	OG01	Pred
+HG_27573 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32275 	Anan	OG00	Psam
+HG_27501 	Anan	Cele	Dcor	OG00	Pdav	Pred	Psam	Rhab
+HG_25741 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_32203 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_17789 	Anan	Dcor	OG00	Pdav	Psam
+HG_60848 	Anan	Dcor	OG00	Pred
+HG_60607 	Anan	OG00	Ppac
+HG_20795 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_54856 	Dcor	Hali	OG00	Ppac	Pred
+HG_24282 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_24210 	Anan	Hali	OG00	Pdav	Pred
+HG_15547 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_56278 	Hali	OG00	Pred
+HG_11955 	Hali	OG00	Pdav	Pred
+HG_16322 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_12497 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_51565 	Anan	OG00	Pred	Psam	Rhab
+HG_116352 	Hali	OG01	Pred
+HG_39719 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_44726 	Anan	Cele	Dcor	OG00	Ppac	Pred
+HG_44862 	Anan	Hali	OG00	Pred	Psam	Rhab
+HG_84505 	Hali	OG00	Pdav	Pred
+HG_39686 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam
+HG_80849 	Dcor	OG00	Rhab
+HG_84472 	Hali	OG00	Pdav
+HG_37990 	Hali	OG00	Pdav	Pred
+HG_84400 	Hali	OG00	Pdav
+HG_39581 	Anan	Cele	Dcor	Hali	OG00	Pdav	Psam
+HG_74857 	Anan	Hali	OG00	Psam
+HG_35548 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_35612 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_29725 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_35443 	Anan	Hali	OG00
+HG_29556 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_33378 	Cele	Dcor	Hali	OG00	Pdav	Pred
+HG_25828 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_29692 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_67744 	Hali	OG00	Pred
+HG_29620 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_27419 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_116161 	Hali	OG01	Pred
+HG_32257 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_27555 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_116249 	Hali	OG01	Pdav
+HG_65607 	Dcor	OG00	Psam	Rhab
+HG_30497 	Cele	Dcor	OG00	Ppac	Pred	Rhab
+HG_32088 	Anan	Cele	Dcor	OG00	Ppac	Psam
+HG_103981 	Cele	OG01	Rhab
+HG_27450 	Anan	OG00	Ppac
+HG_32152 	Anan	Cele	Dcor	OG00	Pred
+HG_19900 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_28161 	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60797 	Anan	Hali	OG00	Pred
+HG_20777 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam
+HG_54838 	Dcor	OG00	Ppac	Psam	Rhab
+HG_24264 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_60556 	Anan	Hali	OG00	Psam	Rhab
+HG_19088 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60620 	Anan	OG00	Psam
+HG_56291 	Hali	OG00	Pdav	Pred
+HG_51547 	Anan	Hali	OG00	Pdav	Pred
+HG_116172 	Hali	OG01	Pdav
+HG_51611 	Anan	Dcor	Hali	OG00	Pred
+HG_44844 	Anan	Dcor	OG00	Pred	Psam
+HG_44675 	Anan	Hali	OG00	Pdav	Pred
+HG_10237 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_39732 	Anan	Cele	Hali	OG00	Pdav	Pred	Psam
+HG_43418 	OG00	Pdav	Psam
+HG_74903 	Anan	OG00	Ppac
+HG_29707 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_35497 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred
+HG_74870 	Anan	Hali	OG00	Pred
+HG_35561 	Anan	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_67798 	Hali	OG00	Pdav	Pred	Rhab
+HG_37016 	Cele	Dcor	Hali	OG00	Pdav	Pred
+HG_29602 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_116183 	Hali	OG01	Pred
+HG_28417 	Dcor	Hali	OG00	Pdav	Ppac
+HG_27537 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_32239 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_74460 	Anan	OG00	Pred	Psam
+HG_25777 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32303 	Anan	OG00	Ppac
+HG_27432 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60948 	Anan	OG00	Psam
+HG_32270 	Anan	OG00	Psam
+HG_65620 	Dcor	OG00	Pred	Psam	Rhab
+HG_24246 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_18423 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_17238 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_14598 	Anan	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_56273 	Hali	OG00	Pdav	Pred
+HG_116194 	Hali	OG01	Pred
+HG_48418 	Hali	OG00	Pdav	Pred
+HG_53425 	Cele	OG00	Pdav	Pred
+HG_49570 	OG00	Pdav	Pred	Psam
+HG_46489 	Cele	Dcor	Hali	OG00	Pred	Rhab
+HG_46417 	Cele	Dcor	Hali	OG00	Pred	Rhab
+HG_51424 	Anan	Hali	OG00	Pdav	Pred	Psam
+HG_51560 	Anan	Cele	Dcor	OG00	Pred
+HG_116302 	Hali	OG01	Pred
+HG_39714 	Anan	Cele	Dcor	OG00	Ppac	Rhab
+HG_84436 	Hali	OG00	Pred
+HG_42656 	Hali	OG00	Pdav	Pred
+HG_39681 	Anan	Cele	Hali	OG00	Pdav	Ppac	Psam	Rhab
+HG_74788 	Anan	Hali	OG00	Ppac
+HG_35648 	Anan	Cele	Dcor	OG00	Ppac	Pred	Rhab
+HG_35543 	Anan	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_29656 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_41261 	Cele	OG00	Pdav
+HG_34189 	Hali	OG00	Pred	Psam	Rhab
+HG_29720 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_27519 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25759 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_27486 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25823 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32188 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_31541 	OG00	Ppac	Pred	Psam
+HG_27414 	Anan	Hali	OG00	Pred	Psam	Rhab
+HG_116313 	Hali	OG01	Pred
+HG_27550 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25790 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam
+HG_22942 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_21757 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60897 	Anan	Hali	OG00	Pdav	Pred
+HG_24228 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60656 	Anan	OG00	Psam
+HG_63263 	Cele	Dcor	OG00	Pdav	Pred
+HG_98340 	Anan	OG00	Psam
+HG_19083 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_51478 	Anan	Hali	OG00
+HG_49552 	OG00	Pdav	Psam
+HG_51542 	Anan	Cele	Dcor	OG00	Pred
+HG_116324 	Hali	OG01	Pred
+HG_44775 	Anan	Cele	Dcor	OG00	Ppac	Psam
+HG_39599 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_46430 	Cele	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_39527 	Anan	Cele	Dcor	OG00	Pred	Psam
+HG_84385 	Hali	OG00	Pred
+HG_11112 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_35597 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_35525 	Anan	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_29638 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_78016 	Cele	OG00	Pred
+HG_26998 	OG00	Ppac	Pred
+HG_35661 	Anan	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_35492 	Anan	Cele	Dcor	Hali	OG00	Ppac	Psam	Rhab
+HG_35420 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred
+HG_29533 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_67793 	Hali	OG00	Pred
+HG_37011 	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_25805 	Anan	Dcor	Hali	OG00	Pdav	Ppac	Psam
+HG_27468 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_30507 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27532 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25772 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_32234 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_32065 	Anan	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_60807 	Anan	Hali	OG00	Pred
+HG_22891 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60943 	Anan	Hali	OG00	Pred	Psam
+HG_15916 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_17812 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_63109 	Cele	Dcor	OG00	Rhab
+HG_21770 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_24241 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_7789 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_128714 	OG01	Pdav	Psam
+HG_116346 	Hali	OG01	Pred
+HG_48413 	Hali	OG00	Pdav	Pred
+HG_53420 	Cele	Dcor	OG00	Ppac	Rhab
+HG_44757 	Anan	Hali	OG00	Pred	Psam
+HG_51355 	Anan	Hali	OG00	Pdav	Psam	Rhab
+HG_46484 	Cele	Dcor	Hali	OG00	Pdav	Pred
+HG_44821 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_80808 	Dcor	OG00	Pdav
+HG_12182 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_39645 	Anan	Cele	Dcor	OG00	Ppac	Psam
+HG_84431 	Hali	OG00	Pdav
+HG_42651 	Hali	OG00	Pred
+HG_35579 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_41297 	Cele	Dcor	OG00	Pred	Rhab
+HG_35507 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_70919 	OG00	Pred	Psam	Rhab
+HG_35474 	Anan	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_29587 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_67775 	Hali	OG00	Pdav	Pred
+HG_74373 	Anan	Cele	OG00	Ppac
+HG_29651 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32288 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_116357 	Hali	OG01	Pred
+HG_29482 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_25754 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_70781 	OG00	Ppac	Pred
+HG_32216 	Anan	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_22906 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27481 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_30520 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_32183 	Anan	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32111 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_60925 	Anan	Hali	OG00	Pdav	Psam
+HG_60756 	Anan	Hali	OG00	Pred
+HG_60892 	Anan	Cele	OG00	Pred	Rhab
+HG_24223 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_20800 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_18400 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_16335 	Anan	OG00	Ppac
+HG_51578 	Anan	Hali	OG00	Pdav	Pred
+HG_7651 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_116280 	Hali	OG01	Pred
+HG_56250 	Hali	OG00	Pdav	Pred
+HG_116166 	Hali	OG01	Pdav
+HG_44739 	Anan	OG00	Psam
+HG_44875 	Anan	Cele	Dcor	OG00	Pred	Rhab
+HG_46466 	Cele	Dcor	OG00	Ppac	Pred	Rhab
+HG_84518 	Hali	OG00	Pdav	Pred
+HG_39699 	Anan	Hali	OG00	Ppac	Psam
+HG_39627 	Anan	Hali	OG00	Pdav	Pred	Rhab
+HG_46530 	Cele	OG00	Pdav	Pred	Rhab
+HG_36987 	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_44770 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam
+HG_80926 	Dcor	OG00	Pdav
+HG_80757 	Dcor	OG00	Rhab
+HG_84413 	Hali	OG00	Pdav	Pred
+HG_39594 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_80821 	Dcor	OG00	Pdav
+HG_41279 	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_43480 	OG00	Ppac	Pred
+HG_37521 	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_28689 	Hali	OG00	Pdav	Pred
+HG_29569 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_35592 	Anan	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_29633 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_35520 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_27568 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_74491 	Anan	OG00	Psam
+HG_32165 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam
+HG_27463 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_30502 	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_65651 	Dcor	OG00	Ppac	Pred
+HG_70353 	OG00	Pdav	Psam
+HG_60907 	Anan	Cele	Dcor	OG00
+HG_19575 	Hali	OG00	Pdav	Pred
+HG_23397 	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_24277 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_60569 	Anan	Hali	OG00	Pdav
+HG_60802 	Anan	Hali	OG00	Ppac	Pred
+HG_98422 	Anan	Hali	OG00
+HG_98117 	Anan	Cele	OG00
+HG_116188 	Hali	OG01	Pred
+HG_51624 	Anan	Cele	Dcor	OG00	Pred
+HG_12387 	Cele	Dcor	OG00	Ppac	Pred	Psam
+HG_44857 	Anan	Cele	Dcor	OG00	Pred	Psam
+HG_51455 	Anan	Cele	Dcor	OG00	Pdav	Pred
+HG_91475 	OG00	Pred	Psam
+HG_51591 	Anan	Hali	OG00	Pdav	Pred
+HG_46512 	Cele	Dcor	OG00	Ppac	Pred	Rhab
+HG_80908 	Dcor	OG00	Pdav
+HG_37985 	Hali	OG00	Pdav
+HG_84531 	Hali	OG00	Pdav	Pred
+HG_39640 	Anan	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_74883 	Anan	Dcor	OG00
+HG_35438 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_29687 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_35574 	Anan	Cele	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_67739 	Hali	OG00	Ppac	Pred	Rhab
+HG_74642 	Anan	Dcor	OG00
+HG_35502 	Anan	Hali	OG00	Pred
+HG_128163 	OG01	Pdav	Psam
+HG_74337 	Anan	Hali	OG00	Pred
+HG_67803 	Hali	OG00	Pdav	Pred
+HG_29582 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_26734 	Hali	OG00	Pdav	Pred
+HG_32316 	Anan	Hali	OG00	Pred	Psam
+HG_32147 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_27445 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32283 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_116307 	Hali	OG01	Pred
+HG_32211 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_21788 	Anan	Dcor	OG00	Pdav	Psam
+HG_25139 	Hali	OG00	Pdav	Pred
+HG_22901 	Anan	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_17797 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_60856 	Anan	Hali	OG00	Pdav	Pred
+HG_60920 	Anan	OG00	Psam
+HG_8633 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_24290 	Anan	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_15555 	Anan	OG00	Psam
+HG_14603 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_56286 	Hali	OG00	Pdav	Pred
+HG_12843 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_51606 	Anan	Hali	OG00	Pred	Rhab
+HG_51573 	Anan	Cele	Dcor	OG00	Psam
+HG_116230 	Hali	OG01	Pdav
+HG_116318 	Hali	OG01	Pred
+HG_10368 	Hali	OG00	Pdav	Pred
+HG_51501 	Anan	Hali	OG00	Pdav	Pred
+HG_84449 	Hali	OG00	Pdav	Pred
+HG_39727 	Anan	Cele	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_44870 	Anan	Hali	OG00	Pdav	Ppac	Pred
+HG_42669 	Hali	OG00	Pred
+HG_130854 	OG01	Pred	Psam
+HG_39558 	Anan	Cele	Dcor	OG00	Ppac
+HG_84513 	Hali	OG00	Pred	Psam
+HG_39622 	Anan	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_41307 	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_29669 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_74760 	Anan	Hali	OG00	Pred
+HG_29564 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_28684 	Hali	OG00	Pdav	Pred
+HG_33386 	Cele	Dcor	OG00	Pdav	Ppac	Psam	Rhab
+HG_27499 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_116241 	Hali	OG01	Pred
+HG_32265 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_116329 	Hali	OG01	Pred
+HG_25731 	Anan	Dcor	OG00	Pdav
+HG_22955 	Anan	Hali	OG00	Pdav	Pred
+HG_32096 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_60838 	Anan	Dcor	OG00	Pdav
+HG_20818 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_32160 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam
+HG_18418 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_60902 	Anan	Hali	OG00	Ppac	Pred
+HG_24272 	Anan	Hali	OG00	Ppac
+HG_19096 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_56268 	Hali	OG00	Pdav	Pred	Rhab
+HG_15199 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_116252 	Hali	OG01	Pred
+HG_39709 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_44852 	Anan	Dcor	OG00	Pdav
+HG_84398 	Hali	OG00	Pdav	Pred
+HG_39604 	Anan	Cele	Dcor	OG00	Pred
+HG_84462 	Hali	OG00	Pdav	Pred
+HG_74847 	Anan	OG00	Pdav	Psam
+HG_35538 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_41256 	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_35602 	Anan	Cele	Dcor	Hali	OG00	Pred	Rhab
+HG_29715 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_35433 	Anan	Cele	Dcor	Hali	OG00	Pred
+HG_29682 	Anan	Cele	Dcor	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_25818 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_67734 	Hali	OG00	Pred
+HG_29610 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_27409 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred
+HG_27545 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_116263 	Hali	OG01	Pred
+HG_24769 	Cele	OG00	Pdav	Ppac
+HG_32247 	Anan	OG00	Ppac	Pred
+HG_19898 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_22937 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_32078 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_32311 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred
+HG_32142 	Anan	Dcor	Hali	OG00	Pred	Psam	Rhab
+HG_27440 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Rhab
+HG_131009 	OG01	Pred	Psam
+HG_57845 	OG00	Pdav	Ppac
+HG_21783 	Anan	Dcor	OG00	Pdav
+HG_97624 	Anan	Hali	OG00
+HG_24254 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_63089 	Cele	OG00	Pdav	Pred	Rhab
+HG_63322 	Cele	OG00	Pdav	Psam
+HG_19078 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_18431 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_13823 	Anan	Hali	OG00	Pdav
+HG_53538 	Cele	Hali	OG00	Pdav	Pred
+HG_98230 	Anan	Hali	OG00
+HG_56281 	Hali	OG00	Pdav	Pred
+HG_51537 	Anan	Cele	Dcor	OG00	Ppac
+HG_116274 	Hali	OG01	Pred
+HG_48426 	Hali	OG00	Pred
+HG_51368 	Anan	OG00	Ppac	Psam	Rhab
+HG_51601 	Anan	Cele	Dcor	OG00	Pred
+HG_46425 	Cele	Dcor	OG00	Ppac	Psam	Rhab
+HG_131652 	OG01	Psam	Rhab
+HG_39658 	Anan	Cele	Dcor	Hali	OG00	Psam
+HG_10532 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_38537 	OG00	Pdav	Ppac	Pred
+HG_42664 	Hali	OG00	Pdav	Pred	Psam
+HG_74829 	Anan	Cele	OG00
+HG_43375 	OG00	Pdav	Psam
+HG_35656 	Anan	OG00	Pdav	Psam
+HG_41238 	Cele	Dcor	OG00	Pdav	Ppac	Rhab
+HG_35487 	Anan	Hali	OG00	Pdav	Pred
+HG_41302 	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam
+HG_35415 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_67788 	Hali	OG00	Pdav	Pred
+HG_29664 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_35551 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Rhab
+HG_37006 	Cele	Dcor	OG00	Pdav	Ppac	Pred	Rhab
+HG_116285 	Hali	OG01	Pred
+HG_27527 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred
+HG_25767 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Psam	Rhab
+HG_32229 	Anan	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_22919 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_27494 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_25831 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam	Rhab
+HG_32196 	Anan	Cele	Dcor	OG00	Ppac	Pred	Psam	Rhab
+HG_32260 	Anan	Cele	Dcor	Hali	OG00	Pdav	Pred	Rhab
+HG_16758 	Anan	Cele	OG00	Pdav	Ppac	Pred	Psam
+HG_21765 	Anan	Hali	OG00	Pdav	Psam
+HG_24236 	Anan	Cele	Dcor	Hali	OG00	Pdav	Ppac	Pred	Psam
+HG_60833 	Anan	Cele	OG00	Pdav
+HG_20813 	Anan	Cele	Dcor	Hali	OG00	Ppac	Pred	Psam	Rhab
+HG_60664 	Anan	Hali	OG00	Pdav

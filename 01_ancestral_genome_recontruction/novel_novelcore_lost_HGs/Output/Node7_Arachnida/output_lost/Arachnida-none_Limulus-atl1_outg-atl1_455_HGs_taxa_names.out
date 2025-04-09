@@ -1,0 +1,455 @@
+HG_6765 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Caug	Cgig	Cint	Clup	Cmil	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Dgyr	Dpol	Drer	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hexe	Hhan	Hman	Hmia	Hrob	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smed	Sorb	Spha	Spur	Tadh	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Tuco	Xlae	Xtro
+HG_36895 	Bpec	Hhan	Llon	Lpol	Myes	OG00	Pesc	Pmag	Pmod
+HG_17482 	Dpul	Lpol	OG00
+HG_7640 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bpec	Care	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Gmag	Gser	Hhan	Hmia	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Obim	Oida	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smed	Spha	Spur	Tadh	Tcar	Ttru	Tuco	Xlae	Xtro
+HG_10632 	Amis	Bbom	Ggan	Gser	Hame	Hsap	Lpol	Npar	OG00	Obim	Smed	Znev
+HG_87392 	Lpol	OG00	Ppol
+HG_7335 	Acal	Acar	Aequ	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hame	Hhan	Hman	Hmia	Hrob	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Sbom	Skow	Spur	Tadh	Tcar	Ttru	Xlae
+HG_6275 	Acar	Amis	Anan	Arub	Asin	Bbom	Bbuf	Blan	Bpec	Care	Cele	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Dcor	Deco	Dgyr	Drer	Eand	Ebur	Emac	Ggal	Ggan	Gmag	Gser	Hhan	Hman	Hmed	Hrob	Hsap	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mdom	Mlig	Muni	Mvul	Npar	Nstr	OG00	Oana	Olat	Onil	Pann	Pcro	Pdav	Pech	Pesc	Pmag	Pmeg	Pmod	Ppac	Psam	Psin	Pwal	Rbiv	Rimm	Rtem	Sbom	Skow	Smar	Smed	Sorb	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_22745 	Acal	Hame	Lpol	OG00	Pcau	Pchi	Pcla	Pech	Pmod	Ppol	Rimm	Smar
+HG_14921 	Aric	Aste	Bcal	Dcar	Dste	Lana	Lpol	OG00	Rota	Rsoc	Rsor	Smed	Tcas
+HG_17190 	Aful	Ajap	Caug	Cint	Ctel	Cuni	Dgyr	Eand	Hrob	Lpol	Mvul	Nvec	OG00	Oida	Pesc	Rimm	Sbom	Znev
+HG_83951 	Gmae	Lpol	OG00
+HG_85 	Acar	Amis	Asin	Bbom	Bbuf	Bpec	Care	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctig	Deco	Drer	Ebur	Emac	Ggal	Ggan	Gser	Hexe	Hhan	Hsap	Lcha	Leri	Lpol	Mdom	Muni	Npar	Nvec	OG00	Oana	Olat	Onil	Pann	Pmag	Pmod	Psin	Pwal	Rbiv	Rtem	Sbom	Sorb	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_6822 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anas	Anja	Aque	Arub	Asin	Bbom	Bbuf	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Deco	Dgyr	Dpol	Drer	Dste	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmae	Gmag	Gser	Hame	Hhan	Hhol	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Mvul	Npar	Nstr	Nvec	OG00	Oana	Obim	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rtem	Sbom	Skow	Smar	Sorb	Spha	Spur	Tadh	Tcar	Tgut	Trub	Ttru	Tuco	Xlae	Xtro
+HG_9981 	Aequ	Ajap	Anja	Arub	Blan	Bner	Cgig	Ctel	Dgyr	Dpol	Eand	Gaeg	Gmag	Hhan	Hrub	Hvul	Lana	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mlig	Mmer	Mvul	Nvec	OG00	Paus	Pcau	Pcro	Pech	Pesc	Ppel	Saro	Skow	Smed	Spur
+HG_6558 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dmel	Dpol	Drer	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gser	Hexe	Hhan	Hman	Hmia	Hrob	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smar	Smed	Sorb	Spha	Spur	Tadh	Tcar	Tcas	Tgut	Trub	Ttru	Tuco	Xlae	Xtro
+HG_30615 	Cqua	Hali	Hexe	Hmia	Lpol	Nvec	OG00	Rvar
+HG_5633 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anas	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Cuni	Dapu	Dcar	Deco	Dgal	Dgyr	Dmag	Dmel	Dpol	Dpul	Drer	Dste	Eaff	Eand	Ebro	Ebur	Echl	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hame	Hazt	Hhan	Hhol	Hman	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Sbom	Skow	Sorb	Spha	Spur	Tadh	Tcal	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Tuco	Xlae	Xtro	Znev
+HG_5457 	Acal	Aequ	Aful	Ajap	Anja	Aque	Arub	Bbuf	Bgla	Blan	Bner	Bpec	Caug	Cfra	Cgig	Cint	Cowc	Cpla	Cuni	Dgyr	Dpol	Drer	Ebro	Echl	Emue	Gaeg	Gmae	Gmag	Gser	Hhan	Hrub	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mlei	Mlig	Mmer	Muni	Myes	Npar	Nstr	Nvec	OG00	Obim	Oida	Pann	Paus	Pech	Pmag	Pmod	Ppel	Rtem	Saro	Sbom	Skow	Smar	Spha	Spur	Tadh	Tuco	Xlae	Xtro
+HG_14870 	Anan	Cele	Dcor	Dpol	Hali	Hhan	Lpol	OG00	Pdav	Pesc	Pred	Rhab
+HG_7433 	Acal	Acar	Aequ	Ajap	Amis	Anas	Anja	Aque	Arub	Asin	Bbom	Bbuf	Bgla	Blan	Bner	Bpec	Care	Caug	Cfra	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Dapu	Deco	Dgal	Dgyr	Dmag	Dmel	Dpol	Dpul	Drer	Dste	Eaff	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmae	Gser	Hame	Hazt	Hhan	Hhol	Hmed	Hrob	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lpol	Mcal	Mcor	Mdom	Mlei	Muni	Myes	Npar	Nstr	OG00	Oana	Obim	Oida	Olat	Pann	Paus	Pcau	Pchi	Pcla	Pcro	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rtem	Rvar	Sbom	Skow	Sorb	Spha	Spur	Tadh	Tcal	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Tuco	Xlae	Xtro	Znev
+HG_46182 	Blan	Ebro	Hame	Lpol	OG00	Rimm
+HG_8899 	Acal	Aful	Ajap	Amis	Anja	Arub	Asin	Bgla	Blan	Bpec	Care	Cele	Cgig	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Cuni	Dcor	Deco	Dgyr	Dpol	Drer	Ebro	Echl	Gaeg	Ggal	Ggan	Gmae	Gmag	Hali	Hame	Hhan	Hrub	Lana	Leri	Llon	Lluy	Lpol	Mmer	Muni	Myes	OG00	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcro	Pech	Pesc	Pmag	Pmod	Ppac	Ppel	Pred	Psam	Pwal	Rbiv	Rhab	Rimm	Rvar	Sorb	Spur	Tadh	Tcar	Trub	Tuco
+HG_24162 	Aequ	Caug	Ctel	Dcar	Dmel	Lpol	Nstr	OG00	Pesc	Znev
+HG_9104 	Acar	Aequ	Aful	Aric	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bpec	Care	Cfra	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctig	Deco	Dmel	Drer	Ebro	Ggal	Ggan	Gser	Hexe	Hhol	Hsap	Lcha	Leri	Lgig	Lluy	Lpol	Mdom	Mlig	Muni	Myes	Npar	OG00	Oana	Olat	Onil	Pann	Paus	Pcro	Pech	Pesc	Pmag	Psam	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Rvar	Sorb	Tadh	Tcar	Tcas	Tgut	Trub	Ttru	Xlae	Xtro
+HG_15563 	Anas	Blan	Cqua	Dmel	Ebur	Hame	Hazt	Hman	Hmed	Hmia	Hrob	Lpol	Mmer	OG00	Pchi	Pcla
+HG_3843 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anan	Anas	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cele	Cfra	Cgig	Cint	Clup	Cmil	Cmyd	Cowc	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Dcar	Dcor	Deco	Dgyr	Dpol	Drer	Eaff	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hali	Hame	Hexe	Hhan	Hmed	Hmia	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pcro	Pdav	Pech	Pesc	Pmag	Pmeg	Pmod	Ppac	Ppel	Pred	Psam	Psin	Pwal	Rbiv	Rhab	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smed	Sorb	Spur	Tadh	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Tuco	Xlae	Xtro	Znev
+HG_3667 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bgla	Blan	Bner	Bpec	Care	Caug	Cfra	Cgig	Cint	Clup	Cmil	Cmyd	Cowc	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dapu	Dcar	Deco	Dgal	Dmag	Dpol	Dpul	Drer	Dste	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmae	Gmag	Gser	Hhan	Hhol	Hman	Hmed	Hrob	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nstr	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psam	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smed	Sorb	Spur	Tadh	Tcar	Tcas	Tgut	Trub	Ttru	Xlae	Xtro	Znev
+HG_14306 	Aequ	Anan	Aric	Aste	Gaeg	Hali	Lpol	Mlig	Nvec	OG00	Pdav	Pred	Psam	Rota	Rsoc
+HG_13393 	Anan	Bner	Dgal	Eaff	Hame	Hhan	Lluy	Lpol	Mvul	Nvec	OG00	Pcau	Pcla	Pcro	Pdav	Pech	Pmod	Ppac	Psam	Rimm	Rvar	Skow	Smar	Tqin
+HG_10030 	Acal	Aequ	Aful	Bgla	Blan	Cuni	Dste	Echl	Emue	Gaeg	Llon	Lpol	Mcal	Mcor	Mlei	Mvul	OG00	Oida	Pcau	Rimm	Rsoc	Saro	Skow	Smar	Spha	Tqin	Tuco
+HG_21947 	Aric	Aste	Dcar	Lpol	Mvul	OG00	Rota	Rsoc	Rsor
+HG_11648 	Cgig	Dpol	Eaff	Gaeg	Hexe	Hhan	Lpol	Mcal	Mmer	Mvul	Nvec	OG00	Rimm	Rvar
+HG_44724 	Anan	Aque	Lpol	OG00	Paus	Sbom
+HG_7314 	Acal	Acar	Aequ	Aful	Ajap	Anja	Aque	Aric	Arub	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpla	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Npar	Nvec	OG00	Oana	Obim	Oida	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmeg	Ppel	Ppol	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Sbom	Skow	Smed	Spha	Spur	Tcar	Tgut	Ttru	Xlae	Xtro
+HG_37306 	Ctel	Eand	Llon	Lluy	Lpol	Mvul	OG00	Paus
+HG_68558 	Hmia	Lpol	OG00
+HG_9460 	Acal	Aequ	Aful	Ajap	Anas	Anja	Aque	Arub	Bcal	Bgla	Bner	Cgig	Cowc	Cqua	Cuni	Dgyr	Dpol	Dste	Eaff	Eand	Ebro	Echl	Emue	Gaeg	Gmae	Gmag	Hame	Hazt	Hexe	Hhan	Hhol	Hrub	Lana	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mmer	Mvul	Myes	Nvec	OG00	Oida	Paus	Pchi	Pcla	Pcro	Pech	Ppel	Ppol	Rvar	Skow	Spha	Spur	Tadh	Tcal
+HG_24841 	Cqua	Ctel	Hame	Hazt	Lpol	OG00	Pcla	Ppol	Psam
+HG_368 	Acal	Acar	Aequ	Aful	Amis	Aque	Aric	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dpol	Drer	Eaff	Ebur	Echl	Emac	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Myes	Npar	Nstr	Nvec	OG00	Oana	Obim	Pann	Paus	Pcau	Pcro	Pesc	Pmeg	Ppel	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Sbom	Skow	Smed	Spha	Tadh	Tcar	Tgut	Ttru	Tuco	Xlae	Xtro
+HG_16302 	Ajap	Anja	Arub	Cgig	Ctel	Dgal	Dmag	Dste	Hazt	Hhan	Lgig	Lpol	Mmer	OG00	Paus	Pcla	Pesc	Ppel	Ppol	Spur
+HG_139 	Acal	Acar	Aequ	Aful	Amis	Anan	Anas	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Dste	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hame	Hazt	Hhan	Hman	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Sorb	Spha	Spur	Tadh	Tcar	Tcas	Tgut	Trub	Ttru	Xlae	Xtro	Znev
+HG_35359 	Ajap	Dpol	Hhan	Lluy	Lpol	Nvec	OG00	Pesc
+HG_67419 	Gmae	Lpol	OG00	Pcau	Tuco
+HG_25639 	Aful	Caug	Lpol	OG00	Pwal	Rimm	Tgut	Trub
+HG_940 	Acal	Aequ	Aful	Ajap	Anja	Aque	Blan	Bpec	Cgig	Cuni	Dgyr	Dpol	Drer	Echl	Hman	Hmed	Hrob	Leri	Lpol	Mcal	Mlei	Mmer	OG00	Obim	Oida	Paus	Pcro	Pesc	Ppel	Spha	Trub
+HG_69210 	Lpol	OG00	Psam
+HG_4681 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hexe	Hhan	Hman	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Olat	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smar	Smed	Spha	Spur	Tadh	Tcar	Tcas	Ttru	Xlae	Xtro
+HG_62094 	Arub	Lpol	OG00
+HG_14524 	Acal	Anja	Arub	Blan	Cgig	Ctel	Dpol	Ebro	Echl	Gmae	Gmag	Hhan	Hrub	Lgig	Llon	Lpol	Mcor	Mmer	Myes	OG00	Obim	Paus	Pesc	Ppel	Rimm	Skow	Smar	Spur	Tuco
+HG_84708 	Hazt	Lpol	OG00
+HG_42108 	Dpol	Hrub	Lpol	Mmer	OG00	Pcau
+HG_9382 	Acar	Aequ	Ajap	Amis	Anja	Arub	Asin	Bbom	Bbuf	Blan	Bpec	Care	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Ctig	Deco	Dpol	Drer	Ebro	Emac	Gaeg	Ggal	Ggan	Gmag	Gser	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Lluy	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Myes	OG00	Oana	Obim	Olat	Onil	Pann	Paus	Pcau	Pesc	Pmag	Pmeg	Ppel	Psin	Pwal	Rbiv	Rimm	Rtem	Sbom	Sorb	Spur	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_26468 	Cuni	Eand	Lpol	Mvul	OG00	Oida	Pech
+HG_9300 	Aequ	Ajap	Amis	Anja	Aque	Arub	Asin	Bbom	Bbuf	Care	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctig	Dapu	Deco	Dpul	Drer	Ebro	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Lpol	Mcal	Mcor	Mdom	Muni	Myes	Npar	Nvec	OG00	Oana	Pann	Paus	Pcau	Pesc	Pmeg	Ppel	Psin	Pwal	Rbiv	Rtem	Saro	Sbom	Skow	Spur	Tgut	Ttru	Xlae	Xtro
+HG_11930 	Caug	Ebro	Emue	Hame	Hvul	Lpol	Mvul	OG00	Obim	Smar	Smed
+HG_86658 	Lana	Lpol	OG00	Skow
+HG_46364 	Caug	Cqua	Dpul	Lpol	OG00	Pchi	Tcas
+HG_6506 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dpol	Drer	Eand	Ebro	Ebur	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hexe	Hhan	Hman	Hmia	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Spur	Tadh	Tcar	Tcas	Trub	Xlae	Xtro
+HG_25634 	Aful	Arub	Cint	Cpla	Hrub	Leri	Lpol	OG00	Pcau	Pcla	Tuco
+HG_18352 	Aequ	Anja	Arub	Blan	Cgig	Dpol	Emue	Hhan	Llon	Lluy	Lpol	Myes	OG00	Paus	Pech	Spur	Znev
+HG_60193 	Aful	Dapu	Dpul	Lpol	OG00
+HG_10317 	Acar	Amis	Asin	Bbom	Bbuf	Bpec	Care	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctig	Deco	Dgyr	Drer	Ebur	Emac	Ggal	Ggan	Gser	Hsap	Lcha	Leri	Lpol	Mdom	Muni	Npar	OG00	Oana	Olat	Onil	Pann	Pmag	Pmeg	Pmod	Psin	Pwal	Rbiv	Rtem	Sbom	Sorb	Tcar	Tgut	Trub	Ttru	Tuco	Xlae	Xtro
+HG_29754 	Anas	Cqua	Eaff	Hame	Hazt	Lpol	OG00	Pcla	Ppol
+HG_66998 	Ebro	Hmed	Lpol	OG00
+HG_35336 	Ajap	Dcar	Dmag	Dpul	Lpol	OG00	Rsoc	Tcar
+HG_8291 	Acar	Aequ	Aful	Ajap	Amis	Aque	Aric	Asin	Aste	Bbom	Bbuf	Bgla	Blan	Bner	Bpec	Care	Cgig	Cint	Clup	Cmyd	Cpic	Cpor	Cser	Ctig	Dcar	Deco	Dgal	Dgyr	Dmel	Dpol	Drer	Dste	Eaff	Emac	Ggal	Gmae	Gmag	Gser	Hazt	Hhan	Hhol	Hsap	Iele	Lana	Leri	Llon	Lluy	Lpol	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	OG00	Oana	Oida	Onil	Pann	Paus	Pchi	Pcro	Pech	Pesc	Pmag	Pmeg	Ppel	Ppol	Pwal	Rbiv	Rota	Rsoc	Rsor	Sbom	Sorb	Tadh	Tcal	Tcar	Tcas	Tqin	Trub	Ttru	Xlae	Znev
+HG_6428 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Arub	Asin	Bbom	Bbuf	Bgla	Bner	Bpec	Care	Caug	Cele	Cfra	Cgig	Cint	Clup	Cmil	Cmyd	Cowc	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dapu	Dcor	Deco	Dgal	Dgyr	Dmag	Dmel	Dpol	Dpul	Drer	Dste	Eaff	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmae	Gmag	Gser	Hame	Hazt	Hhan	Hhol	Hrub	Hsap	Iele	Lana	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Mvul	Myes	Npar	Nstr	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pech	Pesc	Pmag	Pmeg	Pmod	Ppac	Ppel	Ppol	Psam	Psin	Pwal	Rbiv	Rimm	Rtem	Sbom	Skow	Smar	Sorb	Spha	Spur	Tadh	Tcal	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Tuco	Xlae	Xtro	Znev
+HG_19847 	Ajap	Dgyr	Echl	Hame	Hman	Lana	Llon	Lluy	Lpol	Nstr	OG00	Pech	Ppol	Rimm	Spha	Znev
+HG_26204 	Bbuf	Bcal	Cqua	Hame	Lpol	OG00	Obim	Pchi	Pcla
+HG_8533 	Acar	Aequ	Ajap	Amis	Anja	Aque	Asin	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Clup	Cmil	Cowc	Cpic	Cpla	Cpor	Cqua	Cser	Ctig	Cuni	Deco	Dpol	Eand	Ebur	Echl	Emac	Gaeg	Ggal	Ggan	Gmag	Gser	Hame	Hhan	Hhol	Hman	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lpol	Mcor	Mdom	Mlei	Mmer	Muni	Mvul	Npar	Nvec	OG00	Obim	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rimm	Rtem	Sbom	Skow	Smar	Sorb	Spur	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_15604 	Aric	Aste	Ctel	Dcar	Drer	Hhan	Lpol	Mmer	OG00	Ppol	Rota	Rsoc	Rsor	Tgut
+HG_53318 	Caug	Iele	Lpol	OG00
+HG_48447 	Hame	Lpol	OG00	Ppol	Psam
+HG_10489 	Acar	Amis	Arub	Asin	Blan	Care	Cmyd	Cpic	Cser	Ctig	Deco	Emac	Emue	Gaeg	Ggal	Hmia	Lpol	Mlei	Mvul	OG00	Pesc	Pmeg	Psin	Sorb	Tcar	Tgut
+HG_3037 	Acal	Aequ	Aful	Anan	Aque	Aric	Aste	Bgla	Cele	Cfra	Cgig	Ctel	Cuni	Dcar	Dcor	Dgyr	Dpol	Eand	Ebro	Echl	Emue	Gaeg	Gmag	Hali	Hhan	Hman	Hmed	Hmia	Hrob	Hrub	Lana	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mlig	Mmer	Mvul	Myes	Nvec	OG00	Obim	Oida	Paus	Pcau	Pcro	Pech	Pesc	Ppac	Ppel	Pred	Psam	Rhab	Rota	Rsoc	Rsor	Skow	Smed	Tuco
+HG_5827 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Iele	Lana	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smed	Sorb	Spha	Spur	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Tuco	Xlae	Xtro	Znev
+HG_2200 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dmel	Dpol	Drer	Eand	Ebro	Ebur	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hexe	Hhan	Hman	Hmia	Hrob	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smar	Smed	Sorb	Spha	Spur	Tadh	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Tuco	Xlae	Xtro
+HG_8857 	Acal	Aequ	Aful	Ajap	Amis	Anja	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctig	Dcar	Deco	Dgyr	Drer	Ebro	Echl	Emac	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hrub	Hsap	Lana	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mmer	Muni	Mvul	Myes	Npar	OG00	Obim	Pann	Paus	Pcau	Pcro	Pech	Pmag	Pmeg	Ppel	Pwal	Rbiv	Rsoc	Rsor	Rtem	Sbom	Skow	Spur	Tadh	Tcar	Ttru	Xlae	Xtro
+HG_4767 	Acar	Ajap	Amis	Anja	Aric	Arub	Asin	Bbom	Bbuf	Blan	Bpec	Care	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctig	Deco	Drer	Ebur	Emac	Ggal	Ggan	Gser	Hsap	Lcha	Leri	Lpol	Mdom	Muni	Npar	OG00	Oana	Olat	Onil	Pann	Pcro	Pesc	Pmag	Pmeg	Pmod	Psin	Pwal	Rbiv	Rota	Rtem	Sbom	Sorb	Tcar	Tgut	Trub	Ttru	Xlae	Xtro	Znev
+HG_77608 	Bpec	Hhan	Lpol	OG00
+HG_26409 	Cqua	Dgal	Dpul	Hame	Hhol	Iele	Lpol	OG00	Pchi	Ppol	Rimm	Znev
+HG_30367 	Bcal	Cqua	Ebro	Hame	Lpol	OG00	Pcau	Pchi	Pcla
+HG_24713 	Blan	Cgig	Echl	Gaeg	Gmag	Lana	Lpol	Mcal	OG00	Paus	Ppel	Skow
+HG_22953 	Anan	Anja	Aque	Hhan	Lpol	OG00	Psam	Rimm
+HG_28031 	Bbuf	Bpec	Ebur	Lpol	Mcor	OG00	Olat	Onil	Pmag	Pmod	Rimm	Sorb
+HG_20406 	Ebro	Hexe	Lpol	OG00	Rvar	Tuco
+HG_60393 	Ajap	Lpol	OG00	Spur
+HG_7178 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Arub	Asin	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hmia	Hrub	Hsap	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Onil	Pann	Paus	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rtem	Sbom	Skow	Smed	Sorb	Spha	Spur	Tadh	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_123026 	Lpol	OG01	Rimm
+HG_17823 	Anas	Blan	Caug	Eaff	Eand	Ebro	Echl	Gmae	Lpol	Mcor	Mvul	OG00	Obim	Oida	Pdav	Rimm	Rvar
+HG_1021 	Aequ	Ajap	Anan	Anas	Anja	Aque	Aric	Arub	Aste	Bcal	Blan	Bner	Bpec	Caug	Cfra	Cgig	Cint	Cmil	Cowc	Cpla	Cqua	Ctel	Dapu	Dcar	Dgal	Dmag	Dmel	Dpol	Dpul	Drer	Dste	Eaff	Eand	Echl	Emue	Gaeg	Gmae	Gmag	Hame	Hazt	Hexe	Hhan	Hhol	Hmia	Hrub	Hvul	Lana	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mlig	Mmer	Mvul	Myes	Nstr	Nvec	OG00	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pcro	Pech	Pesc	Pmag	Pmod	Ppel	Ppol	Psam	Rhab	Rota	Rsoc	Rsor	Rvar	Saro	Skow	Sorb	Spur	Tcal	Tqin	Trub	Tuco	Znev
+HG_12636 	Acal	Aric	Aste	Dcar	Lpol	Muni	Myes	Nstr	OG00	Pchi	Pcla	Ppol	Pwal	Rota	Rsoc	Rsor	Rtem
+HG_8553 	Acal	Acar	Aequ	Ajap	Amis	Anja	Aque	Arub	Asin	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Cfra	Cgig	Cint	Clup	Cmil	Cmyd	Cowc	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Deco	Dpol	Drer	Eand	Ebur	Echl	Emac	Gaeg	Ggal	Ggan	Gser	Hhan	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Myes	Nvec	OG00	Oana	Oida	Olat	Onil	Pann	Paus	Pcau	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Saro	Skow	Sorb	Spur	Tcar	Tgut	Trub	Ttru	Tuco	Xlae	Xtro
+HG_48711 	Hhol	Hrob	Lluy	Lpol	Mvul	OG00	Pcro
+HG_3450 	Acar	Aequ	Amis	Anja	Arub	Asin	Bbom	Bbuf	Blan	Bpec	Care	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctig	Cuni	Dapu	Deco	Dgal	Dmag	Dmel	Dpul	Drer	Eaff	Eand	Ebro	Ebur	Echl	Emac	Gaeg	Ggal	Ggan	Gmae	Gmag	Gser	Hhan	Hmia	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcor	Mdom	Muni	Mvul	Npar	Nvec	OG00	Oana	Obim	Olat	Onil	Pann	Pcau	Pchi	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rtem	Sbom	Skow	Smar	Sorb	Spur	Tcal	Tcar	Tgut	Trub	Ttru	Tuco	Xlae	Xtro	Znev
+HG_11223 	Aful	Ajap	Aric	Cqua	Ctel	Cuni	Dcar	Eand	Ebro	Echl	Gmae	Gmag	Hame	Hazt	Hhan	Hman	Hrob	Lluy	Lpol	Mcor	Mvul	OG00	Obim	Oida	Paus	Pcau	Pchi	Pcro	Rimm	Rota	Rsoc	Rsor	Smar	Spha	Tuco	Znev
+HG_6480 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dmel	Dpol	Drer	Eand	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hman	Hmia	Hrob	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Sbom	Skow	Smar	Smed	Sorb	Spha	Spur	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Xlae	Xtro	Znev
+HG_41523 	Cqua	Hame	Lpol	Nstr	OG00	Pchi	Pcla	Saro
+HG_30890 	Dmel	Lpol	OG00	Smed
+HG_9808 	Anan	Blan	Cele	Dcor	Eaff	Hali	Lpol	Mlei	OG00	Pdav	Ppac	Pred	Psam	Rhab	Rimm	Smar	Tcal
+HG_24762 	Caug	Dmag	Dpul	Eaff	Ebro	Gmag	Hhan	Lpol	Mcor	OG00	Obim	Pwal
+HG_22287 	Ctel	Cuni	Ebro	Hhan	Hrub	Iele	Lluy	Lpol	OG00	Pesc	Rimm	Tadh	Tcas	Tqin	Znev
+HG_7952 	Acal	Aequ	Aful	Ajap	Amis	Anja	Aque	Arub	Asin	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Deco	Dpol	Drer	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mlei	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rimm	Rtem	Sbom	Skow	Smar	Sorb	Spha	Spur	Tadh	Tcar	Tcas	Tgut	Trub	Ttru	Tuco	Xlae	Xtro
+HG_56107 	Gmae	Lpol	OG00
+HG_15512 	Aequ	Aque	Aric	Bcal	Blan	Dcar	Emue	Lpol	Mlig	Mmer	OG00	Obim	Rsoc	Tuco
+HG_11751 	Aful	Ctel	Cuni	Hrob	Lpol	OG00	Oida
+HG_41987 	Dgal	Dmag	Lpol	OG00	Pcla	Rimm	Smar	Tqin
+HG_87390 	Lpol	OG00	Rimm	Smar
+HG_30736 	Ctig	Emac	Lcha	Lpol	OG00	Pann
+HG_24913 	Dapu	Dgal	Dmag	Dpul	Dste	Hame	Lpol	OG00	Tcal
+HG_44914 	Anas	Eaff	Lpol	Mlig	OG00	Smed
+HG_41969 	Dgal	Dmag	Dpul	Dste	Hrob	Lpol	OG00	Rimm
+HG_10202 	Acal	Aequ	Aful	Anja	Aque	Arub	Bgla	Blan	Bner	Cgig	Cqua	Ctel	Cuni	Dmel	Dpol	Dste	Echl	Gaeg	Gmae	Gmag	Hazt	Hhan	Hrub	Iele	Lana	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mlei	Mmer	Nstr	OG00	Obim	Paus	Pcau	Pchi	Pcla	Pcro	Pech	Pesc	Ppel	Ppol	Skow	Spha	Tcas	Tuco	Znev
+HG_43045 	Lpol	OG00	Pcau	Tqin	Tuco
+HG_8975 	Acal	Aequ	Ajap	Amis	Anja	Arub	Asin	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Deco	Dpol	Drer	Ebur	Echl	Emac	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hrub	Hsap	Lana	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Pann	Paus	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rtem	Sbom	Skow	Spha	Spur	Tcar	Tgut	Ttru	Xlae	Xtro
+HG_32276 	Anan	Hali	Lpol	OG00	Obim	Pdav	Pred	Psam	Rhab
+HG_22966 	Anas	Caug	Cqua	Dmel	Gmag	Hame	Hhan	Lpol	OG00	Pchi	Pcla	Pesc	Ppel	Ppol
+HG_7874 	Acal	Aequ	Aful	Ajap	Anja	Aque	Aric	Arub	Aste	Bgla	Blan	Cfra	Cgig	Cowc	Cqua	Ctel	Dcar	Dgal	Dgyr	Dmag	Dpol	Dpul	Eand	Echl	Emue	Gaeg	Gmae	Gmag	Hazt	Hhan	Hhol	Hmia	Hrub	Iele	Lana	Lgig	Lpol	Mcal	Mcor	Mlig	Mmer	Mvul	Myes	Nvec	OG00	Oida	Pchi	Pcla	Pesc	Ppel	Ppol	Rimm	Rota	Rsoc	Rsor	Saro	Spur	Tadh	Tqin	Znev
+HG_56102 	Gmae	Hhol	Lpol	OG00	Rimm	Smar
+HG_16290 	Ajap	Anan	Anja	Aque	Cele	Dcor	Hali	Hhan	Lpol	OG00	Ppac	Pred	Psam	Rhab
+HG_34428 	Lpol	OG00	Xlae
+HG_5760 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hexe	Hhan	Hman	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smar	Smed	Sorb	Spha	Spur	Tadh	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Tuco	Xlae	Xtro
+HG_14681 	Caug	Dgyr	Ebro	Lpol	OG00	Pesc	Trub
+HG_14271 	Acal	Ctel	Cuni	Dgal	Dmag	Dpul	Dste	Echl	Gmae	Gmag	Hame	Hazt	Hhan	Lana	Lgig	Llon	Lluy	Lpol	OG00	Oida	Paus	Pcau	Ppol	Rimm	Smar
+HG_69213 	Lpol	OG00	Paus
+HG_8903 	Acar	Aequ	Ajap	Amis	Anja	Arub	Asin	Bbom	Bbuf	Blan	Bpec	Care	Caug	Cgig	Clup	Cmil	Cmyd	Cowc	Cpic	Cpla	Cpor	Cser	Ctig	Deco	Dpol	Drer	Ebur	Emac	Emue	Gaeg	Ggal	Gser	Hhan	Hhol	Hrub	Hsap	Lana	Lcha	Leri	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Olat	Onil	Pann	Paus	Pcau	Pmag	Pmeg	Pmod	Psin	Pwal	Rbiv	Rtem	Saro	Sbom	Sorb	Spur	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_16664 	Acal	Aful	Hhan	Lpol	OG00	Oida	Paus	Rota
+HG_55732 	Ebro	Lpol	OG00	Spha	Znev
+HG_8130 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anas	Anja	Aque	Arub	Asin	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Clup	Cmil	Cmyd	Cowc	Cpic	Cpla	Cpor	Cqua	Ctel	Ctig	Cuni	Dapu	Deco	Dgal	Dgyr	Dmag	Dpol	Dpul	Drer	Eaff	Eand	Ebro	Emac	Gaeg	Ggal	Gmae	Gmag	Gser	Hazt	Hhan	Hman	Hmed	Hmia	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lpol	Mcor	Mdom	Mmer	Muni	Mvul	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pchi	Pcla	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rimm	Rtem	Sbom	Skow	Smar	Sorb	Spur	Tadh	Tcal	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_10420 	Acar	Amis	Asin	Bbom	Bbuf	Bpec	Care	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctig	Deco	Drer	Ebur	Emac	Ggal	Ggan	Gser	Hsap	Lcha	Leri	Lpol	Mdom	Muni	Npar	OG00	Oana	Olat	Onil	Pann	Pmag	Pmeg	Pmod	Psam	Psin	Pwal	Rbiv	Rtem	Sbom	Sorb	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_12011 	Aful	Ebro	Emue	Hvul	Lpol	OG00
+HG_36665 	Aste	Gmae	Lpol	OG00	Rota	Rsoc	Tcal
+HG_9379 	Acar	Ajap	Amis	Asin	Bbom	Bbuf	Blan	Bner	Bpec	Care	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Deco	Drer	Ebro	Ebur	Emac	Ggal	Ggan	Gser	Hhan	Hmia	Hrob	Hsap	Lcha	Leri	Lgig	Llon	Lpol	Mdom	Muni	Npar	OG00	Oana	Olat	Onil	Pann	Pmag	Pmeg	Pmod	Psin	Pwal	Rbiv	Rtem	Sbom	Sorb	Tcar	Tcas	Tgut	Trub	Ttru	Xlae	Xtro
+HG_1199 	Acal	Acar	Aequ	Ajap	Amis	Anja	Aric	Arub	Asin	Aste	Bbom	Bbuf	Blan	Bner	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Dcar	Deco	Dgyr	Dpol	Drer	Dste	Eaff	Eand	Ebur	Echl	Emac	Gaeg	Ggal	Ggan	Gmag	Gser	Hame	Hazt	Hhan	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Olat	Onil	Pann	Pchi	Pcla	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Sorb	Spur	Tadh	Tcal	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_28262 	Cqua	Hame	Iele	Lpol	OG00	Pchi	Pcla	Ppol
+HG_64554 	Cuni	Dste	Gmag	Lpol	OG00
+HG_8501 	Acal	Aequ	Aful	Ajap	Amis	Anja	Arub	Asin	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Clup	Cmil	Cmyd	Cpic	Cpla	Ctig	Cuni	Dgyr	Dpol	Drer	Ebur	Echl	Emac	Gaeg	Gmag	Gser	Hhan	Hmia	Hrub	Hsap	Lcha	Leri	Llon	Lpol	Mcal	Mcor	Mdom	Mlei	Mmer	Muni	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Pesc	Pmag	Pmeg	Ppel	Psin	Pwal	Rbiv	Rtem	Sbom	Skow	Sorb	Spha	Spur	Tadh	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_10748 	Ajap	Anja	Aque	Arub	Blan	Cowc	Emue	Gaeg	Gmag	Hhan	Hhol	Hrub	Llon	Lpol	Mcor	Mmer	OG00	Obim	Paus	Ppel	Spha	Spur
+HG_12234 	Cmil	Dcar	Dste	Iele	Lpol	OG00	Pesc	Rota	Znev
+HG_7177 	Acal	Aful	Anas	Aste	Bcal	Bgla	Cqua	Cuni	Dpol	Eaff	Gaeg	Gmae	Gmag	Hame	Hazt	Hhan	Hhol	Hrub	Lpol	Mcal	Mcor	Mmer	OG00	Oida	Pchi	Pcla	Rimm	Rsoc	Saro	Tqin
+HG_48263 	Gmae	Lpol	OG00	Pcla	Rimm	Tcas	Znev
+HG_3046 	Acal	Acar	Aequ	Ajap	Amis	Anja	Asin	Bbom	Bbuf	Bpec	Care	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctig	Deco	Dpol	Drer	Emac	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Myes	Npar	Nvec	OG00	Oana	Oida	Olat	Onil	Pann	Pcau	Pmag	Pmeg	Pmod	Psin	Pwal	Rbiv	Rtem	Sbom	Sorb	Spur	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_5965 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Arub	Asin	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Ebur	Echl	Emac	Gaeg	Ggal	Ggan	Gmae	Gmag	Gser	Hexe	Hhan	Hrob	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rtem	Rvar	Sbom	Skow	Sorb	Spha	Spur	Tadh	Tcar	Tgut	Trub	Ttru	Tuco	Xlae	Xtro
+HG_37189 	Cqua	Hazt	Iele	Lpol	OG00	Pchi	Pcla	Pcro	Znev
+HG_31934 	Aequ	Ajap	Anja	Blan	Lpol	Nvec	OG00	Rimm
+HG_15579 	Aque	Emue	Lpol	OG00
+HG_47703 	Dpol	Lpol	Myes	OG00	Oida
+HG_12288 	Acal	Aequ	Aful	Aque	Bgla	Blan	Cgig	Cuni	Dpol	Eaff	Ebro	Echl	Emue	Gaeg	Gmae	Gmag	Hhan	Hhol	Hrub	Lpol	Mcal	Mcor	Mmer	Nvec	OG00	Oida	Pesc	Saro	Tadh	Tcal
+HG_123062 	Lpol	OG01	Ppol
+HG_7507 	Acar	Aequ	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bcal	Blan	Bner	Care	Caug	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctig	Dcar	Deco	Dgyr	Eand	Emac	Ggan	Hexe	Hsap	Lana	Lcha	Leri	Llon	Lluy	Lpol	Mdom	Mlei	Mvul	Nstr	Nvec	OG00	Oana	Pann	Paus	Pcau	Pech	Pesc	Pmeg	Ppol	Psin	Rota	Rsoc	Rsor	Rvar	Skow	Smar	Spur	Tqin	Ttru	Tuco
+HG_37781 	Eand	Gmae	Hmia	Hvul	Lluy	Lpol	OG00	Smed
+HG_6359 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bgla	Blan	Bner	Bpec	Care	Cfra	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggan	Gmag	Gser	Hame	Hazt	Hhan	Hman	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Pann	Paus	Pcau	Pchi	Pcla	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psam	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smar	Smed	Spha	Spur	Tadh	Tcar	Trub	Ttru	Tuco	Xlae	Xtro
+HG_30762 	Dapu	Dgal	Dpul	Lpol	OG00	Pwal
+HG_23449 	Cqua	Dste	Gmae	Hame	Hazt	Hhol	Lpol	OG00	Pcau	Pchi	Pcla	Pesc	Rimm	Smar
+HG_1168 	Acar	Aequ	Aful	Ajap	Amis	Anas	Anja	Aric	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bpec	Care	Cfra	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Dapu	Dcar	Deco	Dgal	Dmel	Dpul	Drer	Dste	Eaff	Ebro	Ebur	Echl	Emac	Ggal	Ggan	Gmae	Gmag	Gser	Hame	Hazt	Hhan	Hhol	Hman	Hsap	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcor	Mdom	Mlig	Muni	Npar	Nstr	Nvec	OG00	Oana	Obim	Olat	Onil	Pann	Pchi	Pcla	Pcro	Pesc	Pmag	Pmeg	Pmod	Ppol	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Sbom	Skow	Smed	Sorb	Tadh	Tcal	Tcar	Tcas	Tgut	Trub	Ttru	Xlae	Xtro	Znev
+HG_21689 	Aequ	Amis	Dmag	Leri	Lluy	Lpol	OG00	Pmeg	Pmod	Ppel	Pwal	Rimm	Saro	Skow
+HG_21174 	Caug	Dpul	Ebro	Gmae	Hazt	Lpol	OG00	Rimm	Smar	Tcas	Znev
+HG_12165 	Aequ	Ajap	Anja	Aque	Arub	Bpec	Cmil	Cowc	Cpla	Ctel	Drer	Emue	Gmae	Hhan	Hhol	Lana	Leri	Llon	Lluy	Lpol	Nvec	OG00	Onil	Pesc	Pmag	Pmod	Skow	Smar	Spur	Tadh	Tuco
+HG_12060 	Bpec	Lluy	Lpol	Mmer	OG00	Obim	Pann	Pech
+HG_35698 	Anas	Cqua	Hame	Hazt	Lpol	OG00	Pcla	Tcal
+HG_9122 	Bpec	Cmil	Cpla	Drer	Gmae	Leri	Lpol	OG00	Olat	Onil	Pann	Pmag	Pmod	Sorb	Trub
+HG_3644 	Acar	Amis	Asin	Bbom	Bbuf	Bpec	Care	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctig	Deco	Drer	Ebur	Emac	Ggal	Ggan	Gser	Hsap	Lcha	Leri	Lpol	Mdom	Mlei	Muni	Npar	OG00	Oana	Olat	Onil	Pann	Pmag	Pmeg	Pmod	Psin	Pwal	Rbiv	Rtem	Sbom	Skow	Sorb	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_10041 	Acar	Aequ	Ajap	Amis	Anja	Aque	Arub	Asin	Bcal	Blan	Bner	Care	Caug	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctig	Deco	Dgyr	Eand	Ebur	Emac	Hexe	Hsap	Lcha	Leri	Llon	Lluy	Lpol	Mdom	Mvul	Nvec	OG00	Oana	Pann	Paus	Pesc	Pmeg	Psin	Rvar	Spur	Tcar	Tqin	Ttru
+HG_6721 	Acal	Acar	Aequ	Aful	Amis	Anja	Aque	Arub	Asin	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Deco	Dpol	Drer	Eaff	Eand	Ebro	Ebur	Emac	Emue	Gaeg	Ggal	Ggan	Gmae	Gmag	Gser	Hhan	Hhol	Hsap	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Oida	Olat	Onil	Pann	Paus	Pcau	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rimm	Rtem	Saro	Sbom	Skow	Smar	Sorb	Spur	Tcal	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_37504 	Dcor	Lpol	OG00	Spur
+HG_16910 	Caug	Ctel	Dgyr	Ebro	Gmae	Hali	Hman	Hmed	Hrob	Lluy	Lpol	Mvul	OG00	Pchi	Pech	Rimm	Smar	Tcas	Tqin	Znev
+HG_13386 	Ajap	Aric	Aste	Bcal	Cmil	Dcar	Dgal	Dgyr	Hhol	Iele	Lpol	Mcal	Nstr	OG00	Rota	Rsoc	Rsor	Tcas
+HG_67448 	Gmae	Lpol	OG00	Rimm
+HG_31281 	Lgig	Lpol	OG00	Obim	Skow
+HG_16828 	Aric	Aste	Dcar	Hvul	Lpol	OG00	Rota	Rsoc	Rsor
+HG_26202 	Bbuf	Caug	Dmel	Eaff	Hame	Lpol	OG00	Pchi	Pcla	Tcal	Tcas	Tqin	Znev
+HG_7961 	Acar	Aequ	Amis	Anan	Aque	Arub	Asin	Bbom	Bbuf	Bcal	Bgla	Bner	Bpec	Care	Cele	Cfra	Cgig	Cint	Clup	Cmil	Cmyd	Cowc	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Dcor	Deco	Dgal	Dmel	Drer	Dste	Ebro	Emac	Gaeg	Ggal	Ggan	Gser	Hali	Hame	Hazt	Hexe	Hhan	Hrob	Hrub	Hsap	Iele	Leri	Llon	Lluy	Lpol	Mcor	Mdom	Muni	Npar	OG00	Oana	Obim	Olat	Onil	Pann	Paus	Pcau	Pchi	Pesc	Pmag	Pmeg	Pmod	Pred	Psam	Psin	Pwal	Rbiv	Rimm	Rtem	Rvar	Saro	Sbom	Skow	Smar	Sorb	Spur	Tcal	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Xlae	Xtro
+HG_19025 	Aful	Blan	Cpor	Cuni	Dste	Ebro	Hmia	Lluy	Lpol	Mvul	OG00	Oida	Pcau	Pmod	Psam	Pwal	Rimm	Smar
+HG_14079 	Anas	Gmae	Hhan	Lpol	Mcal	OG00
+HG_39846 	Aque	Lpol	OG00	Rimm	Rsoc
+HG_123056 	Lpol	OG01	Znev
+HG_77319 	Bner	Lpol	OG00
+HG_12124 	Acal	Aequ	Ajap	Aque	Arub	Bgla	Blan	Cgig	Cuni	Dpol	Ebro	Echl	Emue	Hhan	Hhol	Hrub	Lana	Lgig	Lluy	Lpol	Mcal	Mcor	Mmer	Mvul	Myes	Nvec	OG00	Oida	Paus	Pcau	Pesc	Ppel	Psam	Skow	Spur	Tuco
+HG_6838 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hexe	Hhan	Hmia	Hrob	Hrub	Hsap	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smed	Sorb	Spha	Spur	Tadh	Tcar	Tcas	Tgut	Trub	Ttru	Xlae	Xtro
+HG_7213 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Ebur	Echl	Emac	Gaeg	Ggal	Ggan	Gmae	Gmag	Gser	Hhan	Hman	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nstr	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pesc	Pmag	Pmeg	Pmod	Ppel	Psam	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smar	Smed	Sorb	Spha	Spur	Tadh	Tcal	Tcar	Tgut	Trub	Ttru	Xlae	Xtro	Znev
+HG_9827 	Acal	Aequ	Ajap	Anja	Aque	Arub	Blan	Bpec	Cgig	Cint	Cmil	Cpla	Dgyr	Dpol	Echl	Gaeg	Gmag	Hame	Hhan	Hmia	Hrub	Iele	Lana	Leri	Lgig	Llon	Lpol	Mcal	Mcor	Mmer	Myes	Nstr	Nvec	OG00	Obim	Olat	Pcau	Pchi	Pcro	Pesc	Pmag	Pmod	Ppel	Ppol	Saro	Skow	Sorb	Spur	Tadh	Tcal	Trub	Tuco
+HG_29424 	Ajap	Anas	Cqua	Gmae	Hame	Hhan	Lpol	OG00	Pchi	Pcla
+HG_115245 	Gmae	Lpol	OG01
+HG_18004 	Bner	Caug	Cgig	Cuni	Dpol	Echl	Hhol	Hmed	Hrob	Lgig	Lpol	Mcor	OG00	Obim	Ppel	Spha
+HG_39777 	Anas	Cqua	Gmae	Hame	Lpol	OG00
+HG_9595 	Aequ	Amis	Anja	Arub	Asin	Blan	Bner	Care	Caug	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Ctig	Deco	Eand	Emac	Ggan	Hexe	Hsap	Lana	Lcha	Leri	Llon	Lluy	Lpol	Mdom	Mvul	Nvec	OG00	Oana	Paus	Pcau	Pech	Pesc	Pmeg	Ppol	Psin	Rvar	Skow	Spur	Tcar	Ttru
+HG_65970 	Dmel	Lpol	OG00
+HG_24629 	Arub	Blan	Lpol	OG00	Saro	Spur
+HG_8494 	Acal	Acar	Aequ	Ajap	Amis	Anja	Arub	Asin	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cowc	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Deco	Dpol	Drer	Eand	Ebur	Echl	Emac	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hhol	Hrub	Hsap	Lana	Lcha	Leri	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Olat	Onil	Pann	Paus	Pcau	Pech	Pesc	Pmag	Pmeg	Pmod	Psin	Pwal	Rbiv	Rtem	Sbom	Skow	Sorb	Spha	Spur	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_24114 	Aequ	Anja	Aric	Arub	Hhan	Lluy	Lpol	OG00	Ppol	Spur
+HG_56077 	Gmae	Lpol	OG00	Pmod
+HG_6977 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cowc	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Echl	Emac	Emue	Gaeg	Ggan	Gmag	Gser	Hexe	Hhan	Hman	Hmia	Hrob	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlig	Mmer	Muni	Mvul	Myes	Nvec	OG00	Oana	Obim	Oida	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rvar	Saro	Skow	Smed	Sorb	Spha	Spur	Tadh	Tcar	Ttru	Tuco
+HG_3350 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anan	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hexe	Hhan	Hman	Hmia	Hrob	Hrub	Hsap	Hvul	Iele	Lana	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pdav	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smar	Smed	Sorb	Spur	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Xlae	Xtro
+HG_87393 	Lpol	OG00	Psam
+HG_3086 	Acal	Acar	Aful	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bpec	Care	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dpol	Drer	Dste	Eand	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hmia	Hrob	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlig	Mmer	Muni	Mvul	Myes	Npar	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smed	Sorb	Spha	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_9925 	Ajap	Anan	Aric	Arub	Aste	Cele	Cint	Dcar	Dcor	Dste	Emue	Hali	Hhol	Lpol	Nvec	OG00	Pcau	Pdav	Pesc	Ppac	Pred	Psam	Rhab	Rota	Rsoc	Rsor	Saro	Tuco
+HG_123039 	Lpol	OG01	Rimm
+HG_103749 	Caug	Lpol	OG01
+HG_8736 	Acal	Acar	Aric	Arub	Aste	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Cele	Cfra	Cgig	Clup	Cmil	Cmyd	Cpic	Cpor	Cser	Ctel	Cuni	Dapu	Deco	Dgal	Dmag	Dpul	Drer	Eand	Emac	Ggal	Gmae	Hame	Hazt	Hhan	Hrob	Hrub	Hsap	Lana	Lcha	Lluy	Lpol	Mcal	Mcor	Mdom	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Olat	Onil	Paus	Pchi	Pesc	Pmag	Pmeg	Pmod	Psam	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Sbom	Skow	Sorb	Tcar	Trub	Ttru	Xlae	Xtro
+HG_13158 	Acal	Bgla	Blan	Cgig	Ctel	Dgyr	Dpol	Eand	Echl	Gaeg	Gmag	Hrub	Iele	Lana	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mmer	Mvul	Myes	OG00	Obim	Pcau	Pech	Pesc	Ppac	Ppel	Rimm	Tuco	Znev
+HG_649 	Acar	Aequ	Ajap	Amis	Anja	Aque	Arub	Asin	Bbom	Bbuf	Bcal	Blan	Bner	Bpec	Care	Caug	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebur	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hame	Hhan	Hman	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rtem	Saro	Sbom	Skow	Smar	Sorb	Spur	Tcar	Tgut	Trub	Ttru	Tuco	Xlae	Xtro
+HG_87375 	Lpol	OG00	Smed
+HG_2268 	Acar	Amis	Anja	Aric	Asin	Aste	Bbom	Bbuf	Bcal	Blan	Bpec	Care	Clup	Cmyd	Cpic	Cpor	Cqua	Cser	Ctel	Ctig	Dcar	Deco	Drer	Eand	Gmae	Gser	Hame	Hazt	Hman	Hmed	Hrob	Hsap	Lana	Lgig	Llon	Lluy	Lpol	Mcal	Mdom	Muni	Mvul	Npar	OG00	Oana	Olat	Onil	Pann	Pchi	Pcla	Pcro	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Smed	Sorb	Tcar	Tgut	Tqin	Trub	Ttru	Xlae	Xtro
+HG_22969 	Anas	Lpol	OG00	Tcas	Znev
+HG_8158 	Acar	Aequ	Ajap	Amis	Anja	Aque	Arub	Asin	Bbom	Bbuf	Blan	Bner	Bpec	Care	Cfra	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Dcar	Deco	Dgyr	Drer	Dste	Eand	Ebur	Emac	Emue	Gaeg	Ggal	Ggan	Gmae	Gser	Hhol	Hmia	Hsap	Hvul	Lana	Lcha	Leri	Llon	Lluy	Lpol	Mdom	Mlei	Muni	Mvul	Npar	Nstr	OG00	Oana	Olat	Onil	Pann	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Psin	Pwal	Rbiv	Rtem	Saro	Sbom	Skow	Sorb	Spur	Tadh	Tcar	Tgut	Trub	Ttru	Tuco	Xlae	Xtro
+HG_13581 	Aequ	Aric	Dgyr	Dste	Gmae	Gmag	Hhan	Hhol	Hmia	Hrub	Llon	Lpol	Nvec	OG00	Obim	Pcau	Pesc	Rota	Skow	Tuco
+HG_8117 	Ajap	Ctel	Echl	Gaeg	Hali	Hrub	Lluy	Lpol	Mlig	Myes	OG00	Obim	Rtem
+HG_54071 	Cqua	Hame	Lpol	OG00	Pchi
+HG_5716 	Acal	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hman	Hmia	Hrob	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Onil	Pann	Paus	Pcau	Pcro	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smar	Smed	Spha	Spur	Tadh	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_5160 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anas	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cqua	Cser	Ctig	Dapu	Dcar	Deco	Dgal	Dgyr	Dmag	Dmel	Dpol	Dpul	Drer	Dste	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hame	Hazt	Hhan	Hhol	Hman	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Iele	Lana	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nstr	OG00	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pech	Pesc	Pmag	Pmod	Ppel	Psam	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Sbom	Skow	Smed	Sorb	Spha	Spur	Tadh	Tcar	Tcas	Tgut	Trub	Ttru	Tuco	Xlae	Xtro	Znev
+HG_16444 	Caug	Lpol	OG00
+HG_26797 	Hhol	Lpol	OG00
+HG_28452 	Dpol	Gmag	Lpol	Mmer	OG00
+HG_25676 	Ajap	Anas	Eaff	Hame	Lana	Lpol	OG00	Pcau	Pesc	Pmod	Spur
+HG_2108 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anan	Anas	Anja	Aric	Arub	Asin	Aste	Bbom	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Dapu	Dcar	Dcor	Deco	Dgyr	Dmag	Dpol	Dpul	Drer	Dste	Eaff	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hali	Hame	Hazt	Hhan	Hhol	Hman	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlig	Mmer	Muni	Myes	Nstr	Nvec	OG00	Oana	Oida	Olat	Pann	Paus	Pcau	Pchi	Pcla	Pdav	Pech	Pesc	Pmag	Pmeg	Pmod	Ppac	Ppel	Pred	Psam	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Sbom	Skow	Smar	Sorb	Spur	Tcal	Tcar	Tcas	Tgut	Ttru	Tuco	Xlae	Xtro	Znev
+HG_9269 	Acal	Acar	Aful	Ajap	Arub	Aste	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Cgig	Clup	Cmil	Cowc	Cpic	Cpla	Cser	Ctig	Cuni	Dcar	Deco	Dpol	Drer	Ebro	Echl	Emac	Gaeg	Gmae	Gser	Hhan	Hrub	Hsap	Lcha	Lgig	Llon	Lpol	Mcal	Mdom	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Olat	Onil	Pann	Pcau	Pcro	Pesc	Pmag	Ppel	Pwal	Rbiv	Rtem	Sbom	Skow	Sorb	Spur	Tcar	Ttru	Xlae	Xtro
+HG_8520 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Arub	Asin	Bbom	Bbuf	Bgla	Blan	Care	Cgig	Clup	Cmil	Cmyd	Cowc	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Deco	Dpol	Drer	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hrub	Hsap	Leri	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Myes	Npar	Nvec	OG00	Oana	Obim	Olat	Onil	Pann	Paus	Pcau	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Rbiv	Rtem	Saro	Sbom	Skow	Smar	Spur	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_8039 	Ctig	Emac	Hhan	Leri	Lpol	OG00	Obim	Spha
+HG_6868 	Acal	Bgla	Cgig	Dpol	Echl	Gaeg	Gmag	Hhan	Hrub	Lgig	Lpol	Mcal	Mcor	Mmer	Myes	OG00	Paus	Ppel
+HG_87352 	Lpol	OG00	Rimm
+HG_42009 	Dgyr	Hhol	Hrob	Lpol	Mcal	Mmer	OG00
+HG_67438 	Gmae	Lpol	OG00	Spha
+HG_9728 	Acal	Aequ	Aful	Amis	Anja	Arub	Asin	Bbom	Bgla	Blan	Care	Cgig	Cmyd	Cpla	Cser	Cuni	Dapu	Dcar	Deco	Dgal	Dmag	Dmel	Dpol	Dpul	Dste	Eand	Ebro	Echl	Emue	Gmag	Gser	Hhan	Hrub	Iele	Lana	Leri	Llon	Lpol	Mcal	Mcor	Mmer	Myes	Nvec	OG00	Oida	Paus	Pcau	Pmeg	Pwal	Rbiv	Rsoc	Saro	Skow	Spur	Tuco	Xlae	Xtro
+HG_18714 	Dapu	Dgal	Dmag	Dmel	Dpul	Eaff	Gmae	Hame	Lpol	OG00	Pchi	Ppol	Tcal
+HG_24094 	Acar	Anan	Caug	Cpic	Eand	Hali	Leri	Lpol	Mvul	OG00	Ppol	Psam	Tgut
+HG_21310 	Drer	Lpol	Mmer	OG00	Pcla	Rtem	Sorb
+HG_14374 	Aric	Aste	Bcal	Dcar	Gmae	Lpol	OG00	Rota	Rsoc	Rsor
+HG_6513 	Acal	Acar	Aequ	Ajap	Amis	Anja	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dpol	Drer	Eand	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hexe	Hhan	Hmia	Hrob	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Rvar	Sbom	Skow	Smed	Sorb	Spha	Spur	Tadh	Tcar	Tgut	Trub	Ttru	Tuco	Xlae	Xtro
+HG_16767 	Anas	Ebro	Lpol	OG00
+HG_8313 	Acal	Acar	Aful	Ajap	Amis	Anja	Aque	Arub	Asin	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Caug	Cgig	Clup	Cmil	Cmyd	Cowc	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Deco	Drer	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gser	Hame	Hhan	Hhol	Hmed	Hrob	Hsap	Iele	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Npar	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pchi	Pcla	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rimm	Rtem	Sbom	Skow	Sorb	Spha	Spur	Tadh	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_13404 	Anas	Cqua	Dapu	Dgal	Dmag	Dmel	Dpol	Dpul	Dste	Eaff	Gaeg	Gmag	Hame	Hazt	Hrub	Iele	Lgig	Lpol	Mcor	Mmer	OG00	Pcau	Pchi	Pcla	Ppel	Spur	Tcal	Tcas
+HG_87388 	Lpol	Mcal	OG00
+HG_10049 	Aequ	Anas	Blan	Bner	Cgig	Cqua	Dgyr	Dpol	Dste	Eaff	Hame	Hazt	Hhol	Hvul	Lana	Lpol	Mcal	Mlig	Mmer	Myes	Nstr	Nvec	OG00	Paus	Pchi	Pcla	Pcro	Pesc	Psam	Skow	Smar	Tcal
+HG_83555 	Emue	Lpol	OG00
+HG_67369 	Gmae	Lpol	OG00
+HG_4764 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hmia	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Sbom	Skow	Smed	Spha	Spur	Tadh	Tcar	Tgut	Tqin	Trub	Ttru	Xlae	Xtro
+HG_15933 	Anan	Lpol	OG00	Psam
+HG_21177 	Caug	Cqua	Dgal	Dmag	Dmel	Dpul	Gmae	Hazt	Hhol	Iele	Lpol	OG00	Pcla	Rimm	Smar	Tcas	Znev
+HG_81705 	Dpol	Lpol	OG00
+HG_6652 	Acal	Aequ	Aful	Ajap	Amis	Anas	Anja	Aque	Asin	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Clup	Cmil	Cmyd	Cowc	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Dapu	Deco	Dgal	Dmag	Dpol	Dpul	Drer	Dste	Eaff	Ebro	Ebur	Echl	Emac	Emue	Ggal	Ggan	Gmae	Gmag	Gser	Hame	Hazt	Hhan	Hhol	Hman	Hmia	Hrob	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nstr	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rtem	Saro	Sbom	Smed	Sorb	Spha	Spur	Tadh	Tcal	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Xlae	Xtro	Znev
+HG_33764 	Dcar	Lana	Lpol	OG00	Rota	Rsor
+HG_22208 	Caug	Dpul	Lpol	OG00	Tcas
+HG_7907 	Acar	Aequ	Ajap	Anas	Aric	Arub	Aste	Bbom	Bbuf	Blan	Bpec	Care	Caug	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cqua	Cser	Ctel	Ctig	Dapu	Dcar	Deco	Dgal	Dpul	Drer	Eaff	Echl	Emac	Gaeg	Ggal	Ggan	Gser	Hame	Hazt	Hhan	Hsap	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcor	Mdom	Mlei	Mmer	Muni	Myes	Npar	Nvec	OG00	Oana	Obim	Olat	Onil	Pann	Pcla	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Rvar	Sbom	Skow	Sorb	Spur	Tcal	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_7087 	Acal	Acar	Aequ	Aful	Ajap	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Gmag	Gser	Hhan	Hman	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smed	Sorb	Spha	Spur	Tadh	Tcar	Tgut	Tqin	Trub	Ttru	Tuco	Xlae	Xtro
+HG_28191 	Cgig	Dpol	Lpol	Mmer	Myes	OG00
+HG_56354 	Hexe	Lpol	OG00	Pchi	Rvar
+HG_123064 	Lpol	Nstr	OG01
+HG_9780 	Acal	Acar	Aequ	Amis	Arub	Asin	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Deco	Dpol	Drer	Emac	Ggal	Ggan	Gser	Hsap	Leri	Llon	Lpol	Mcor	Mmer	Muni	Myes	OG00	Oana	Olat	Onil	Pann	Paus	Pesc	Pmag	Pmeg	Pmod	Pwal	Rbiv	Rtem	Saro	Sbom	Skow	Sorb	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_41206 	Caug	Cmyd	Dmag	Ebro	Gmae	Lpol	OG00
+HG_12555 	Caug	Cqua	Dgyr	Dpol	Dpul	Eaff	Eand	Hame	Hman	Hmed	Hmia	Hrob	Iele	Lluy	Lpol	Mmer	Mvul	OG00	Pchi	Pech	Ppol	Rimm	Smar	Tcal
+HG_122036 	Llon	Lpol	OG01
+HG_12281 	Acal	Aequ	Aful	Ajap	Anja	Aque	Arub	Bgla	Blan	Caug	Cgig	Ctel	Cuni	Dpol	Ebro	Echl	Emue	Gaeg	Gmae	Gmag	Hhan	Hrub	Hvul	Llon	Lluy	Lpol	Mcal	Mcor	Myes	OG00	Obim	Oida	Paus	Pech	Pesc	Ppel	Smar	Spur
+HG_5756 	Acal	Acar	Aequ	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hman	Hmia	Hrob	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Saro	Skow	Smar	Smed	Spha	Spur	Tadh	Tcar	Tcas	Tgut	Tqin	Ttru	Xlae	Xtro
+HG_8745 	Acal	Aequ	Aful	Ajap	Anja	Aque	Aric	Arub	Aste	Bbuf	Bcal	Bgla	Blan	Bner	Cgig	Cint	Cpla	Ctel	Ctig	Cuni	Dcar	Dgyr	Dpol	Eand	Emac	Emue	Gaeg	Gmag	Hexe	Hhan	Hmia	Hrub	Lcha	Leri	Llon	Lluy	Lpol	Mcal	Mcor	Mlei	Mlig	Mmer	Mvul	Myes	Nvec	OG00	Obim	Oida	Pann	Paus	Pcro	Pech	Pesc	Ppel	Pwal	Rota	Rsoc	Rsor	Rtem	Rvar	Sbom	Skow	Smed	Spha	Spur	Tadh	Xlae
+HG_8657 	Acal	Acar	Amis	Anja	Asin	Bbom	Bbuf	Blan	Bner	Care	Cgig	Clup	Cmyd	Cpic	Cpla	Cpor	Cser	Cuni	Deco	Dpol	Ebro	Emac	Gaeg	Ggal	Ggan	Gmag	Hhan	Hrub	Hsap	Iele	Lana	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Myes	Npar	OG00	Obim	Onil	Pcau	Pech	Pesc	Pmeg	Ppel	Psin	Pwal	Rbiv	Rimm	Rtem	Sbom	Skow	Smar	Sorb	Spha	Tcar	Tgut	Ttru	Tuco	Xlae	Xtro	Znev
+HG_79472 	Cser	Lpol	OG00
+HG_33828 	Dmag	Dpul	Dste	Gmae	Hhol	Lpol	OG00	Rimm
+HG_67856 	Hame	Lpol	OG00	Psam
+HG_2500 	Acal	Aequ	Aful	Anja	Bbom	Bbuf	Bgla	Blan	Cgig	Cpla	Cuni	Dpol	Drer	Dste	Ebur	Echl	Gaeg	Gmag	Hhan	Hrub	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mmer	Myes	Npar	Nvec	OG00	Oida	Pann	Pesc	Ppel	Pwal	Rtem	Saro	Sbom	Tcal	Xlae	Xtro
+HG_24819 	Cmil	Cpic	Lpol	Npar	OG00	Pmeg	Rtem	Tcar
+HG_69206 	Lpol	OG00	Pcla
+HG_24304 	Anas	Dste	Hrub	Llon	Lpol	Nvec	OG00	Pcau	Rimm	Skow	Spha
+HG_56026 	Gaeg	Lpol	OG00	Obim
+HG_8214 	Acar	Aequ	Ajap	Amis	Anja	Aque	Arub	Asin	Blan	Bner	Care	Caug	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctig	Deco	Dgyr	Emac	Ggal	Ggan	Hexe	Hsap	Lana	Lcha	Leri	Llon	Lpol	Mdom	Mlei	Nvec	OG00	Oana	Pann	Paus	Pcau	Pesc	Pmeg	Psin	Rimm	Rvar	Skow	Spur	Tcar	Tqin	Ttru	Tuco
+HG_84566 	Hame	Lpol	OG00
+HG_41529 	Cqua	Dmel	Hrub	Lpol	OG00	Pchi	Pcla	Tcas
+HG_38280 	Lpol	OG00	Pcro
+HG_31840 	Acar	Cmyd	Drer	Llon	Lpol	Npar	OG00	Pcla
+HG_123047 	Lpol	OG01	Znev
+HG_32005 	Ajap	Anja	Ebro	Lpol	OG00
+HG_17519 	Gmae	Hhol	Lpol	OG00
+HG_16703 	Aequ	Lpol	Mmer	OG00	Paus	Pcro
+HG_15485 	Acal	Aful	Ctel	Cuni	Dmag	Dpol	Dpul	Dste	Ebro	Echl	Gmae	Gmag	Hhan	Lgig	Lluy	Lpol	Mcor	OG00	Obim	Oida	Pchi	Pcla	Pech
+HG_7830 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Arub	Asin	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cowc	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dapu	Deco	Dgal	Dmag	Dpol	Dpul	Drer	Eaff	Eand	Ebro	Ebur	Echl	Emac	Gaeg	Ggal	Ggan	Gmae	Gmag	Gser	Hhan	Hhol	Hrub	Hsap	Iele	Lana	Lcha	Leri	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Mvul	Npar	Nstr	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pech	Pesc	Pmag	Pmeg	Pmod	Ppol	Psin	Pwal	Rbiv	Rtem	Saro	Sbom	Skow	Sorb	Spha	Spur	Tcar	Tgut	Trub	Ttru	Tuco	Xlae	Xtro	Znev
+HG_4407 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Cint	Clup	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dpol	Drer	Eand	Ebro	Ebur	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hexe	Hhan	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smar	Smed	Sorb	Spur	Tadh	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Tuco	Xlae	Xtro
+HG_57160 	Lpol	Mcor	Mvul	OG00	Obim	Pcro
+HG_3652 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anan	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Ebur	Emac	Emue	Gaeg	Ggal	Ggan	Gmae	Gmag	Gser	Hali	Hhan	Hman	Hmed	Hmia	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nstr	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Pred	Psam	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Sbom	Skow	Sorb	Spur	Tadh	Tcar	Tcas	Tgut	Trub	Ttru	Xlae	Xtro	Znev
+HG_7478 	Acal	Aequ	Aful	Ajap	Amis	Anan	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cele	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Cuni	Dcar	Dcor	Deco	Dgyr	Dpol	Drer	Ebro	Echl	Emac	Gaeg	Ggal	Ggan	Gmag	Hali	Hhan	Hhol	Hmia	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Myes	Npar	Nvec	OG00	Oana	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppac	Pred	Psam	Psin	Pwal	Rhab	Rimm	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smar	Smed	Sorb	Spur	Tadh	Tcar	Tgut	Trub	Ttru	Tuco	Xlae
+HG_53263 	Bpec	Lpol	Mmer	OG00	Pmag	Pmod
+HG_42768 	Hhan	Lgig	Lpol	Nstr	OG00
+HG_9495 	Acar	Aequ	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bcal	Blan	Bner	Care	Caug	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cser	Ctig	Dcar	Deco	Dgyr	Eand	Emac	Hexe	Hsap	Hvul	Lana	Lcha	Leri	Llon	Lluy	Lpol	Mdom	Mvul	Nvec	OG00	Oana	Pann	Pcau	Pesc	Pmeg	Ppol	Psin	Rota	Rsoc	Rsor	Rvar	Skow	Spur	Tcar	Tqin	Ttru	Tuco
+HG_6119 	Acal	Acar	Ajap	Amis	Anja	Arub	Asin	Bbom	Bbuf	Bcal	Blan	Bner	Bpec	Care	Caug	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Dapu	Deco	Dgal	Dmag	Dpul	Drer	Dste	Eaff	Eand	Ebro	Ebur	Emac	Gaeg	Ggal	Ggan	Gmag	Gser	Hexe	Hhan	Hhol	Hman	Hmed	Hrub	Hsap	Iele	Lana	Lcha	Leri	Lluy	Lpol	Mcor	Mdom	Mmer	Muni	Myes	Npar	OG00	Oana	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rtem	Sbom	Skow	Smar	Sorb	Spur	Tcar	Tcas	Tgut	Trub	Ttru	Tuco	Xlae	Xtro
+HG_25830 	Anan	Cuni	Dgal	Dpul	Ebro	Lpol	Mcor	OG00	Oida	Pmod	Ppol	Smed
+HG_14105 	Aric	Aste	Dcar	Iele	Lpol	Mmer	OG00	Rota	Rsoc	Rsor	Tcas	Tqin	Znev
+HG_87378 	Lpol	OG00	Smar
+HG_13056 	Blan	Hame	Lcha	Lpol	OG00	Obim	Pwal
+HG_47494 	Dgal	Dmag	Dpul	Eaff	Lpol	OG00	Tcal
+HG_54092 	Cqua	Hazt	Lpol	OG00	Pchi	Pcla
+HG_45083 	Aque	Lpol	OG00
+HG_20456 	Hame	Hazt	Lpol	OG00	Pchi
+HG_61010 	Anas	Lpol	OG00
+HG_7359 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Ebro	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hexe	Hhan	Hman	Hmia	Hrob	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Rvar	Sbom	Skow	Smed	Spha	Spur	Tadh	Tcar	Tcas	Tgut	Ttru	Xlae	Xtro
+HG_8322 	Acal	Acar	Aequ	Amis	Anas	Bbom	Bbuf	Bgla	Blan	Bner	Bpec	Care	Caug	Cfra	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cqua	Cser	Ctig	Cuni	Deco	Dgal	Dgyr	Dmag	Dpol	Dpul	Drer	Ebro	Emac	Gaeg	Ggal	Ggan	Gmag	Gser	Hame	Hhan	Hhol	Hman	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Lluy	Lpol	Mcal	Mdom	Mmer	Muni	Mvul	Myes	Nvec	OG00	Oana	Obim	Olat	Onil	Pann	Paus	Pchi	Pcla	Pech	Pesc	Pmag	Pmeg	Ppel	Pwal	Rbiv	Rimm	Rtem	Sbom	Sorb	Spha	Spur	Tadh	Tcar	Tgut	Trub	Ttru	Xlae	Xtro	Znev
+HG_8146 	Acal	Acar	Aful	Ajap	Amis	Anja	Arub	Asin	Bbom	Bbuf	Blan	Bpec	Care	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Deco	Dpol	Drer	Eand	Ebro	Ebur	Echl	Emac	Gaeg	Ggal	Ggan	Gmae	Gmag	Gser	Hhan	Hhol	Hrub	Hsap	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mdom	Mmer	Muni	Mvul	Myes	Npar	Nstr	OG00	Obim	Oida	Olat	Onil	Pann	Paus	Pdav	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rimm	Rtem	Saro	Sbom	Skow	Smar	Sorb	Spha	Spur	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_12445 	Acal	Bner	Dpol	Gaeg	Gmag	Hhan	Hrub	Lana	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mmer	Myes	OG00	Obim	Paus	Pech	Pesc	Ppel	Skow	Spha
+HG_1872 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hman	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmeg	Ppel	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smed	Spha	Spur	Tadh	Tcar	Tgut	Ttru	Tuco	Xlae	Xtro
+HG_66989 	Ebro	Lpol	OG00
+HG_5921 	Acar	Aequ	Amis	Aque	Aric	Asin	Aste	Bbom	Bbuf	Bgla	Blan	Bner	Bpec	Care	Cele	Cfra	Cgig	Clup	Cmil	Cmyd	Cpic	Cpor	Cser	Ctel	Ctig	Cuni	Dapu	Dcor	Deco	Dgal	Dmag	Dpol	Dpul	Drer	Ebur	Emac	Gaeg	Ggal	Ggan	Gmae	Gser	Hazt	Hhan	Hman	Hmia	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Llon	Lpol	Mcal	Mcor	Mdom	Mlig	Mmer	Muni	Myes	Nvec	OG00	Oana	Olat	Onil	Pann	Paus	Pchi	Pcla	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppac	Ppel	Psam	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Smar	Sorb	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_4861 	Acal	Acar	Aequ	Ajap	Amis	Anja	Aque	Arub	Asin	Bbom	Bbuf	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cqua	Ctel	Ctig	Deco	Dmel	Dpol	Drer	Eaff	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hame	Hazt	Hexe	Hhan	Hrub	Hsap	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Myes	Npar	Nvec	OG00	Oana	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rimm	Rtem	Rvar	Saro	Sbom	Skow	Smar	Sorb	Spur	Tadh	Tcal	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Tuco	Xlae	Xtro	Znev
+HG_56890 	Hvul	Lpol	Myes	OG00
+HG_55802 	Ebro	Lpol	OG00	Ppol
+HG_6573 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hman	Hmed	Hmia	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smed	Sorb	Spur	Tadh	Tcar	Tgut	Trub	Ttru	Tuco	Xlae	Xtro
+HG_83184 	Ebro	Lpol	OG00
+HG_1938 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anan	Anas	Anja	Aque	Arub	Asin	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cele	Cfra	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Dapu	Dcar	Dcor	Deco	Dgal	Dgyr	Dmag	Dpol	Dpul	Drer	Dste	Eaff	Eand	Ebro	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hali	Hame	Hazt	Hexe	Hhan	Hhol	Hman	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pcro	Pdav	Pech	Pesc	Pmag	Pmeg	Pmod	Ppac	Ppel	Ppol	Pred	Psam	Psin	Pwal	Rbiv	Rhab	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smar	Smed	Sorb	Spha	Spur	Tadh	Tcal	Tcar	Tgut	Tqin	Trub	Ttru	Tuco	Xlae	Xtro
+HG_25556 	Acal	Cqua	Dmel	Hazt	Hrub	Lpol	OG00	Pcau	Pchi	Pcla	Rvar	Tcas
+HG_7957 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Care	Cgig	Clup	Cmil	Cowc	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Dgyr	Dpol	Eand	Echl	Emac	Emue	Gaeg	Ggan	Gmag	Gser	Hhan	Hmia	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mlei	Mlig	Mmer	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmeg	Ppel	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smed	Spha	Spur	Tadh	Tcar	Ttru	Xlae	Xtro
+HG_12786 	Acal	Amis	Anja	Caug	Cint	Cmil	Cpic	Cpor	Cser	Ebro	Gmae	Hhan	Hrob	Lgig	Lluy	Lpol	Mcor	Mdom	OG00	Olat	Onil	Pmod	Psam	Pwal	Rsoc	Rvar	Skow	Sorb
+HG_16032 	Caug	Cfra	Cqua	Dapu	Dgal	Dmel	Eaff	Gaeg	Hame	Hazt	Hmia	Lana	Llon	Lpol	OG00	Paus	Pchi	Pcla	Rimm	Tcal	Tqin	Znev
+HG_53340 	Caug	Ebro	Gmae	Lpol	OG00	Rimm
+HG_83230 	Ebro	Lpol	OG00
+HG_8873 	Aequ	Ajap	Amis	Anja	Aque	Arub	Asin	Bbom	Bbuf	Blan	Bner	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Deco	Dpol	Drer	Eand	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Mvul	Myes	Npar	OG00	Oana	Olat	Onil	Pann	Paus	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rtem	Sbom	Skow	Sorb	Spur	Tcar	Trub	Ttru	Xlae	Xtro
+HG_57155 	Lpol	Mlig	OG00
+HG_17135 	Acal	Aful	Bgla	Cgig	Ctel	Cuni	Dgyr	Echl	Gaeg	Hhan	Hrub	Lpol	Mcor	Myes	OG00	Obim	Oida	Pesc	Spha
+HG_18151 	Hame	Hvul	Lpol	Mvul	Nvec	OG00	Pmod	Ppel	Rimm
+HG_35819 	Aque	Cmil	Drer	Eaff	Ebro	Lpol	Muni	OG00	Rimm
+HG_41199 	Caug	Eaff	Lpol	OG00
+HG_66966 	Ebro	Lpol	OG00	Rimm	Znev
+HG_68388 	Hhol	Lpol	OG00
+HG_28263 	Cqua	Hame	Hazt	Lpol	OG00	Pchi	Pcla	Ppol
+HG_26431 	Ctel	Eaff	Echl	Hhan	Hvul	Lpol	OG00	Tqin
+HG_23004 	Aque	Lpol	OG00
+HG_8078 	Aric	Bcal	Dcar	Dpol	Eand	Gaeg	Gmag	Hhan	Hman	Hmed	Hrob	Hrub	Lana	Lluy	Lpol	Mcal	Mmer	Mvul	OG00	Pech	Pesc	Psam	Rota	Skow
+HG_22926 	Anan	Blan	Cele	Dcor	Eaff	Hali	Lpol	Mcal	OG00	Pdav	Pred	Psam	Rhab
+HG_15885 	Aequ	Cqua	Dste	Hame	Hazt	Lpol	OG00	Pchi	Pcla	Ppol	Tqin	Tuco
+HG_85690 	Hhol	Lpol	OG00
+HG_83079 	Ebro	Lpol	OG00
+HG_6159 	Acal	Aful	Ajap	Anja	Aque	Arub	Bgla	Blan	Caug	Cqua	Cuni	Dgyr	Eand	Ebro	Echl	Emue	Gaeg	Gmag	Hame	Hexe	Hhan	Hmia	Hrub	Iele	Lana	Lgig	Llon	Lpol	Mcor	Mvul	OG00	Oida	Pchi	Pcla	Pesc	Ppel	Rimm	Skow	Smar	Spur	Tqin
+HG_67841 	Hame	Hhan	Lpol	OG00	Ppol
+HG_7977 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cser	Ctel	Ctig	Cuni	Dcar	Dgyr	Dpol	Drer	Eand	Ebro	Echl	Emac	Gaeg	Ggal	Gmag	Gser	Hhan	Hmia	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Rbiv	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Sorb	Spha	Spur	Tadh	Tcar	Tgut	Trub	Ttru	Tuco	Xlae	Xtro
+HG_15216 	Anja	Aric	Aste	Bcal	Dcar	Hhan	Hman	Lpol	OG00	Pech	Rota	Rsoc	Rsor
+HG_111036 	Dpul	Lpol	OG01
+HG_6706 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hame	Hhan	Hman	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Pann	Paus	Pcro	Pech	Pesc	Pmeg	Ppel	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smed	Spha	Spur	Tadh	Tcal	Tcar	Tgut	Ttru	Tuco	Xlae	Xtro
+HG_9648 	Aequ	Ajap	Amis	Anja	Arub	Asin	Bbom	Bbuf	Bner	Care	Cgig	Cint	Clup	Cmyd	Cpic	Cser	Ctig	Deco	Emac	Emue	Gaeg	Ggan	Gmag	Gser	Hhan	Hrub	Hsap	Hvul	Lana	Leri	Lgig	Lluy	Lpol	Mcal	Mdom	Muni	Myes	Npar	Nvec	OG00	Oana	Obim	Pann	Paus	Pcau	Pech	Pesc	Pmeg	Ppel	Pwal	Rbiv	Rtem	Sbom	Skow	Spur	Ttru	Tuco	Xlae	Xtro
+HG_1644 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hexe	Hhan	Hman	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smar	Smed	Sorb	Spha	Spur	Tadh	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Tuco	Xlae	Xtro
+HG_30471 	Caug	Cint	Cqua	Eaff	Lpol	Mcal	OG00	Pchi	Pcla
+HG_52883 	Bbom	Lpol	OG00	Obim	Rtem
+HG_7663 	Acal	Aequ	Ajap	Anja	Aque	Arub	Bcal	Bgla	Blan	Bner	Bpec	Cfra	Cgig	Cmil	Cpla	Ctel	Dapu	Dgal	Dmag	Dpol	Dpul	Drer	Eaff	Ebur	Echl	Emue	Gaeg	Gmag	Hame	Hhan	Hmia	Hrub	Lana	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mmer	Myes	Nvec	OG00	Obim	Olat	Onil	Paus	Pcau	Pchi	Pcla	Pcro	Pech	Pesc	Pmag	Pmod	Ppel	Ppol	Psam	Rota	Rsoc	Rsor	Skow	Sorb	Spha	Spur	Tadh	Tcal	Tqin	Trub	Tuco
+HG_122988 	Lpol	OG01	Pesc
+HG_85654 	Hhol	Lpol	OG00
+HG_44513 	Aful	Cuni	Lpol	OG00	Oida
+HG_7405 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Bner	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dmel	Dpol	Drer	Eaff	Eand	Ebro	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hman	Hmia	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlig	Mmer	Muni	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smed	Sorb	Spha	Spur	Tadh	Tcar	Trub	Ttru	Tuco	Xlae	Xtro	Znev
+HG_9463 	Acar	Aequ	Ajap	Amis	Anja	Aque	Arub	Asin	Blan	Care	Caug	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cser	Ctig	Dcar	Deco	Eand	Emac	Hexe	Hsap	Lana	Lcha	Leri	Llon	Lluy	Lpol	Mdom	Mvul	Nvec	OG00	Oana	Paus	Pcau	Pech	Pesc	Pmeg	Psin	Rimm	Rvar	Skow	Spur	Tcar	Tqin	Ttru	Tuco
+HG_60617 	Anan	Lpol	Mvul	OG00
+HG_8098 	Acal	Acar	Aequ	Aful	Amis	Anja	Aque	Arub	Asin	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cfra	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Deco	Dgyr	Dpol	Drer	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hhol	Hman	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Pesc	Pmag	Pmeg	Pmod	Psin	Pwal	Rbiv	Rimm	Rtem	Saro	Sbom	Skow	Smed	Sorb	Tadh	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_6804 	Acar	Amis	Anan	Aric	Asin	Aste	Bbom	Bbuf	Bcal	Blan	Care	Cele	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Dcar	Dcor	Deco	Dste	Eaff	Emac	Ggal	Ggan	Gmae	Gser	Hali	Hhan	Hsap	Hvul	Lcha	Leri	Lpol	Mdom	Mlig	Muni	Npar	OG00	Oana	Pann	Pdav	Pmeg	Ppac	Pred	Psam	Psin	Rbiv	Rhab	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Tcar	Ttru	Xlae	Xtro	Znev
+HG_123055 	Lpol	OG01	Rimm
+HG_66464 	Dste	Hazt	Lpol	OG00
+HG_3495 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anan	Anas	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cele	Cfra	Cgig	Clup	Cmil	Cmyd	Cowc	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Dapu	Dcar	Dcor	Deco	Dgal	Dgyr	Dmag	Dpol	Dpul	Drer	Eaff	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Gmag	Gser	Hame	Hazt	Hexe	Hhan	Hman	Hmed	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Paus	Pcau	Pchi	Pcla	Pcro	Pdav	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psam	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Sorb	Spha	Spur	Tadh	Tcal	Tcar	Tgut	Tqin	Trub	Ttru	Tuco	Xlae	Xtro
+HG_78987 	Cowc	Lana	Lpol	OG00
+HG_41668 	Ctel	Gmag	Hhol	Lpol	OG00	Obim	Tcal
+HG_194 	Acal	Acar	Aequ	Ajap	Anja	Aque	Arub	Bbom	Bbuf	Bcal	Blan	Bpec	Caug	Cgig	Cmyd	Cser	Ctig	Dapu	Dcar	Deco	Dgal	Dmag	Dpol	Dpul	Drer	Eaff	Emue	Gaeg	Gmag	Gser	Hame	Hhan	Hrub	Lana	Lcha	Leri	Lgig	Lpol	Mcal	Mlei	Mmer	Nstr	Nvec	OG00	Pann	Pcau	Pcro	Pdav	Pesc	Pmag	Pmod	Ppac	Ppel	Pred	Psam	Pwal	Rbiv	Rtem	Sbom	Skow	Smar	Spur	Tcal	Tcas	Tqin	Xlae	Xtro
+HG_9297 	Aequ	Aful	Ajap	Anja	Aque	Aric	Arub	Aste	Bgla	Blan	Cgig	Ctel	Cuni	Dcar	Dgyr	Eand	Ebro	Echl	Gaeg	Gmag	Hhan	Hhol	Hrub	Lana	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mlig	Mmer	Mvul	Myes	Nvec	OG00	Oida	Paus	Pcau	Pcro	Pech	Pesc	Ppel	Rota	Rsoc	Rsor	Skow	Smed	Spur	Tuco
+HG_8196 	Acal	Acar	Aequ	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Echl	Emac	Emue	Gaeg	Ggan	Gmag	Gser	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmeg	Ppel	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smed	Spha	Spur	Tadh	Tcar	Ttru	Xlae	Xtro
+HG_39796 	Anas	Dpul	Dste	Lpol	OG00	Rimm
+HG_37418 	Dapu	Dgal	Dmag	Dpul	Lpol	OG00
+HG_6638 	Acal	Acar	Aequ	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Gmag	Gser	Hexe	Hhan	Hman	Hmia	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Onil	Pann	Paus	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smed	Sorb	Spha	Spur	Tadh	Tcar	Tcas	Ttru	Tuco	Xlae	Xtro
+HG_33793 	Dgyr	Llon	Lluy	Lpol	Mvul	OG00	Obim	Ppel	Spha
+HG_1664 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anan	Anja	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cele	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Ebur	Echl	Emac	Gaeg	Ggal	Ggan	Gmag	Gser	Hali	Hhan	Hhol	Hman	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Pred	Psam	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Sbom	Skow	Smar	Smed	Sorb	Spha	Spur	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_5537 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hexe	Hhan	Hman	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smar	Smed	Sorb	Spha	Spur	Tadh	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Xlae	Xtro
+HG_7466 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Deco	Dgyr	Dpol	Drer	Ebur	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hmia	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smed	Spha	Spur	Tadh	Tgut	Trub	Ttru	Tuco	Xlae	Xtro
+HG_12484 	Aful	Amis	Aric	Aste	Cmil	Dcar	Gmag	Hhan	Hman	Lcha	Lgig	Lluy	Lpol	OG00	Obim	Pcau	Pchi	Pmag	Psam	Pwal	Rota	Rsoc	Rsor	Smar	Sorb	Tcar	Tcas	Tuco	Znev
+HG_123016 	Lpol	Nstr	OG01
+HG_6277 	Aequ	Blan	Caug	Cowc	Gmae	Hvul	Iele	Lana	Lpol	Mcal	Mmer	OG00	Paus	Skow	Tadh	Tcal	Tqin
+HG_110127 	Dmag	Lpol	OG01
+HG_11924 	Bbom	Lpol	Mlig	Muni	Nvec	OG00	Pwal	Rbiv	Sbom	Xlae	Xtro
+HG_56078 	Gmae	Lpol	OG00	Rimm	Smar
+HG_54310 	Ctel	Lpol	Mmer	OG00	Tuco
+HG_81939 	Dpul	Lpol	OG00
+HG_7152 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Deco	Dgyr	Dpol	Drer	Eaff	Eand	Ebro	Ebur	Echl	Emac	Gaeg	Ggal	Ggan	Gser	Hame	Hhan	Hhol	Hman	Hmed	Hrob	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psam	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smar	Sorb	Spur	Tadh	Tcal	Tcar	Tgut	Trub	Ttru	Tuco	Xlae	Xtro	Znev
+HG_9983 	Aequ	Anan	Aque	Aric	Aste	Bner	Cele	Ctel	Dcar	Dcor	Dgyr	Eaff	Eand	Emue	Hali	Hmia	Hrob	Hvul	Lana	Lluy	Lpol	Mlig	Mmer	Mvul	Nvec	OG00	Paus	Pesc	Ppac	Pred	Psam	Rhab	Rota	Rsoc	Rsor	Smed	Tcal
+HG_115299 	Gmae	Lpol	OG01
+HG_8794 	Aque	Aste	Cfra	Cgig	Cqua	Dcar	Dpol	Dste	Eaff	Emue	Gaeg	Gmag	Hame	Hazt	Hrub	Hvul	Lana	Lgig	Lpol	Mcal	Mcor	Mlei	Mmer	Myes	OG00	Paus	Pchi	Pcla	Ppel	Ppol	Psam	Rota	Rsoc	Rsor	Tcal
+HG_19941 	Aque	Dpul	Lpol	OG00	Rota	Rsor
+HG_1416 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cele	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Ebur	Echl	Emac	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hhol	Hman	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nstr	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppac	Ppel	Psam	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smar	Smed	Sorb	Spha	Spur	Tcar	Tgut	Trub	Ttru	Tuco	Xlae	Xtro
+HG_5418 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Arub	Asin	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Deco	Dpol	Drer	Eaff	Eand	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hame	Hhan	Hhol	Hman	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pech	Pesc	Pmag	Pmeg	Pmod	Psin	Pwal	Rbiv	Rtem	Sbom	Skow	Smar	Sorb	Spha	Spur	Tcal	Tcar	Tgut	Trub	Ttru	Xlae	Xtro	Znev
+HG_23522 	Dapu	Dpul	Lpol	OG00
+HG_15329 	Ctel	Dpol	Lana	Lpol	Mcal	Mmer	OG00
+HG_55413 	Dste	Llon	Lpol	Mvul	OG00	Obim
+HG_12922 	Hrob	Lpol	OG00
+HG_15296 	Bner	Eaff	Echl	Lluy	Lpol	OG00	Oida	Ppol
+HG_7740 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Arub	Asin	Bbom	Bbuf	Bcal	Bgla	Blan	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Deco	Dgyr	Dpol	Drer	Dste	Eaff	Eand	Ebur	Echl	Emac	Gaeg	Ggal	Ggan	Gmae	Gmag	Gser	Hazt	Hhan	Hman	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rimm	Rtem	Sbom	Skow	Sorb	Spha	Spur	Tcar	Tgut	Trub	Ttru	Tuco	Xlae	Xtro
+HG_51652 	Anas	Lpol	OG00
+HG_83953 	Gmae	Lpol	OG00	Tuco
+HG_3521 	Acal	Aful	Ajap	Anja	Aric	Arub	Aste	Bcal	Bgla	Blan	Caug	Cfra	Cgig	Ctel	Cuni	Dcar	Dgyr	Dpol	Dste	Eaff	Eand	Echl	Gaeg	Gmag	Hexe	Hhan	Hman	Hmed	Hrob	Hrub	Lana	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mmer	Mvul	Myes	Nstr	OG00	Obim	Oida	Pcro	Pech	Pesc	Ppel	Ppol	Rota	Rsor	Rvar	Skow	Smed	Spha	Spur	Tcal	Tuco
+HG_13190 	Ajap	Aque	Arub	Blan	Llon	Lpol	Mcal	OG00	Spur
+HG_110274 	Dmel	Lpol	OG01
+HG_68406 	Hhol	Lpol	OG00	Tcar
+HG_6117 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hman	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smed	Sorb	Spha	Spur	Tadh	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Xlae	Xtro
+HG_66477 	Dste	Lpol	OG00	Rimm
+HG_8392 	Acal	Aequ	Aful	Ajap	Anas	Anja	Arub	Asin	Bbom	Bbuf	Bgla	Blan	Care	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Deco	Dpol	Drer	Echl	Emac	Gaeg	Ggal	Ggan	Gmag	Gser	Hame	Hazt	Hexe	Hmia	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Myes	Npar	OG00	Oana	Obim	Olat	Onil	Pann	Paus	Pcau	Pchi	Pech	Pesc	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rtem	Rvar	Saro	Sbom	Skow	Sorb	Spha	Spur	Tadh	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_20285 	Cqua	Dapu	Dgal	Dmag	Dpul	Eaff	Gmae	Hhol	Lpol	OG00	Pchi	Pcla	Tcal
+HG_12220 	Caug	Cqua	Dapu	Dgal	Dmag	Dmel	Dpul	Dste	Eaff	Gmae	Hame	Hazt	Hexe	Hhol	Iele	Lpol	OG00	Pcau	Pchi	Pcla	Ppol	Rimm	Rvar	Smar	Tcal	Tcas	Tqin	Znev
+HG_22983 	Anja	Arub	Gmag	Hrub	Lpol	Myes	OG00
+HG_28230 	Cgig	Dpol	Gmae	Gmag	Lpol	Mcal	Mmer	Myes	Nstr	OG00	Paus
+HG_7398 	Acal	Acar	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bgla	Blan	Bner	Care	Cfra	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggan	Gmag	Gser	Hhan	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmeg	Ppel	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smed	Spur	Tadh	Tcar	Ttru	Xlae	Xtro
+HG_3443 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Arub	Asin	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Deco	Dgyr	Dpol	Drer	Eaff	Ebro	Ebur	Echl	Emac	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hhol	Hman	Hmia	Hrob	Hrub	Hsap	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Olat	Onil	Pann	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rtem	Saro	Sbom	Skow	Spha	Tadh	Tcal	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Xlae	Xtro	Znev
+HG_10137 	Acar	Aequ	Ajap	Amis	Anja	Arub	Asin	Bbom	Blan	Bpec	Care	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Deco	Drer	Eaff	Ebur	Ggan	Hame	Hsap	Lana	Lcha	Leri	Llon	Lpol	Mdom	Mlei	Npar	Nvec	OG00	Olat	Onil	Pann	Pchi	Pcro	Pmag	Pmeg	Pmod	Pwal	Rbiv	Rtem	Sorb	Spur	Tcar	Trub	Ttru	Xlae	Xtro
+HG_2383 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anas	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bgla	Blan	Bner	Bpec	Care	Cfra	Cgig	Cint	Clup	Cmil	Cmyd	Cowc	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Dapu	Dcar	Deco	Dgal	Dgyr	Dmag	Dpol	Dpul	Drer	Dste	Eaff	Eand	Ebro	Echl	Emac	Gaeg	Ggal	Ggan	Gmae	Gmag	Gser	Hame	Hexe	Hhan	Hhol	Hrub	Hsap	Hvul	Lana	Lcha	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nstr	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smar	Smed	Sorb	Spur	Tcal	Tcar	Tgut	Tqin	Trub	Ttru	Tuco	Xlae	Xtro
+HG_57158 	Lpol	OG00	Rimm
+HG_8320 	Acal	Acar	Aequ	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Cgig	Cint	Clup	Cmil	Cpla	Ctig	Deco	Dpol	Drer	Dste	Ebro	Ebur	Echl	Emac	Gaeg	Gmag	Gser	Hhan	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Llon	Lpol	Mcal	Mcor	Mdom	Mlei	Mmer	Muni	Myes	Npar	Nvec	OG00	Oana	Obim	Olat	Onil	Pann	Pesc	Pmag	Pmeg	Pmod	Ppel	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Sbom	Skow	Sorb	Spha	Spur	Tcal	Tcar	Tgut	Trub	Ttru	Tuco	Xlae	Xtro
+HG_103665 	Caug	Lpol	OG01
+HG_15939 	Anas	Blan	Bner	Cqua	Dapu	Dgal	Dmag	Dmel	Dpul	Dste	Eaff	Hame	Hazt	Iele	Lpol	OG00	Pcau	Pchi	Pcla	Ppol	Rimm	Tcas	Znev
+HG_47556 	Dmag	Dpul	Dste	Gmae	Lpol	OG00	Pcla
+HG_81268 	Dmag	Ebro	Lpol	OG00
+HG_30648 	Cqua	Dapu	Dgal	Dmag	Dpul	Lpol	OG00
+HG_9296 	Aequ	Ajap	Amis	Anas	Anja	Aque	Arub	Asin	Bbom	Bbuf	Blan	Bpec	Care	Cint	Cmyd	Cpic	Cpla	Cpor	Cqua	Ctig	Dapu	Deco	Dgal	Dmag	Dpul	Drer	Dste	Ebur	Emac	Emue	Ggan	Gser	Hame	Hazt	Hhol	Lana	Lcha	Llon	Lpol	Muni	Npar	OG00	Olat	Onil	Paus	Pchi	Pcla	Pmag	Pmeg	Pmod	Ppol	Pwal	Rbiv	Rimm	Rtem	Sbom	Skow	Smar	Sorb	Spur	Tcar	Tqin	Trub	Xlae	Xtro	Znev
+HG_74050 	Ajap	Aste	Lpol	OG00
+HG_3994 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anas	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Dapu	Dcar	Deco	Dgal	Dgyr	Dmag	Dmel	Dpol	Dpul	Drer	Dste	Eand	Ebro	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmae	Gmag	Gser	Hame	Hazt	Hexe	Hhan	Hhol	Hman	Hmia	Hrob	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nstr	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smar	Smed	Sorb	Spha	Spur	Tadh	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Tuco	Xlae	Xtro	Znev
+HG_8283 	Acal	Acar	Aequ	Amis	Asin	Aste	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Cgig	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctig	Dcar	Deco	Dpol	Drer	Ebur	Echl	Emac	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hrub	Hsap	Lana	Lcha	Leri	Lgig	Lpol	Mcal	Mdom	Mmer	Muni	Myes	Npar	Nvec	OG00	Oana	Obim	Olat	Onil	Pann	Pcau	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Sbom	Skow	Sorb	Spha	Tcar	Tgut	Trub	Ttru	Tuco	Xlae	Xtro
+HG_57153 	Lpol	Nstr	OG00
+HG_44898 	Anas	Bpec	Ebro	Hhol	Lpol	OG00
+HG_87389 	Lpol	OG00	Ppol
+HG_46384 	Caug	Ebro	Hali	Hrob	Lluy	Lpol	OG00
+HG_31951 	Aequ	Lana	Lpol	OG00
+HG_111775 	Dste	Lpol	OG01
+HG_5319 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Dapu	Dcar	Deco	Dgal	Dgyr	Dmag	Dmel	Dpol	Dpul	Drer	Dste	Eaff	Eand	Ebro	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hame	Hazt	Hexe	Hhan	Hman	Hmia	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smed	Sorb	Spha	Spur	Tadh	Tcal	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Tuco	Xlae	Xtro	Znev
+HG_19493 	Dapu	Dgal	Dmag	Dmel	Dpul	Dste	Ebro	Hame	Hazt	Iele	Lpol	OG00	Pchi	Pcla	Psam	Tcal	Tcas	Znev
+HG_7594 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cgig	Cint	Clup	Cmyd	Cpic	Cpla	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Ebur	Echl	Emac	Gaeg	Gmag	Gser	Hhan	Hman	Hmed	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smed	Sorb	Spha	Spur	Tcar	Trub	Ttru	Xlae	Xtro
+HG_35830 	Aque	Lluy	Lpol	OG00	Rimm
+HG_485 	Aric	Aste	Bcal	Cint	Dcar	Lana	Lpol	Mcal	OG00	Pdav	Pesc	Rota	Rsoc	Rsor	Saro	Skow
+HG_9177 	Acal	Aequ	Ajap	Anas	Anja	Aque	Arub	Bcal	Bgla	Blan	Bner	Bpec	Cfra	Cgig	Cint	Cmil	Cpla	Cqua	Ctel	Dapu	Dgal	Dmag	Dpol	Drer	Dste	Ebro	Ebur	Echl	Emue	Gaeg	Hame	Hazt	Hhan	Hrub	Lana	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mlig	Mmer	Mvul	Nvec	OG00	Obim	Olat	Pann	Paus	Pcau	Pchi	Pcla	Pech	Pesc	Pmod	Ppel	Ppol	Rota	Rsoc	Rsor	Saro	Sorb	Spur	Tqin	Trub	Tuco
+HG_62703 	Blan	Cowc	Dgyr	Lpol	OG00
+HG_55526 	Eaff	Gmae	Lpol	OG00
+HG_2557 	Acar	Amis	Anan	Aric	Asin	Aste	Cmil	Cmyd	Cpic	Cpla	Cser	Ctig	Dapu	Dcar	Dcor	Deco	Dgal	Dmag	Dpul	Drer	Emac	Gmag	Hexe	Hrub	Lana	Lcha	Leri	Lpol	Mcal	OG00	Olat	Pann	Pdav	Pmeg	Psam	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Trub
+HG_27514 	Anan	Cele	Dcor	Dste	Hali	Lpol	OG00	Ppac	Psam
+HG_16914 	Caug	Cmil	Cuni	Echl	Gmae	Gmag	Gser	Hhan	Lgig	Llon	Lpol	Nvec	OG00	Obim	Pcau	Pech	Ppel	Ppol	Tuco
+HG_1239 	Acal	Acar	Aequ	Aful	Amis	Aque	Aric	Asin	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Cfra	Cgig	Clup	Cmyd	Cowc	Cpic	Cpor	Cser	Ctel	Ctig	Cuni	Dapu	Deco	Dgal	Dmag	Dmel	Dpol	Dpul	Drer	Dste	Ebro	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hexe	Hhan	Hrub	Hsap	Iele	Lana	Lcha	Lgig	Llon	Lpol	Mcal	Mcor	Mdom	Mlei	Mmer	Muni	Myes	Npar	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Pcau	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smed	Sorb	Spha	Tcar	Tcas	Tgut	Tqin	Trub	Ttru	Xlae	Xtro	Znev
+HG_18641 	Caug	Lpol	OG00	Pesc
+HG_13213 	Aque	Ebro	Emac	Emue	Hrob	Hvul	Lpol	OG00
+HG_41994 	Dgal	Dpul	Gmag	Lana	Lpol	OG00
+HG_37352 	Cuni	Ebro	Echl	Lpol	Mmer	OG00	Oida	Smar
+HG_5490 	Acal	Acar	Aequ	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Cele	Cgig	Cint	Clup	Cmil	Cmyd	Cowc	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Dcor	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hman	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nstr	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Ppac	Ppel	Psam	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Smed	Sorb	Spha	Spur	Tcar	Tgut	Ttru	Tuco	Xlae	Xtro
+HG_25736 	Anan	Cele	Dcor	Hali	Lpol	OG00	Pdav	Pred	Psam	Rhab
+HG_66467 	Dste	Lpol	OG00
+HG_32334 	Anas	Cqua	Ebro	Gmae	Hazt	Lpol	OG00	Psam	Znev
+HG_12315 	Aful	Bgla	Cuni	Lpol	OG00	Oida
+HG_6704 	Acal	Acar	Aequ	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bgla	Blan	Bpec	Care	Cfra	Cgig	Clup	Cmil	Cmyd	Cowc	Cpic	Cpla	Cpor	Cqua	Cser	Ctel	Ctig	Cuni	Deco	Dmel	Dpol	Drer	Dste	Eaff	Eand	Ebur	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmae	Gmag	Gser	Hame	Hhan	Hhol	Hman	Hmed	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pchi	Pcla	Pcro	Pech	Pesc	Pmag	Pmeg	Pmod	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Sorb	Spur	Tadh	Tcar	Tgut	Trub	Ttru	Tuco	Xlae	Xtro	Znev
+HG_25854 	Anas	Cqua	Ebro	Hame	Hazt	Lpol	OG00	Pchi	Pcla	Pesc
+HG_19452 	Cqua	Eand	Hame	Hazt	Hexe	Lana	Llon	Lluy	Lpol	Mvul	OG00	Obim	Pchi	Pcla	Pesc	Rvar	Tcal
+HG_4279 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dcar	Deco	Dgyr	Dpol	Drer	Eand	Ebro	Echl	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hexe	Hhan	Hman	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Obim	Oida	Olat	Onil	Pann	Paus	Pcau	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Psin	Pwal	Rbiv	Rimm	Rota	Rsoc	Rsor	Rtem	Rvar	Saro	Sbom	Skow	Smar	Smed	Sorb	Spha	Spur	Tadh	Tcar	Tgut	Trub	Ttru	Xlae	Xtro
+HG_420 	Acal	Acar	Aequ	Aful	Ajap	Amis	Anja	Arub	Asin	Bbom	Bbuf	Bcal	Bgla	Blan	Bner	Bpec	Care	Caug	Cfra	Cgig	Cint	Clup	Cmil	Cmyd	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Cuni	Dapu	Dcar	Deco	Dgal	Dgyr	Dmag	Dpol	Dpul	Drer	Eaff	Eand	Ebro	Ebur	Echl	Emac	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hman	Hmed	Hrob	Hrub	Hsap	Hvul	Iele	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Obim	Oida	Olat	Onil	Pann	Paus	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Ppol	Pwal	Rbiv	Rsoc	Rtem	Saro	Sbom	Skow	Sorb	Spur	Tcal	Tcar	Tgut	Tqin	Trub	Ttru	Tuco	Xlae	Xtro
+HG_8504 	Acal	Aequ	Aful	Ajap	Anan	Anas	Anja	Arub	Bgla	Blan	Bner	Cgig	Cint	Ctel	Cuni	Dgyr	Dpol	Echl	Gaeg	Gmae	Gmag	Hali	Hame	Hhan	Hman	Hrub	Lana	Llon	Lluy	Lpol	Mcal	Mlig	Mmer	Myes	Nstr	OG00	Obim	Oida	Paus	Pcau	Pchi	Pcla	Pcro	Pdav	Pech	Pesc	Pmeg	Ppol	Psam	Saro	Skow	Spha	Spur	Tadh	Tuco
+HG_16025 	Bner	Caug	Cint	Eand	Gmae	Hman	Hmed	Lpol	Mlig	Mvul	OG00	Pcro	Ppol	Smed	Tcas
+HG_53333 	Caug	Ctel	Gmae	Lpol	OG00	Skow
+HG_470 	Acar	Aequ	Amis	Anja	Aque	Aric	Arub	Asin	Aste	Bbom	Bbuf	Bcal	Blan	Bner	Care	Cgig	Cint	Clup	Cmil	Cmyd	Cowc	Cpic	Cpla	Cpor	Cser	Ctel	Ctig	Dapu	Dcar	Deco	Dgal	Dgyr	Dmag	Dpol	Dpul	Drer	Eand	Ebur	Emac	Emue	Gaeg	Ggal	Ggan	Gmag	Gser	Hhan	Hman	Hmed	Hmia	Hrob	Hrub	Hsap	Hvul	Lana	Lcha	Leri	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mdom	Mlei	Mlig	Mmer	Muni	Mvul	Myes	Npar	Nvec	OG00	Oana	Olat	Onil	Pann	Paus	Pech	Pesc	Pmag	Pmeg	Pmod	Ppel	Psin	Pwal	Rbiv	Rota	Rsoc	Rsor	Rtem	Saro	Sbom	Skow	Sorb	Tcar	Tgut	Trub	Ttru	Tuco	Xlae	Xtro
+HG_57148 	Lpol	OG00	Ppol
+HG_16248 	Acal	Aful	Bgla	Eand	Echl	Gaeg	Hazt	Hman	Hrob	Lgig	Lluy	Lpol	Mmer	Mvul	OG00	Oida	Paus	Pcau	Pchi	Pcla	Pech	Ppel
+HG_48139 	Echl	Gmag	Hhan	Lgig	Lpol	OG00
+HG_42787 	Hhan	Lpol	OG00
+HG_12005 	Aequ	Anja	Aric	Arub	Aste	Blan	Cowc	Dcar	Dgyr	Dpol	Eaff	Gaeg	Gmag	Hame	Hexe	Hhan	Hrub	Lana	Lgig	Lpol	Mlig	Mmer	Myes	Nvec	OG00	Obim	Paus	Pcau	Pchi	Pesc	Ppel	Ppol	Rsoc	Saro	Skow	Spur	Tuco
+HG_9568 	Lpol	OG00	Pdav
+HG_12638 	Acal	Aful	Bgla	Ctel	Cuni	Dpol	Eand	Echl	Gaeg	Gmae	Gmag	Hhan	Hhol	Hrub	Lgig	Llon	Lluy	Lpol	Mcal	Mcor	Mmer	Mvul	Myes	OG00	Obim	Oida	Paus	Ppel	Rimm	Spha
+HG_63955 	Cqua	Hhol	Lpol	OG00
+HG_26301 	Caug	Cgig	Dste	Hame	Lpol	OG00	Obim	Smar	Smed
