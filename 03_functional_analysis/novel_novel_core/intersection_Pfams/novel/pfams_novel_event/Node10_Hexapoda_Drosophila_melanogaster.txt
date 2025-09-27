@@ -1,0 +1,14 @@
+Lig_chan
+Lig_chan-Glu_bd
+Trypsin
+Cuticle_3
+BTB
+FLYWCH
+zf-C2H2
+zf-AD
+SNAPc_SNAP43
+RRM_1
+Avidin
+ALMS_motif
+zf-LITAF-like
+7tm_7
